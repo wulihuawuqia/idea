@@ -14,6 +14,10 @@
           <option name="url" value="http://gitlab.ustock.cc:5253" />
           <option name="userName" value="wuqia" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@gitlab.ustock.cc:5153/wuqia/webull-trade-assets.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects/webull" />
