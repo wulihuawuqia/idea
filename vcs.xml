@@ -18,6 +18,18 @@
           <option name="url" value="ssh://git@gitlab.ustock.cc:5153/wuqia/webull-trade-assets.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@gitlab.ustock.cc:5153/core/webull-trade-account.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@gitlab.ustock.cc:5153/core/webull-trade-order.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@gitlab.ustock.cc:5153/core/webull-trade-app.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects/webull" />
