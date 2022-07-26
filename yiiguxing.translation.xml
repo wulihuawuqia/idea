@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="2364" />
     <option name="newTranslationDialogY" value="225" />
     <histories>
+      <item value="Order Multi Leg" />
+      <item value="fill Mleg Order" />
       <item value="Position" />
       <item value="Fin Account Position Type" />
       <item value="attach Closing Price" />
@@ -38,8 +40,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="34" />
-        <entry key="ENGLISH" value="35" />
+        <entry key="CHINESE" value="36" />
+        <entry key="ENGLISH" value="37" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
