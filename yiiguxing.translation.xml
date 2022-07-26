@@ -1,0 +1,29 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogX" value="2364" />
+    <option name="newTranslationDialogY" value="225" />
+    <histories>
+      <item value="dealer" />
+      <item value="dealer Id" />
+      <item value="prometheus" />
+      <item value="INVOKE" />
+      <item value="alarm" />
+      <item value="canary" />
+      <item value="canary V" />
+      <item value="anary" />
+      <item value="Dealer" />
+      <item value="Redirect" />
+      <item value="Asset" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="10" />
+        <entry key="ENGLISH" value="11" />
+        <entry key="HINDI" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1658818961627" />
+  </component>
+</application>
