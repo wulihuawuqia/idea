@@ -1,8 +1,17 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogX" value="2364" />
-    <option name="newTranslationDialogY" value="225" />
+    <option name="newTranslationDialogX" value="671" />
+    <option name="newTranslationDialogY" value="203" />
     <histories>
+      <item value="restrict Date" />
+      <item value="restrictDate" />
+      <item value="restrictDt" />
+      <item value="restrict" />
+      <item value="restri" />
+      <item value="restric" />
+      <item value="NORMAL" />
+      <item value="FROZEN" />
+      <item value="dealer" />
       <item value="rollday" />
       <item value="Margin Excess" />
       <item value="MarginExcess" />
@@ -31,7 +40,6 @@
       <item value="adjust Margin Acct From Db" />
       <item value="Counter" />
       <item value="Return the Child with the given labels, creating it if needed. Must be passed the same number of labels are were passed to labelNames." />
-      <item value="dealer" />
       <item value="dealer Id" />
       <item value="prometheus" />
       <item value="INVOKE" />
@@ -45,8 +53,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="51" />
-        <entry key="ENGLISH" value="47" />
+        <entry key="CHINESE" value="57" />
+        <entry key="ENGLISH" value="50" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
