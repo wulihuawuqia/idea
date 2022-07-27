@@ -3,58 +3,61 @@
     <option name="newTranslationDialogX" value="671" />
     <option name="newTranslationDialogY" value="203" />
     <histories>
+      <item value="cusip" />
+      <item value="exchange code" />
+      <item value="exchange_code" />
+      <item value="symbol" />
+      <item value="symbo" />
+      <item value="description" />
+      <item value="descri" />
+      <item value="desc" />
+      <item value="fee" />
+      <item value="buy fee" />
+      <item value="buy commission" />
+      <item value="bycommission" />
+      <item value="commission" />
+      <item value="average" />
+      <item value="ave" />
+      <item value="a" />
+      <item value="quantity" />
+      <item value="dirty" />
+      <item value="trade option" />
+      <item value="ΩΩoption" />
+      <item value="Ωoption" />
+      <item value="option" />
+      <item value="trade_option" />
+      <item value="broker&#10;" />
+      <item value="bro" />
+      <item value="enable order routerå" />
+      <item value="enable order router" />
+      <item value="enable_order_router" />
+      <item value="equity" />
+      <item value="equit" />
+      <item value="equity date" />
+      <item value="first equity date" />
+      <item value="first equity_date" />
+      <item value="first_equity_date" />
+      <item value="open position" />
+      <item value="open_position" />
+      <item value="sell short" />
+      <item value="sell_short" />
+      <item value="short" />
+      <item value="sell" />
+      <item value="se" />
+      <item value="senior" />
+      <item value="senior age " />
+      <item value="senior age" />
+      <item value="senior&#10;" />
+      <item value="activity" />
+      <item value="activty" />
       <item value="restrict Date" />
       <item value="restrictDate" />
       <item value="restrictDt" />
-      <item value="restrict" />
-      <item value="restri" />
-      <item value="restric" />
-      <item value="NORMAL" />
-      <item value="FROZEN" />
-      <item value="dealer" />
-      <item value="rollday" />
-      <item value="Margin Excess" />
-      <item value="MarginExcess" />
-      <item value="SettledFunds" />
-      <item value="long Positions" />
-      <item value="Position" />
-      <item value="Order Multi Leg" />
-      <item value="fill Mleg Order" />
-      <item value="Fin Account Position Type" />
-      <item value="attach Closing Price" />
-      <item value="quantity" />
-      <item value="multiply" />
-      <item value="UNIT" />
-      <item value="RIGHT" />
-      <item value="WARRANT" />
-      <item value="CRYPTO" />
-      <item value="OPTION" />
-      <item value="EQUITY" />
-      <item value="Ticker" />
-      <item value="Factor" />
-      <item value="Fin Account Amount Factor" />
-      <item value="rejection" />
-      <item value="adjust" />
-      <item value="djust" />
-      <item value="adjust Cash Acct From Db" />
-      <item value="adjust Margin Acct From Db" />
-      <item value="Counter" />
-      <item value="Return the Child with the given labels, creating it if needed. Must be passed the same number of labels are were passed to labelNames." />
-      <item value="dealer Id" />
-      <item value="prometheus" />
-      <item value="INVOKE" />
-      <item value="alarm" />
-      <item value="canary" />
-      <item value="canary V" />
-      <item value="anary" />
-      <item value="Dealer" />
-      <item value="Redirect" />
-      <item value="Asset" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="57" />
-        <entry key="ENGLISH" value="50" />
+        <entry key="CHINESE" value="81" />
+        <entry key="ENGLISH" value="65" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
