@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="2364" />
     <option name="newTranslationDialogY" value="225" />
     <histories>
+      <item value="rollday" />
+      <item value="Margin Excess" />
+      <item value="MarginExcess" />
+      <item value="SettledFunds" />
       <item value="long Positions" />
       <item value="Position" />
       <item value="Order Multi Leg" />
@@ -41,13 +45,17 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="38" />
-        <entry key="ENGLISH" value="39" />
+        <entry key="CHINESE" value="51" />
+        <entry key="ENGLISH" value="47" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
     <option name="lastTrimTime" value="1658818961627" />
+  </component>
+  <component name="Settings">
+    <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
+    <option name="translateDocumentation" value="true" />
   </component>
 </application>
