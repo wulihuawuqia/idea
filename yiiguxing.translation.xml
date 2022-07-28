@@ -1,8 +1,18 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogX" value="691" />
-    <option name="newTranslationDialogY" value="259" />
+    <option name="newTranslationDialogX" value="722" />
+    <option name="newTranslationDialogY" value="238" />
     <histories>
+      <item value="from " />
+      <item value="With" />
+      <item value="leg" />
+      <item value="mleg" />
+      <item value="拆分" />
+      <item value="拆" />
+      <item value="拆除" />
+      <item value="拆chu" />
+      <item value="c" />
+      <item value="cahi" />
       <item value="case" />
       <item value="considerations" />
       <item value="Covered" />
@@ -43,21 +53,11 @@
       <item value="enable order router" />
       <item value="enable_order_router" />
       <item value="equity" />
-      <item value="equit" />
-      <item value="equity date" />
-      <item value="first equity date" />
-      <item value="first equity_date" />
-      <item value="first_equity_date" />
-      <item value="open position" />
-      <item value="open_position" />
-      <item value="sell short" />
-      <item value="sell_short" />
-      <item value="short" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="85" />
-        <entry key="ENGLISH" value="69" />
+        <entry key="CHINESE" value="104" />
+        <entry key="ENGLISH" value="86" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
