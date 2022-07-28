@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="722" />
     <option name="newTranslationDialogY" value="238" />
     <histories>
+      <item value="adjust" />
+      <item value="adjust&#10;" />
+      <item value="ad" />
       <item value="from " />
       <item value="With" />
       <item value="leg" />
@@ -50,13 +53,10 @@
       <item value="broker&#10;" />
       <item value="bro" />
       <item value="enable order routerå" />
-      <item value="enable order router" />
-      <item value="enable_order_router" />
-      <item value="equity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="104" />
+        <entry key="CHINESE" value="105" />
         <entry key="ENGLISH" value="86" />
         <entry key="HINDI" value="1" />
       </map>
