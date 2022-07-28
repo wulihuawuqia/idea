@@ -73,6 +73,7 @@
                   <option value="com.intellij.modules.xml" />
                 </set>
               </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -90,6 +91,19 @@
         <entry key="com.itangcent.idea.plugin.easy-api">
           <value>
             <PluginData />
+          </value>
+        </entry>
+        <entry key="com.kn.diagrams.generator.generator">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.java" />
+                  <option value="com.intellij.modules.java" />
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
           </value>
         </entry>
         <entry key="com.squaretest.Squaretest">
