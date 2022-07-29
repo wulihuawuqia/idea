@@ -6,5 +6,10 @@
     <option name="secretKey" value="" />
     <option name="simpleFieldDoc" value="true" />
     <option name="token" value="" />
+    <option name="wordMap">
+      <map>
+        <entry key="position" value="持仓" />
+      </map>
+    </option>
   </component>
 </application>

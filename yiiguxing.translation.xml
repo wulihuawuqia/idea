@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="722" />
     <option name="newTranslationDialogY" value="238" />
     <histories>
+      <item value="过期" />
+      <item value="guo" />
       <item value="adjust" />
       <item value="adjust&#10;" />
       <item value="ad" />
@@ -51,13 +53,11 @@
       <item value="option" />
       <item value="trade_option" />
       <item value="broker&#10;" />
-      <item value="bro" />
-      <item value="enable order routerå" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="105" />
-        <entry key="ENGLISH" value="86" />
+        <entry key="CHINESE" value="110" />
+        <entry key="ENGLISH" value="91" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
