@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="722" />
     <option name="newTranslationDialogY" value="238" />
     <histories>
+      <item value="declare" />
       <item value="expired" />
       <item value="过期" />
       <item value="guo" />
@@ -52,12 +53,11 @@
       <item value="ΩΩoption" />
       <item value="Ωoption" />
       <item value="option" />
-      <item value="trade_option" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="110" />
-        <entry key="ENGLISH" value="92" />
+        <entry key="ENGLISH" value="93" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
