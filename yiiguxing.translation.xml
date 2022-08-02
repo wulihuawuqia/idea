@@ -1,8 +1,14 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogX" value="722" />
-    <option name="newTranslationDialogY" value="238" />
+    <option name="newTranslationDialogX" value="2715" />
+    <option name="newTranslationDialogY" value="115" />
     <histories>
+      <item value="判断" />
+      <item value="判定" />
+      <item value="p'dan" />
+      <item value="pand" />
+      <item value="juge" />
+      <item value="ju" />
       <item value="declare" />
       <item value="expired" />
       <item value="过期" />
@@ -47,17 +53,11 @@
       <item value="average" />
       <item value="ave" />
       <item value="a" />
-      <item value="quantity" />
-      <item value="dirty" />
-      <item value="trade option" />
-      <item value="ΩΩoption" />
-      <item value="Ωoption" />
-      <item value="option" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="110" />
-        <entry key="ENGLISH" value="93" />
+        <entry key="CHINESE" value="139" />
+        <entry key="ENGLISH" value="122" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
