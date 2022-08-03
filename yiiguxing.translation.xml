@@ -3,8 +3,15 @@
     <option name="newTranslationDialogX" value="2715" />
     <option name="newTranslationDialogY" value="115" />
     <histories>
-      <item value="mutexId" />
       <item value="spliter" />
+      <item value="supplier" />
+      <item value="supplier&#10;" />
+      <item value="supp" />
+      <item value="s" />
+      <item value="framwork" />
+      <item value="fram" />
+      <item value="fran" />
+      <item value="mutexId" />
       <item value="OTC交易" />
       <item value="quote" />
       <item value="quo" />
@@ -13,7 +20,6 @@
       <item value="Canary" />
       <item value="refresh" />
       <item value="res" />
-      <item value="s" />
       <item value="re" />
       <item value="判断" />
       <item value="判定" />
@@ -47,17 +53,11 @@
       <item value="spreads" />
       <item value="spre" />
       <item value="sp" />
-      <item value="cost" />
-      <item value="Cost" />
-      <item value="cusip" />
-      <item value="exchange code" />
-      <item value="exchange_code" />
-      <item value="symbol" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="146" />
-        <entry key="ENGLISH" value="124" />
+        <entry key="CHINESE" value="164" />
+        <entry key="ENGLISH" value="140" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
