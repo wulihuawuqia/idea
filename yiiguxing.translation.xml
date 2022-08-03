@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="2715" />
     <option name="newTranslationDialogY" value="115" />
     <histories>
+      <item value="spliter" />
       <item value="OTC交易" />
       <item value="quote" />
       <item value="quo" />
@@ -52,11 +53,10 @@
       <item value="exchange_code" />
       <item value="symbol" />
       <item value="symbo" />
-      <item value="description" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="144" />
+        <entry key="CHINESE" value="145" />
         <entry key="ENGLISH" value="124" />
         <entry key="HINDI" value="1" />
       </map>
