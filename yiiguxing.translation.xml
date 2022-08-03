@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="2715" />
     <option name="newTranslationDialogY" value="115" />
     <histories>
+      <item value="quote" />
+      <item value="quo" />
+      <item value="qut" />
+      <item value="q" />
       <item value="Canary" />
       <item value="refresh" />
       <item value="res" />
@@ -49,14 +53,10 @@
       <item value="symbo" />
       <item value="description" />
       <item value="descri" />
-      <item value="desc" />
-      <item value="fee" />
-      <item value="buy fee" />
-      <item value="buy commission" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="143" />
+        <entry key="CHINESE" value="144" />
         <entry key="ENGLISH" value="124" />
         <entry key="HINDI" value="1" />
       </map>
