@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="2330" />
     <option name="newTranslationDialogY" value="305" />
     <histories>
+      <item value="settl" />
+      <item value="settled" />
       <item value="r" />
       <item value="rematch" />
       <item value="rematch&#10;" />
@@ -51,12 +53,10 @@
       <item value="mleg" />
       <item value="拆分" />
       <item value="拆" />
-      <item value="拆除" />
-      <item value="拆chu" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="170" />
+        <entry key="CHINESE" value="172" />
         <entry key="ENGLISH" value="142" />
         <entry key="HINDI" value="1" />
       </map>
