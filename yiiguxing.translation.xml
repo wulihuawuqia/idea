@@ -3,6 +3,12 @@
     <option name="newTranslationDialogX" value="2330" />
     <option name="newTranslationDialogY" value="305" />
     <histories>
+      <item value="pagination" />
+      <item value="分页" />
+      <item value="fen" />
+      <item value="通过" />
+      <item value="t" />
+      <item value="从" />
       <item value="PendingTransfer" />
       <item value="settl" />
       <item value="settled" />
@@ -47,17 +53,11 @@
       <item value="guo" />
       <item value="adjust" />
       <item value="adjust&#10;" />
-      <item value="ad" />
-      <item value="from " />
-      <item value="With" />
-      <item value="leg" />
-      <item value="mleg" />
-      <item value="拆分" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="173" />
-        <entry key="ENGLISH" value="142" />
+        <entry key="CHINESE" value="189" />
+        <entry key="ENGLISH" value="157" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
