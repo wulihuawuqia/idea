@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="2330" />
     <option name="newTranslationDialogY" value="305" />
     <histories>
+      <item value="r" />
       <item value="rematch" />
       <item value="rematch&#10;" />
       <item value="re" />
@@ -52,12 +53,11 @@
       <item value="拆" />
       <item value="拆除" />
       <item value="拆chu" />
-      <item value="c" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="169" />
-        <entry key="ENGLISH" value="141" />
+        <entry key="CHINESE" value="170" />
+        <entry key="ENGLISH" value="142" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
