@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="2330" />
     <option name="newTranslationDialogY" value="305" />
     <histories>
+      <item value="balance&#10;" />
       <item value="Pending" />
       <item value="pagination" />
       <item value="分页" />
@@ -52,11 +53,10 @@
       <item value="expired" />
       <item value="过期" />
       <item value="guo" />
-      <item value="adjust" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="190" />
+        <entry key="CHINESE" value="191" />
         <entry key="ENGLISH" value="157" />
         <entry key="HINDI" value="1" />
       </map>
