@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="1043" />
     <option name="newTranslationDialogY" value="268" />
     <histories>
+      <item value="correct" />
+      <item value="correctOrder" />
       <item value="Entrust" />
       <item value="dirty" />
       <item value="subtract" />
@@ -51,12 +53,10 @@
       <item value="mutexId" />
       <item value="OTC交易" />
       <item value="quote" />
-      <item value="quo" />
-      <item value="qut" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="203" />
+        <entry key="CHINESE" value="204" />
         <entry key="ENGLISH" value="157" />
         <entry key="HINDI" value="1" />
       </map>
