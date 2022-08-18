@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="1043" />
     <option name="newTranslationDialogY" value="268" />
     <histories>
+      <item value="Adapter" />
       <item value="isPercent" />
       <item value="Pair" />
       <item value="Pair&#10;" />
@@ -52,11 +53,10 @@
       <item value="spliter" />
       <item value="supplier" />
       <item value="supplier&#10;" />
-      <item value="supp" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="209" />
+        <entry key="CHINESE" value="210" />
         <entry key="ENGLISH" value="158" />
         <entry key="HINDI" value="1" />
       </map>
