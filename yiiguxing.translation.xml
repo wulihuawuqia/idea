@@ -3,6 +3,12 @@
     <option name="newTranslationDialogX" value="1043" />
     <option name="newTranslationDialogY" value="268" />
     <histories>
+      <item value="deliverable" />
+      <item value="deliver" />
+      <item value="delive" />
+      <item value="de" />
+      <item value="灰度" />
+      <item value="Hui" />
       <item value="Minutes" />
       <item value="小于" />
       <item value="x" />
@@ -47,17 +53,11 @@
       <item value="PendingTransfer" />
       <item value="settl" />
       <item value="settled" />
-      <item value="r" />
-      <item value="rematch" />
-      <item value="rematch&#10;" />
-      <item value="re" />
-      <item value="cut" />
-      <item value="restriction" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="232" />
-        <entry key="ENGLISH" value="177" />
+        <entry key="CHINESE" value="242" />
+        <entry key="ENGLISH" value="186" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
