@@ -3,6 +3,17 @@
     <option name="newTranslationDialogX" value="1043" />
     <option name="newTranslationDialogY" value="268" />
     <histories>
+      <item value="提取" />
+      <item value="tui" />
+      <item value="t" />
+      <item value="判断" />
+      <item value="判断&#10;" />
+      <item value="pan'duan" />
+      <item value="判段" />
+      <item value="判duan" />
+      <item value="判定" />
+      <item value="pan'd" />
+      <item value="pan" />
       <item value="deliverable" />
       <item value="deliver" />
       <item value="delive" />
@@ -42,22 +53,11 @@
       <item value="Derivative" />
       <item value="Receiver" />
       <item value="Latency" />
-      <item value="balance&#10;" />
-      <item value="Pending" />
-      <item value="pagination" />
-      <item value="分页" />
-      <item value="fen" />
-      <item value="通过" />
-      <item value="t" />
-      <item value="从" />
-      <item value="PendingTransfer" />
-      <item value="settl" />
-      <item value="settled" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="242" />
-        <entry key="ENGLISH" value="186" />
+        <entry key="CHINESE" value="262" />
+        <entry key="ENGLISH" value="206" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
