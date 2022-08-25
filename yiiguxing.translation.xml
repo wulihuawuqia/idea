@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="1043" />
     <option name="newTranslationDialogY" value="268" />
     <histories>
+      <item value="白名单" />
+      <item value="bai" />
       <item value="ignore&#10;" />
       <item value="ign&#10;" />
       <item value="忽略&#10;" />
@@ -51,13 +53,11 @@
       <item value="Execute" />
       <item value="Indicator" />
       <item value="LotSize" />
-      <item value="QuoteLotSize" />
-      <item value="quoteMultiplier" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="269" />
-        <entry key="ENGLISH" value="212" />
+        <entry key="CHINESE" value="273" />
+        <entry key="ENGLISH" value="216" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
