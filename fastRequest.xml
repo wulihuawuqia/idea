@@ -1,5 +1,20 @@
 <application>
   <component name="fastRequest">
+    <option name="dataList">
+      <list>
+        <NameGroup>
+          <option name="hostGroup">
+            <list>
+              <HostGroup>
+                <option name="env" value="dev" />
+                <option name="url" value="localhost:8080" />
+              </HostGroup>
+            </list>
+          </option>
+          <option name="name" value="localhost" />
+        </NameGroup>
+      </list>
+    </option>
     <option name="defaultDataMappingList">
       <list>
         <DataMapping>
@@ -72,7 +87,46 @@
         </DataMapping>
       </list>
     </option>
+    <option name="domain" value="localhost:8080" />
+    <option name="enableEnv" value="dev" />
+    <option name="enableProject" value="localhost" />
+    <option name="envList">
+      <list>
+        <option value="dev" />
+      </list>
+    </option>
+    <option name="eual" value="true" />
+    <option name="headerGroupList">
+      <list>
+        <HeaderGroup>
+          <option name="envMap">
+            <map>
+              <entry key="dev">
+                <value>
+                  <map />
+                </value>
+              </entry>
+            </map>
+          </option>
+          <option name="projectName" value="localhost" />
+        </HeaderGroup>
+      </list>
+    </option>
+    <option name="projectList">
+      <list>
+        <option value="localhost" />
+      </list>
+    </option>
     <option name="randomStringLength" value="5" />
     <option name="statisticsDate" value="2022-08-30 17:08:44" />
+    <option name="statisticsList">
+      <list>
+        <YearStatistics>
+          <option name="totalActionCount" value="9" />
+          <option name="totalRocketCount" value="1" />
+          <option name="year" value="2022" />
+        </YearStatistics>
+      </list>
+    </option>
   </component>
 </application>
