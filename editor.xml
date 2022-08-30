@@ -4,4 +4,13 @@
     <option name="COMPLETION_CASE_SENSITIVE" value="2" />
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
   </component>
+  <component name="TodoConfiguration">
+    <multiLine>false</multiLine>
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+    <pattern icon="question" pattern="TODO tickerId.*" />
+    <filter name="tickerId">
+      <pattern index="2" />
+    </filter>
+  </component>
 </application>
