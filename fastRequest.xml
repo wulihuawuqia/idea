@@ -7,7 +7,7 @@
             <list>
               <HostGroup>
                 <option name="env" value="dev" />
-                <option name="url" value="localhost:8080" />
+                <option name="url" value="localhost:8089" />
               </HostGroup>
             </list>
           </option>
@@ -87,7 +87,7 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="localhost:8080" />
+    <option name="domain" value="localhost:8089" />
     <option name="enableEnv" value="dev" />
     <option name="enableProject" value="localhost" />
     <option name="envList">
@@ -122,8 +122,9 @@
     <option name="statisticsList">
       <list>
         <YearStatistics>
-          <option name="totalActionCount" value="9" />
-          <option name="totalRocketCount" value="1" />
+          <option name="totalActionCount" value="17" />
+          <option name="totalFailCount" value="3" />
+          <option name="totalRocketCount" value="3" />
           <option name="year" value="2022" />
         </YearStatistics>
       </list>
