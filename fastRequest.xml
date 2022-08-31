@@ -13,6 +13,17 @@
           </option>
           <option name="name" value="localhost" />
         </NameGroup>
+        <NameGroup>
+          <option name="hostGroup">
+            <list>
+              <HostGroup>
+                <option name="env" value="dev" />
+                <option name="url" value="10.70.116.45:8183" />
+              </HostGroup>
+            </list>
+          </option>
+          <option name="name" value="测试环境" />
+        </NameGroup>
       </list>
     </option>
     <option name="defaultDataMappingList">
@@ -110,11 +121,24 @@
           </option>
           <option name="projectName" value="localhost" />
         </HeaderGroup>
+        <HeaderGroup>
+          <option name="envMap">
+            <map>
+              <entry key="dev">
+                <value>
+                  <map />
+                </value>
+              </entry>
+            </map>
+          </option>
+          <option name="projectName" value="测试环境" />
+        </HeaderGroup>
       </list>
     </option>
     <option name="projectList">
       <list>
         <option value="localhost" />
+        <option value="测试环境" />
       </list>
     </option>
     <option name="randomStringLength" value="5" />
@@ -122,9 +146,10 @@
     <option name="statisticsList">
       <list>
         <YearStatistics>
-          <option name="totalActionCount" value="17" />
-          <option name="totalFailCount" value="3" />
-          <option name="totalRocketCount" value="3" />
+          <option name="totalActionCount" value="42" />
+          <option name="totalFailCount" value="15" />
+          <option name="totalRocketCount" value="5" />
+          <option name="totalSuccessCount" value="6" />
           <option name="year" value="2022" />
         </YearStatistics>
       </list>
