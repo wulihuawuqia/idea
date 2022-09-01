@@ -148,10 +148,10 @@
     <option name="statisticsList">
       <list>
         <YearStatistics>
-          <option name="totalActionCount" value="61" />
-          <option name="totalFailCount" value="22" />
+          <option name="totalActionCount" value="66" />
+          <option name="totalFailCount" value="25" />
           <option name="totalRocketCount" value="9" />
-          <option name="totalSuccessCount" value="10" />
+          <option name="totalSuccessCount" value="12" />
           <option name="year" value="2022" />
         </YearStatistics>
       </list>
