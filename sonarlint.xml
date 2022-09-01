@@ -7,6 +7,16 @@
             <Rule active="false" key="java:S112" />
           </value>
         </entry>
+        <entry key="java:S1123">
+          <value>
+            <Rule active="false" key="java:S1123" />
+          </value>
+        </entry>
+        <entry key="java:S1128">
+          <value>
+            <Rule active="false" key="java:S1128" />
+          </value>
+        </entry>
         <entry key="java:S1133">
           <value>
             <Rule active="false" key="java:S1133" />
@@ -20,6 +30,11 @@
         <entry key="java:S119">
           <value>
             <Rule active="false" key="java:S119" />
+          </value>
+        </entry>
+        <entry key="java:S1192">
+          <value>
+            <Rule active="false" key="java:S1192" />
           </value>
         </entry>
         <entry key="java:S1214">
@@ -40,6 +55,11 @@
         <entry key="java:S1854">
           <value>
             <Rule active="false" key="java:S1854" />
+          </value>
+        </entry>
+        <entry key="java:S1874">
+          <value>
+            <Rule active="false" key="java:S1874" />
           </value>
         </entry>
         <entry key="java:S2187">
@@ -75,16 +95,20 @@
       </map>
     </option>
     <rules>
+      <Rule active="false" key="java:S1874" />
       <Rule active="false" key="java:S1214" />
       <Rule active="false" key="java:S1135" />
+      <Rule active="false" key="java:S1123" />
       <Rule active="false" key="xml:S1135" />
       <Rule active="false" key="java:S1133" />
+      <Rule active="false" key="java:S1192" />
       <Rule active="false" key="java:S112" />
       <Rule active="false" key="xml:S125" />
       <Rule active="false" key="java:S2187" />
       <Rule active="false" key="java:S4488" />
       <Rule active="false" key="java:S119" />
       <Rule active="false" key="java:S125" />
+      <Rule active="false" key="java:S1128" />
       <Rule active="false" key="java:S1854" />
       <Rule active="false" key="java:S3776" />
       <Rule active="false" key="java:S1612" />
