@@ -72,6 +72,11 @@
             <Rule active="false" key="java:S2699" />
           </value>
         </entry>
+        <entry key="java:S3740">
+          <value>
+            <Rule active="false" key="java:S3740" />
+          </value>
+        </entry>
         <entry key="java:S3776">
           <value>
             <Rule active="false" key="java:S3776" />
@@ -106,6 +111,7 @@
       <Rule active="false" key="xml:S125" />
       <Rule active="false" key="java:S2187" />
       <Rule active="false" key="java:S4488" />
+      <Rule active="false" key="java:S3740" />
       <Rule active="false" key="java:S119" />
       <Rule active="false" key="java:S125" />
       <Rule active="false" key="java:S1128" />
