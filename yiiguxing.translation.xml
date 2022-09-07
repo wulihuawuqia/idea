@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="943" />
     <option name="newTranslationDialogY" value="298" />
     <histories>
+      <item value="BUST" />
+      <item value="SHARES" />
       <item value="Normal" />
       <item value="DORMANCY" />
       <item value="costPrice" />
@@ -53,12 +55,10 @@
       <item value="isPercent" />
       <item value="Pair" />
       <item value="Pair&#10;" />
-      <item value="Pa" />
-      <item value="Pao" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="296" />
+        <entry key="CHINESE" value="299" />
         <entry key="ENGLISH" value="232" />
         <entry key="HINDI" value="1" />
       </map>
