@@ -126,11 +126,7 @@
         <HeaderGroup>
           <option name="envMap">
             <map>
-              <entry key="dev">
-                <value>
-                  <map />
-                </value>
-              </entry>
+              <entry key="dev" />
             </map>
           </option>
           <option name="projectName" value="测试环境" />
@@ -148,9 +144,9 @@
     <option name="statisticsList">
       <list>
         <YearStatistics>
-          <option name="totalActionCount" value="95" />
+          <option name="totalActionCount" value="107" />
           <option name="totalFailCount" value="33" />
-          <option name="totalRocketCount" value="14" />
+          <option name="totalRocketCount" value="15" />
           <option name="totalSuccessCount" value="18" />
           <option name="year" value="2022" />
         </YearStatistics>
