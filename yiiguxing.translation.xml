@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="943" />
     <option name="newTranslationDialogY" value="298" />
     <histories>
+      <item value="calcNormal" />
       <item value="strike" />
       <item value="strikePrice" />
       <item value="RefactorMemo" />
@@ -54,11 +55,10 @@
       <item value="大于" />
       <item value="yu'da" />
       <item value="dayu" />
-      <item value="StrikeAmount" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="305" />
+        <entry key="CHINESE" value="306" />
         <entry key="ENGLISH" value="232" />
         <entry key="HINDI" value="1" />
       </map>
