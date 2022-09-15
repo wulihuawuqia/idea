@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="943" />
     <option name="newTranslationDialogY" value="298" />
     <histories>
+      <item value="strike" />
+      <item value="strikePrice" />
       <item value="RefactorMemo" />
       <item value="BuyCommission" />
       <item value="remainQuantity" />
@@ -53,12 +55,10 @@
       <item value="yu'da" />
       <item value="dayu" />
       <item value="StrikeAmount" />
-      <item value="Strike" />
-      <item value="Resolver" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="304" />
+        <entry key="CHINESE" value="305" />
         <entry key="ENGLISH" value="232" />
         <entry key="HINDI" value="1" />
       </map>
