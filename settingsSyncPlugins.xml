@@ -178,6 +178,17 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.jlh.plugin.idea.mybatis.generator">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.kn.diagrams.generator.generator">
           <value>
             <PluginData>
