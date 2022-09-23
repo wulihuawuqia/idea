@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="943" />
     <option name="newTranslationDialogY" value="298" />
     <histories>
+      <item value="标的" />
+      <item value="Ticker" />
       <item value="todayReceived" />
       <item value="calcNormal" />
       <item value="strike" />
@@ -53,13 +55,11 @@
       <item value="Minutes" />
       <item value="小于" />
       <item value="x" />
-      <item value="大于" />
-      <item value="yu'da" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="307" />
-        <entry key="ENGLISH" value="232" />
+        <entry key="CHINESE" value="314" />
+        <entry key="ENGLISH" value="238" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
