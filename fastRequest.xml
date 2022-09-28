@@ -24,6 +24,17 @@
           </option>
           <option name="name" value="测试环境" />
         </NameGroup>
+        <NameGroup>
+          <option name="hostGroup">
+            <list>
+              <HostGroup>
+                <option name="env" value="dev" />
+                <option name="url" value="" />
+              </HostGroup>
+            </list>
+          </option>
+          <option name="name" value="kbus" />
+        </NameGroup>
       </list>
     </option>
     <option name="defaultDataMappingList">
@@ -137,6 +148,7 @@
       <list>
         <option value="localhost" />
         <option value="测试环境" />
+        <option value="kbus" />
       </list>
     </option>
     <option name="randomStringLength" value="5" />
