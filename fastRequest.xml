@@ -146,7 +146,7 @@
         <YearStatistics>
           <option name="totalActionCount" value="107" />
           <option name="totalFailCount" value="33" />
-          <option name="totalRocketCount" value="15" />
+          <option name="totalRocketCount" value="16" />
           <option name="totalSuccessCount" value="18" />
           <option name="year" value="2022" />
         </YearStatistics>
