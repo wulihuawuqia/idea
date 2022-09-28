@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="943" />
     <option name="newTranslationDialogY" value="298" />
     <histories>
+      <item value="convert" />
+      <item value="con" />
       <item value="suffix" />
       <item value="Chain" />
       <item value="pushSuccesss" />
@@ -53,12 +55,10 @@
       <item value="t" />
       <item value="判断" />
       <item value="判断&#10;" />
-      <item value="pan'duan" />
-      <item value="判段" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="342" />
+        <entry key="CHINESE" value="343" />
         <entry key="ENGLISH" value="263" />
         <entry key="HINDI" value="1" />
       </map>
