@@ -46,9 +46,13 @@
           <option name="url" value="https://github.com/mapstruct/mapstruct-examples.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@gitlab.ustock.cc:5153/core/trade-global.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects/github" />
+    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects/webull" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
