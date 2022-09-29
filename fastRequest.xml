@@ -9,6 +9,14 @@
                 <option name="env" value="dev" />
                 <option name="url" value="localhost:8089" />
               </HostGroup>
+              <HostGroup>
+                <option name="env" value="pre" />
+                <option name="url" value="" />
+              </HostGroup>
+              <HostGroup>
+                <option name="env" value="test" />
+                <option name="url" value="" />
+              </HostGroup>
             </list>
           </option>
           <option name="name" value="localhost" />
@@ -19,6 +27,14 @@
               <HostGroup>
                 <option name="env" value="dev" />
                 <option name="url" value="10.70.115.230:8183" />
+              </HostGroup>
+              <HostGroup>
+                <option name="env" value="pre" />
+                <option name="url" value="" />
+              </HostGroup>
+              <HostGroup>
+                <option name="env" value="test" />
+                <option name="url" value="" />
               </HostGroup>
             </list>
           </option>
@@ -31,9 +47,36 @@
                 <option name="env" value="dev" />
                 <option name="url" value="" />
               </HostGroup>
+              <HostGroup>
+                <option name="env" value="pre" />
+                <option name="url" value="" />
+              </HostGroup>
+              <HostGroup>
+                <option name="env" value="test" />
+                <option name="url" value="" />
+              </HostGroup>
             </list>
           </option>
           <option name="name" value="kbus" />
+        </NameGroup>
+        <NameGroup>
+          <option name="hostGroup">
+            <list>
+              <HostGroup>
+                <option name="env" value="dev" />
+                <option name="url" value="localhost:8018" />
+              </HostGroup>
+              <HostGroup>
+                <option name="env" value="pre" />
+                <option name="url" value="" />
+              </HostGroup>
+              <HostGroup>
+                <option name="env" value="test" />
+                <option name="url" value="" />
+              </HostGroup>
+            </list>
+          </option>
+          <option name="name" value="trade-app" />
         </NameGroup>
       </list>
     </option>
@@ -109,12 +152,14 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="10.70.115.230:8183" />
+    <option name="domain" value="localhost:8018" />
     <option name="enableEnv" value="dev" />
-    <option name="enableProject" value="测试环境" />
+    <option name="enableProject" value="trade-app" />
     <option name="envList">
       <list>
         <option value="dev" />
+        <option value="pre" />
+        <option value="test" />
       </list>
     </option>
     <option name="eual" value="true" />
@@ -142,6 +187,18 @@
           </option>
           <option name="projectName" value="测试环境" />
         </HeaderGroup>
+        <HeaderGroup>
+          <option name="envMap">
+            <map>
+              <entry key="dev">
+                <value>
+                  <map />
+                </value>
+              </entry>
+            </map>
+          </option>
+          <option name="projectName" value="trade-app" />
+        </HeaderGroup>
       </list>
     </option>
     <option name="projectList">
@@ -149,6 +206,7 @@
         <option value="localhost" />
         <option value="测试环境" />
         <option value="kbus" />
+        <option value="trade-app" />
       </list>
     </option>
     <option name="randomStringLength" value="5" />
@@ -156,10 +214,10 @@
     <option name="statisticsList">
       <list>
         <YearStatistics>
-          <option name="totalActionCount" value="107" />
+          <option name="totalActionCount" value="117" />
           <option name="totalFailCount" value="33" />
-          <option name="totalRocketCount" value="16" />
-          <option name="totalSuccessCount" value="18" />
+          <option name="totalRocketCount" value="17" />
+          <option name="totalSuccessCount" value="23" />
           <option name="year" value="2022" />
         </YearStatistics>
       </list>
