@@ -2,7 +2,9 @@
   <component name="MyBatisCodeHelper">
     <option name="profile">
       <Profile>
-        <option name="useD1" value="1664180718970" />
+        <option name="convertByteOrShortToInt" value="true" />
+        <option name="mybatisGeneratorMapperSuffix" value="Dao" />
+        <option name="valid" value="true" />
       </Profile>
     </option>
   </component>
