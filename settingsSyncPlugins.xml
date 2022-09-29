@@ -145,6 +145,17 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.chuntung.plugin.mybatisbuilder">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.java" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.github.novotnyr.gitlab-quickmr-idea-plugin">
           <value>
             <PluginData>
@@ -185,7 +196,6 @@
                   <option value="com.intellij.modules.lang" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -270,6 +280,18 @@
                   <option value="com.intellij.modules.platform" />
                   <option value="com.intellij.properties" />
                   <option value="org.jetbrains.plugins.yaml" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="easy-code">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.java" />
+                  <option value="com.intellij.modules.platform" />
                 </set>
               </option>
             </PluginData>
