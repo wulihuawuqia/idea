@@ -152,9 +152,9 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="localhost:8018" />
+    <option name="domain" value="localhost:8089" />
     <option name="enableEnv" value="dev" />
-    <option name="enableProject" value="trade-app" />
+    <option name="enableProject" value="localhost" />
     <option name="envList">
       <list>
         <option value="dev" />
@@ -182,7 +182,11 @@
         <HeaderGroup>
           <option name="envMap">
             <map>
-              <entry key="dev" />
+              <entry key="dev">
+                <value>
+                  <map />
+                </value>
+              </entry>
             </map>
           </option>
           <option name="projectName" value="测试环境" />
@@ -214,10 +218,10 @@
     <option name="statisticsList">
       <list>
         <YearStatistics>
-          <option name="totalActionCount" value="117" />
-          <option name="totalFailCount" value="33" />
-          <option name="totalRocketCount" value="17" />
-          <option name="totalSuccessCount" value="23" />
+          <option name="totalActionCount" value="122" />
+          <option name="totalFailCount" value="35" />
+          <option name="totalRocketCount" value="18" />
+          <option name="totalSuccessCount" value="25" />
           <option name="year" value="2022" />
         </YearStatistics>
       </list>
