@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="943" />
     <option name="newTranslationDialogY" value="298" />
     <histories>
+      <item value="多个" />
+      <item value="d" />
       <item value="Derivative" />
       <item value="convert" />
       <item value="con" />
@@ -53,13 +55,11 @@
       <item value="忽略&#10;" />
       <item value="提取" />
       <item value="tui" />
-      <item value="t" />
-      <item value="判断" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="344" />
-        <entry key="ENGLISH" value="263" />
+        <entry key="CHINESE" value="351" />
+        <entry key="ENGLISH" value="270" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
