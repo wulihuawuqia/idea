@@ -34,7 +34,7 @@
               </HostGroup>
               <HostGroup>
                 <option name="env" value="test" />
-                <option name="url" value="10.70.127.130:8183" />
+                <option name="url" value="10.70.123.148:8183" />
               </HostGroup>
             </list>
           </option>
@@ -152,7 +152,7 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="10.70.127.130:8183" />
+    <option name="domain" value="10.70.123.148:8183" />
     <option name="enableEnv" value="test" />
     <option name="enableProject" value="测试环境" />
     <option name="envList">
@@ -219,8 +219,8 @@
     <option name="statisticsList">
       <list>
         <YearStatistics>
-          <option name="totalActionCount" value="180" />
-          <option name="totalFailCount" value="38" />
+          <option name="totalActionCount" value="183" />
+          <option name="totalFailCount" value="40" />
           <option name="totalRocketCount" value="22" />
           <option name="totalSuccessCount" value="53" />
           <option name="year" value="2022" />
