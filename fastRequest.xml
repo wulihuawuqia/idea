@@ -68,7 +68,7 @@
               </HostGroup>
               <HostGroup>
                 <option name="env" value="pre" />
-                <option name="url" value="" />
+                <option name="url" value="10.70.118.199:2508" />
               </HostGroup>
               <HostGroup>
                 <option name="env" value="test" />
@@ -152,9 +152,9 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="10.70.116.9:7848" />
-    <option name="enableEnv" value="pre" />
-    <option name="enableProject" value="测试环境" />
+    <option name="domain" value="localhost:8018" />
+    <option name="enableEnv" value="dev" />
+    <option name="enableProject" value="trade-app" />
     <option name="envList">
       <list>
         <option value="dev" />
@@ -205,6 +205,11 @@
                   <map />
                 </value>
               </entry>
+              <entry key="pre">
+                <value>
+                  <map />
+                </value>
+              </entry>
               <entry key="test">
                 <value>
                   <map />
@@ -229,10 +234,10 @@
     <option name="statisticsList">
       <list>
         <YearStatistics>
-          <option name="totalActionCount" value="281" />
+          <option name="totalActionCount" value="298" />
           <option name="totalFailCount" value="41" />
           <option name="totalRocketCount" value="28" />
-          <option name="totalSuccessCount" value="106" />
+          <option name="totalSuccessCount" value="121" />
           <option name="year" value="2022" />
         </YearStatistics>
       </list>
