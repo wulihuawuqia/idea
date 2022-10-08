@@ -2,9 +2,12 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="347" />
     <option name="newTranslationDialogWidth" value="692" />
-    <option name="newTranslationDialogX" value="943" />
-    <option name="newTranslationDialogY" value="298" />
+    <option name="newTranslationDialogX" value="765" />
+    <option name="newTranslationDialogY" value="287" />
     <histories>
+      <item value="MISMATCH" />
+      <item value="MISMATCH_WITH_USER" />
+      <item value="ACCOUNT_MISMATCH_WITH_USER" />
       <item value="多个" />
       <item value="d" />
       <item value="Derivative" />
@@ -52,13 +55,10 @@
       <item value="bai" />
       <item value="ignore&#10;" />
       <item value="ign&#10;" />
-      <item value="忽略&#10;" />
-      <item value="提取" />
-      <item value="tui" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="351" />
+        <entry key="CHINESE" value="352" />
         <entry key="ENGLISH" value="270" />
         <entry key="HINDI" value="1" />
       </map>
