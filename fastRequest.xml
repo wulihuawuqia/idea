@@ -17,6 +17,10 @@
                 <option name="env" value="test" />
                 <option name="url" value="" />
               </HostGroup>
+              <HostGroup>
+                <option name="env" value="网关" />
+                <option name="url" value="" />
+              </HostGroup>
             </list>
           </option>
           <option name="name" value="localhost" />
@@ -35,6 +39,10 @@
               <HostGroup>
                 <option name="env" value="test" />
                 <option name="url" value="10.70.115.48:8183" />
+              </HostGroup>
+              <HostGroup>
+                <option name="env" value="网关" />
+                <option name="url" value="" />
               </HostGroup>
             </list>
           </option>
@@ -55,6 +63,10 @@
                 <option name="env" value="test" />
                 <option name="url" value="" />
               </HostGroup>
+              <HostGroup>
+                <option name="env" value="网关" />
+                <option name="url" value="" />
+              </HostGroup>
             </list>
           </option>
           <option name="name" value="kbus" />
@@ -73,6 +85,10 @@
               <HostGroup>
                 <option name="env" value="test" />
                 <option name="url" value="10.70.121.8:7166" />
+              </HostGroup>
+              <HostGroup>
+                <option name="env" value="网关" />
+                <option name="url" value="https://pre-ustrade.webullbroker.com" />
               </HostGroup>
             </list>
           </option>
@@ -152,14 +168,15 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="10.70.120.135:2508" />
-    <option name="enableEnv" value="pre" />
+    <option name="domain" value="https://pre-ustrade.webullbroker.com" />
+    <option name="enableEnv" value="网关" />
     <option name="enableProject" value="trade-app" />
     <option name="envList">
       <list>
         <option value="dev" />
         <option value="pre" />
         <option value="test" />
+        <option value="网关" />
       </list>
     </option>
     <option name="eual" value="true" />
@@ -207,12 +224,75 @@
               </entry>
               <entry key="pre">
                 <value>
-                  <map />
+                  <map>
+                    <entry key="Cookie" value="eid01=CkYBwWGgz8pLVBuRCFtNAg==" />
+                    <entry key="Host" value="pre-ustrade.webullbroker.com" />
+                    <entry key="access_token" value="dc_us1.183b5a03361-f2a75fb318dd4587aca5aa47a599626d" />
+                    <entry key="app" value="global" />
+                    <entry key="app-group" value="broker" />
+                    <entry key="appid" value="wb_phone" />
+                    <entry key="ch" value="debug_test_123" />
+                    <entry key="debug" value="eCh0" />
+                    <entry key="device-type" value="aPhone" />
+                    <entry key="did" value="acab71a087ef4d0dad4afe8afe65e95f" />
+                    <entry key="hl" value="zh" />
+                    <entry key="locale" value="zh" />
+                    <entry key="lzone" value="dc_core1" />
+                    <entry key="mcc" value="310" />
+                    <entry key="mcc0" value="310" />
+                    <entry key="mnc" value="11" />
+                    <entry key="mnc0" value="11" />
+                    <entry key="odid" value="d81e58e96487fbcdstocks" />
+                    <entry key="os" value="android" />
+                    <entry key="osv" value="Android SDK: 27 (8.1.0)" />
+                    <entry key="ph" value="Xiaomi Redmi 5 Plus" />
+                    <entry key="platform" value="android" />
+                    <entry key="reqid" value="634230e5815e914cc863b76e" />
+                    <entry key="t_time" value="1665282277900" />
+                    <entry key="tz" value="Asia/Shanghai" />
+                    <entry key="user-agent" value="okhttp/4.9.3" />
+                    <entry key="ver" value="8.2.8.03" />
+                    <entry key="ver_code" value="8020803" />
+                  </map>
                 </value>
               </entry>
               <entry key="test">
                 <value>
                   <map />
+                </value>
+              </entry>
+              <entry key="网关">
+                <value>
+                  <map>
+                    <entry key="Cookie" value="eid01=CkYBwWGgz8pLVBuRCFtNAg==" />
+                    <entry key="Host" value="pre-ustrade.webullbroker.com" />
+                    <entry key="access_token" value="dc_us1.183b5a03361-f2a75fb318dd4587aca5aa47a599626d" />
+                    <entry key="app" value="global" />
+                    <entry key="app-group" value="broker" />
+                    <entry key="appid" value="wb_phone" />
+                    <entry key="ch" value="debug_test_123" />
+                    <entry key="debug" value="eCh0" />
+                    <entry key="device-type" value="aPhone" />
+                    <entry key="did" value="acab71a087ef4d0dad4afe8afe65e95f" />
+                    <entry key="hl" value="zh" />
+                    <entry key="locale" value="zh" />
+                    <entry key="lzone" value="dc_core1" />
+                    <entry key="mcc" value="310" />
+                    <entry key="mcc0" value="310" />
+                    <entry key="mnc" value="11" />
+                    <entry key="mnc0" value="11" />
+                    <entry key="odid" value="d81e58e96487fbcdstocks" />
+                    <entry key="os" value="android" />
+                    <entry key="osv" value="Android SDK: 27 (8.1.0)" />
+                    <entry key="ph" value="Xiaomi Redmi 5 Plus" />
+                    <entry key="platform" value="android" />
+                    <entry key="reqid" value="634230e5815e914cc863b76e" />
+                    <entry key="t_time" value="1665282277900" />
+                    <entry key="tz" value="Asia/Shanghai" />
+                    <entry key="user-agent" value="okhttp/4.9.3" />
+                    <entry key="ver" value="8.2.8.03" />
+                    <entry key="ver_code" value="8020803" />
+                  </map>
                 </value>
               </entry>
             </map>
@@ -234,10 +314,10 @@
     <option name="statisticsList">
       <list>
         <YearStatistics>
-          <option name="totalActionCount" value="311" />
+          <option name="totalActionCount" value="323" />
           <option name="totalFailCount" value="43" />
           <option name="totalRocketCount" value="28" />
-          <option name="totalSuccessCount" value="126" />
+          <option name="totalSuccessCount" value="130" />
           <option name="year" value="2022" />
         </YearStatistics>
       </list>
