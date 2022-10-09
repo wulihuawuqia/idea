@@ -80,7 +80,7 @@
               </HostGroup>
               <HostGroup>
                 <option name="env" value="pre" />
-                <option name="url" value="10.70.120.135:2508" />
+                <option name="url" value="10.70.114.53:2508" />
               </HostGroup>
               <HostGroup>
                 <option name="env" value="test" />
@@ -168,8 +168,8 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="https://pre-ustrade.webullbroker.com" />
-    <option name="enableEnv" value="网关" />
+    <option name="domain" value="10.70.114.53:2508" />
+    <option name="enableEnv" value="pre" />
     <option name="enableProject" value="trade-app" />
     <option name="envList">
       <list>
@@ -314,10 +314,10 @@
     <option name="statisticsList">
       <list>
         <YearStatistics>
-          <option name="totalActionCount" value="323" />
-          <option name="totalFailCount" value="43" />
+          <option name="totalActionCount" value="334" />
+          <option name="totalFailCount" value="45" />
           <option name="totalRocketCount" value="28" />
-          <option name="totalSuccessCount" value="130" />
+          <option name="totalSuccessCount" value="132" />
           <option name="year" value="2022" />
         </YearStatistics>
       </list>
