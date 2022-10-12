@@ -2,9 +2,18 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="347" />
     <option name="newTranslationDialogWidth" value="692" />
-    <option name="newTranslationDialogX" value="765" />
-    <option name="newTranslationDialogY" value="287" />
+    <option name="newTranslationDialogX" value="795" />
+    <option name="newTranslationDialogY" value="295" />
     <histories>
+      <item value="重置" />
+      <item value="重置&#10;" />
+      <item value="八皇后" />
+      <item value="ba" />
+      <item value="backtracking" />
+      <item value="回溯" />
+      <item value="算法" />
+      <item value="su" />
+      <item value="suafn" />
       <item value="MISMATCH" />
       <item value="MISMATCH_WITH_USER" />
       <item value="ACCOUNT_MISMATCH_WITH_USER" />
@@ -46,20 +55,11 @@
       <item value="f" />
       <item value="EXECUTION" />
       <item value="FIX_EXECUTION" />
-      <item value="The underlying implementation of String::replaceAll calls the java.util.regex.Pattern.compile() method each time it is called even if the first argument is not a regular expression. This has a significant performance cost and therefore should be used with care.&#10;When String::replaceAll is used, the first argument should be a real regular expression. If it’s not the case, String::replace does exactly the same thing as String::replaceAll without the performance drawback of the regex.&#10;This rule raises an issue for each String::replaceAll used with a String as first parameter which doesn’t contains special regex character or pattern." />
-      <item value="According to its JavaDocs, the intermediate Stream operation java.util.Stream.peek() “exists mainly to support debugging” purposes.&#10;A key difference with other intermediate Stream operations is that the Stream implementation is free to skip calls to peek() for optimization purpose. This can lead to peek() being unexpectedly called only for some or none of the elements in the Stream.&#10;As a consequence, relying on peek() without careful consideration can lead to error-prone code.&#10;This rule raises an issue for each use of peek() to be sure that it is challenged and validated by the team to be meant for production debugging/logging purposes." />
-      <item value="Cognitive Complexity is a measure of how hard the control flow of a method is to understand. Methods with high Cognitive Complexity will be difficult to maintain." />
-      <item value="兼容" />
-      <item value="变量" />
-      <item value="白名单" />
-      <item value="bai" />
-      <item value="ignore&#10;" />
-      <item value="ign&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="352" />
-        <entry key="ENGLISH" value="270" />
+        <entry key="CHINESE" value="395" />
+        <entry key="ENGLISH" value="312" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
