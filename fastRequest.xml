@@ -168,9 +168,9 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="localhost:8018" />
+    <option name="domain" value="localhost:8089" />
     <option name="enableEnv" value="dev" />
-    <option name="enableProject" value="trade-app" />
+    <option name="enableProject" value="localhost" />
     <option name="envList">
       <list>
         <option value="dev" />
@@ -199,7 +199,11 @@
         <HeaderGroup>
           <option name="envMap">
             <map>
-              <entry key="dev" />
+              <entry key="dev">
+                <value>
+                  <map />
+                </value>
+              </entry>
               <entry key="pre">
                 <value>
                   <map />
@@ -314,10 +318,10 @@
     <option name="statisticsList">
       <list>
         <YearStatistics>
-          <option name="totalActionCount" value="340" />
+          <option name="totalActionCount" value="353" />
           <option name="totalFailCount" value="45" />
-          <option name="totalRocketCount" value="28" />
-          <option name="totalSuccessCount" value="135" />
+          <option name="totalRocketCount" value="30" />
+          <option name="totalSuccessCount" value="139" />
           <option name="year" value="2022" />
         </YearStatistics>
       </list>
