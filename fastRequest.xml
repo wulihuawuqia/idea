@@ -168,9 +168,9 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="localhost:8089" />
+    <option name="domain" value="localhost:8018" />
     <option name="enableEnv" value="dev" />
-    <option name="enableProject" value="localhost" />
+    <option name="enableProject" value="trade-app" />
     <option name="envList">
       <list>
         <option value="dev" />
