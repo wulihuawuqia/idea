@@ -168,9 +168,9 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="localhost:8018" />
+    <option name="domain" value="localhost:8089" />
     <option name="enableEnv" value="dev" />
-    <option name="enableProject" value="trade-app" />
+    <option name="enableProject" value="localhost" />
     <option name="envList">
       <list>
         <option value="dev" />
@@ -199,21 +199,9 @@
         <HeaderGroup>
           <option name="envMap">
             <map>
-              <entry key="dev">
-                <value>
-                  <map />
-                </value>
-              </entry>
-              <entry key="pre">
-                <value>
-                  <map />
-                </value>
-              </entry>
-              <entry key="test">
-                <value>
-                  <map />
-                </value>
-              </entry>
+              <entry key="dev" />
+              <entry key="pre" />
+              <entry key="test" />
             </map>
           </option>
           <option name="projectName" value="测试环境" />
@@ -221,11 +209,7 @@
         <HeaderGroup>
           <option name="envMap">
             <map>
-              <entry key="dev">
-                <value>
-                  <map />
-                </value>
-              </entry>
+              <entry key="dev" />
               <entry key="pre">
                 <value>
                   <map>
@@ -260,11 +244,7 @@
                   </map>
                 </value>
               </entry>
-              <entry key="test">
-                <value>
-                  <map />
-                </value>
-              </entry>
+              <entry key="test" />
               <entry key="网关">
                 <value>
                   <map>
