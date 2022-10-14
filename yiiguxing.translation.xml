@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="795" />
     <option name="newTranslationDialogY" value="295" />
     <histories>
+      <item value="校验" />
+      <item value="validate" />
       <item value="重置" />
       <item value="重置&#10;" />
       <item value="八皇后" />
@@ -53,13 +55,11 @@
       <item value="fix" />
       <item value="fix&#10;" />
       <item value="f" />
-      <item value="EXECUTION" />
-      <item value="FIX_EXECUTION" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="395" />
-        <entry key="ENGLISH" value="312" />
+        <entry key="CHINESE" value="411" />
+        <entry key="ENGLISH" value="328" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
