@@ -2,9 +2,11 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="347" />
     <option name="newTranslationDialogWidth" value="692" />
-    <option name="newTranslationDialogX" value="795" />
-    <option name="newTranslationDialogY" value="295" />
+    <option name="newTranslationDialogX" value="935" />
+    <option name="newTranslationDialogY" value="322" />
     <histories>
+      <item value="动态规划" />
+      <item value="d" />
       <item value="校验" />
       <item value="validate" />
       <item value="重置" />
@@ -20,7 +22,6 @@
       <item value="MISMATCH_WITH_USER" />
       <item value="ACCOUNT_MISMATCH_WITH_USER" />
       <item value="多个" />
-      <item value="d" />
       <item value="Derivative" />
       <item value="convert" />
       <item value="con" />
@@ -54,12 +55,11 @@
       <item value="costPrice" />
       <item value="fix" />
       <item value="fix&#10;" />
-      <item value="f" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="411" />
-        <entry key="ENGLISH" value="328" />
+        <entry key="CHINESE" value="426" />
+        <entry key="ENGLISH" value="343" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
