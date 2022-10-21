@@ -5,6 +5,12 @@
     <option name="newTranslationDialogX" value="935" />
     <option name="newTranslationDialogY" value="322" />
     <histories>
+      <item value="ig" />
+      <item value="ignon" />
+      <item value="ign" />
+      <item value="忽略" />
+      <item value="hu'lei" />
+      <item value="hu" />
       <item value="英文字母&#10;" />
       <item value="英文" />
       <item value="字母" />
@@ -49,17 +55,11 @@
       <item value="calcNormal" />
       <item value="strike" />
       <item value="strikePrice" />
-      <item value="RefactorMemo" />
-      <item value="BuyCommission" />
-      <item value="remainQuantity" />
-      <item value="strikeAmount" />
-      <item value="BUST" />
-      <item value="SHARES" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="449" />
-        <entry key="ENGLISH" value="366" />
+        <entry key="CHINESE" value="484" />
+        <entry key="ENGLISH" value="401" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
