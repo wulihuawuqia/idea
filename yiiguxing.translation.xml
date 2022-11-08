@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="935" />
     <option name="newTranslationDialogY" value="322" />
     <histories>
+      <item value="print" />
       <item value="scale" />
       <item value="grayscale" />
       <item value="灰度" />
@@ -54,11 +55,10 @@
       <item value="fa" />
       <item value="wind up" />
       <item value="上链" />
-      <item value="上lian" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="518" />
+        <entry key="CHINESE" value="519" />
         <entry key="ENGLISH" value="433" />
         <entry key="HINDI" value="1" />
       </map>
