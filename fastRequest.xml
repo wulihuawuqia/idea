@@ -1,5 +1,37 @@
 <application>
   <component name="fastRequest">
+    <option name="commonHeaderList">
+      <list>
+        <DataMapping>
+          <option name="type" value="Content-Type" />
+          <option name="value" value="text/plain" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="Content-Type" />
+          <option name="value" value="text/html" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="Content-Type" />
+          <option name="value" value="application/xml" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="Content-Type" />
+          <option name="value" value="application/javascript" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="Authorization" />
+          <option name="value" value="" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="Cookie" />
+          <option name="value" value="" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="User-Agent" />
+          <option name="value" value="" />
+        </DataMapping>
+      </list>
+    </option>
     <option name="dataList">
       <list>
         <NameGroup>
@@ -168,9 +200,9 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="10.70.115.230:8183" />
+    <option name="domain" value="localhost:8018" />
     <option name="enableEnv" value="dev" />
-    <option name="enableProject" value="测试环境" />
+    <option name="enableProject" value="trade-app" />
     <option name="envList">
       <list>
         <option value="dev" />
@@ -183,104 +215,12 @@
     <option name="headerGroupList">
       <list>
         <HeaderGroup>
-          <option name="envMap">
-            <map>
-              <entry key="dev">
-                <value>
-                  <map>
-                    <entry key="userId" value="123" />
-                  </map>
-                </value>
-              </entry>
-            </map>
-          </option>
           <option name="projectName" value="localhost" />
         </HeaderGroup>
         <HeaderGroup>
-          <option name="envMap">
-            <map>
-              <entry key="dev" />
-              <entry key="pre" />
-              <entry key="test" />
-            </map>
-          </option>
           <option name="projectName" value="测试环境" />
         </HeaderGroup>
         <HeaderGroup>
-          <option name="envMap">
-            <map>
-              <entry key="dev" />
-              <entry key="pre">
-                <value>
-                  <map>
-                    <entry key="Cookie" value="eid01=CkYBwWGgz8pLVBuRCFtNAg==" />
-                    <entry key="Host" value="pre-ustrade.webullbroker.com" />
-                    <entry key="access_token" value="dc_us1.183b5a03361-f2a75fb318dd4587aca5aa47a599626d" />
-                    <entry key="app" value="global" />
-                    <entry key="app-group" value="broker" />
-                    <entry key="appid" value="wb_phone" />
-                    <entry key="ch" value="debug_test_123" />
-                    <entry key="debug" value="eCh0" />
-                    <entry key="device-type" value="aPhone" />
-                    <entry key="did" value="acab71a087ef4d0dad4afe8afe65e95f" />
-                    <entry key="hl" value="zh" />
-                    <entry key="locale" value="zh" />
-                    <entry key="lzone" value="dc_core1" />
-                    <entry key="mcc" value="310" />
-                    <entry key="mcc0" value="310" />
-                    <entry key="mnc" value="11" />
-                    <entry key="mnc0" value="11" />
-                    <entry key="odid" value="d81e58e96487fbcdstocks" />
-                    <entry key="os" value="android" />
-                    <entry key="osv" value="Android SDK: 27 (8.1.0)" />
-                    <entry key="ph" value="Xiaomi Redmi 5 Plus" />
-                    <entry key="platform" value="android" />
-                    <entry key="reqid" value="634230e5815e914cc863b76e" />
-                    <entry key="t_time" value="1665282277900" />
-                    <entry key="tz" value="Asia/Shanghai" />
-                    <entry key="user-agent" value="okhttp/4.9.3" />
-                    <entry key="ver" value="8.2.8.03" />
-                    <entry key="ver_code" value="8020803" />
-                  </map>
-                </value>
-              </entry>
-              <entry key="test" />
-              <entry key="网关">
-                <value>
-                  <map>
-                    <entry key="Cookie" value="eid01=CkYBwWGgz8pLVBuRCFtNAg==" />
-                    <entry key="Host" value="pre-ustrade.webullbroker.com" />
-                    <entry key="access_token" value="dc_us1.183b5a03361-f2a75fb318dd4587aca5aa47a599626d" />
-                    <entry key="app" value="global" />
-                    <entry key="app-group" value="broker" />
-                    <entry key="appid" value="wb_phone" />
-                    <entry key="ch" value="debug_test_123" />
-                    <entry key="debug" value="eCh0" />
-                    <entry key="device-type" value="aPhone" />
-                    <entry key="did" value="acab71a087ef4d0dad4afe8afe65e95f" />
-                    <entry key="hl" value="zh" />
-                    <entry key="locale" value="zh" />
-                    <entry key="lzone" value="dc_core1" />
-                    <entry key="mcc" value="310" />
-                    <entry key="mcc0" value="310" />
-                    <entry key="mnc" value="11" />
-                    <entry key="mnc0" value="11" />
-                    <entry key="odid" value="d81e58e96487fbcdstocks" />
-                    <entry key="os" value="android" />
-                    <entry key="osv" value="Android SDK: 27 (8.1.0)" />
-                    <entry key="ph" value="Xiaomi Redmi 5 Plus" />
-                    <entry key="platform" value="android" />
-                    <entry key="reqid" value="634230e5815e914cc863b76e" />
-                    <entry key="t_time" value="1665282277900" />
-                    <entry key="tz" value="Asia/Shanghai" />
-                    <entry key="user-agent" value="okhttp/4.9.3" />
-                    <entry key="ver" value="8.2.8.03" />
-                    <entry key="ver_code" value="8020803" />
-                  </map>
-                </value>
-              </entry>
-            </map>
-          </option>
           <option name="projectName" value="trade-app" />
         </HeaderGroup>
       </list>
