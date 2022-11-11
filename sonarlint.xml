@@ -77,6 +77,11 @@
             <Rule active="false" key="java:S1874" />
           </value>
         </entry>
+        <entry key="java:S1948">
+          <value>
+            <Rule active="false" key="java:S1948" />
+          </value>
+        </entry>
         <entry key="java:S2187">
           <value>
             <Rule active="false" key="java:S2187" />
@@ -120,8 +125,8 @@
       </map>
     </option>
     <rules>
-      <Rule active="false" key="java:S1874" />
       <Rule active="false" key="java:S1214" />
+      <Rule active="false" key="java:S1874" />
       <Rule active="false" key="java:S1135" />
       <Rule active="false" key="java:S1123" />
       <Rule active="false" key="java:S1144" />
@@ -131,17 +136,18 @@
       <Rule active="false" key="java:S112" />
       <Rule active="false" key="xml:S125" />
       <Rule active="false" key="java:S2293" />
+      <Rule active="false" key="java:S1948" />
       <Rule active="false" key="java:S2187" />
       <Rule active="false" key="java:S4488" />
-      <Rule active="false" key="java:S119" />
       <Rule active="false" key="java:S3740" />
+      <Rule active="false" key="java:S119" />
       <Rule active="false" key="java:S125" />
       <Rule active="false" key="java:S1118" />
       <Rule active="false" key="java:S135" />
-      <Rule active="false" key="java:S3776" />
       <Rule active="false" key="java:S1854" />
-      <Rule active="false" key="java:S1612" />
       <Rule active="false" key="java:S1128" />
+      <Rule active="false" key="java:S1612" />
+      <Rule active="false" key="java:S3776" />
       <Rule active="false" key="java:S2699" />
     </rules>
   </component>
