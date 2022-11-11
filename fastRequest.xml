@@ -240,7 +240,7 @@
         <YearStatistics>
           <option name="totalActionCount" value="353" />
           <option name="totalFailCount" value="45" />
-          <option name="totalRocketCount" value="30" />
+          <option name="totalRocketCount" value="31" />
           <option name="totalSuccessCount" value="139" />
           <option name="year" value="2022" />
         </YearStatistics>
