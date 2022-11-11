@@ -126,6 +126,29 @@
           </option>
           <option name="name" value="trade-app" />
         </NameGroup>
+        <NameGroup>
+          <option name="hostGroup">
+            <list>
+              <HostGroup>
+                <option name="env" value="dev" />
+                <option name="url" value="localhost:8001" />
+              </HostGroup>
+              <HostGroup>
+                <option name="env" value="pre" />
+                <option name="url" value="" />
+              </HostGroup>
+              <HostGroup>
+                <option name="env" value="test" />
+                <option name="url" value="" />
+              </HostGroup>
+              <HostGroup>
+                <option name="env" value="网关" />
+                <option name="url" value="" />
+              </HostGroup>
+            </list>
+          </option>
+          <option name="name" value="pt-tax-silver" />
+        </NameGroup>
       </list>
     </option>
     <option name="defaultDataMappingList">
@@ -200,9 +223,9 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="localhost:8018" />
+    <option name="domain" value="localhost:8001" />
     <option name="enableEnv" value="dev" />
-    <option name="enableProject" value="trade-app" />
+    <option name="enableProject" value="pt-tax-silver" />
     <option name="envList">
       <list>
         <option value="dev" />
@@ -223,6 +246,18 @@
         <HeaderGroup>
           <option name="projectName" value="trade-app" />
         </HeaderGroup>
+        <HeaderGroup>
+          <option name="envDataMap">
+            <map>
+              <entry key="dev">
+                <value>
+                  <list />
+                </value>
+              </entry>
+            </map>
+          </option>
+          <option name="projectName" value="pt-tax-silver" />
+        </HeaderGroup>
       </list>
     </option>
     <option name="projectList">
@@ -231,6 +266,7 @@
         <option value="测试环境" />
         <option value="kbus" />
         <option value="trade-app" />
+        <option value="pt-tax-silver" />
       </list>
     </option>
     <option name="randomStringLength" value="5" />
@@ -238,10 +274,10 @@
     <option name="statisticsList">
       <list>
         <YearStatistics>
-          <option name="totalActionCount" value="353" />
-          <option name="totalFailCount" value="45" />
-          <option name="totalRocketCount" value="31" />
-          <option name="totalSuccessCount" value="139" />
+          <option name="totalActionCount" value="357" />
+          <option name="totalFailCount" value="46" />
+          <option name="totalRocketCount" value="33" />
+          <option name="totalSuccessCount" value="140" />
           <option name="year" value="2022" />
         </YearStatistics>
       </list>

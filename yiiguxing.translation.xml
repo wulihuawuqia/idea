@@ -5,6 +5,13 @@
     <option name="newTranslationDialogX" value="935" />
     <option name="newTranslationDialogY" value="322" />
     <histories>
+      <item value="field" />
+      <item value="字段" />
+      <item value="z" />
+      <item value="feild" />
+      <item value="fe" />
+      <item value="属性" />
+      <item value="s" />
       <item value="validate" />
       <item value="valida" />
       <item value="校验" />
@@ -48,18 +55,11 @@
       <item value="多个" />
       <item value="Derivative" />
       <item value="convert" />
-      <item value="con" />
-      <item value="suffix" />
-      <item value="Chain" />
-      <item value="pushSuccesss" />
-      <item value="pushSu" />
-      <item value="push" />
-      <item value="发布成功" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="561" />
-        <entry key="ENGLISH" value="474" />
+        <entry key="CHINESE" value="597" />
+        <entry key="ENGLISH" value="509" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
