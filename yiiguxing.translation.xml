@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="935" />
     <option name="newTranslationDialogY" value="322" />
     <histories>
+      <item value="not exists" />
       <item value="field" />
       <item value="字段" />
       <item value="z" />
@@ -54,11 +55,10 @@
       <item value="ACCOUNT_MISMATCH_WITH_USER" />
       <item value="多个" />
       <item value="Derivative" />
-      <item value="convert" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="597" />
+        <entry key="CHINESE" value="598" />
         <entry key="ENGLISH" value="509" />
         <entry key="HINDI" value="1" />
       </map>
