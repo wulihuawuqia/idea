@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="935" />
     <option name="newTranslationDialogY" value="322" />
     <histories>
+      <item value="deduction" />
+      <item value="扣减" />
       <item value="Customer portion of Total Income" />
       <item value="处理" />
       <item value="特殊" />
@@ -53,13 +55,11 @@
       <item value="八皇后" />
       <item value="ba" />
       <item value="backtracking" />
-      <item value="回溯" />
-      <item value="算法" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="643" />
-        <entry key="ENGLISH" value="552" />
+        <entry key="CHINESE" value="668" />
+        <entry key="ENGLISH" value="576" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
