@@ -2,9 +2,10 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="347" />
     <option name="newTranslationDialogWidth" value="692" />
-    <option name="newTranslationDialogX" value="935" />
-    <option name="newTranslationDialogY" value="322" />
+    <option name="newTranslationDialogX" value="1066" />
+    <option name="newTranslationDialogY" value="316" />
     <histories>
+      <item value="ExcessLiquidity" />
       <item value="AvaiToWithdraw" />
       <item value="startOfAvaiToWithdraw" />
       <item value="Consistency mode for health service request." />
@@ -54,11 +55,10 @@
       <item value="字母" />
       <item value="zi'mu" />
       <item value="zi" />
-      <item value="动态规划" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="671" />
+        <entry key="CHINESE" value="672" />
         <entry key="ENGLISH" value="576" />
         <entry key="HINDI" value="1" />
       </map>
