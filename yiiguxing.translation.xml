@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="935" />
     <option name="newTranslationDialogY" value="322" />
     <histories>
+      <item value="AvaiToWithdraw" />
+      <item value="startOfAvaiToWithdraw" />
       <item value="Consistency mode for health service request." />
       <item value="november" />
       <item value="novembe" />
@@ -53,12 +55,10 @@
       <item value="zi'mu" />
       <item value="zi" />
       <item value="动态规划" />
-      <item value="d" />
-      <item value="重置" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="670" />
+        <entry key="CHINESE" value="671" />
         <entry key="ENGLISH" value="576" />
         <entry key="HINDI" value="1" />
       </map>
