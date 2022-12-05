@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="1066" />
     <option name="newTranslationDialogY" value="316" />
     <histories>
+      <item value="循环" />
+      <item value="扩容" />
+      <item value="kuo" />
+      <item value="l" />
+      <item value="k" />
       <item value="ExcessLiquidity" />
       <item value="AvaiToWithdraw" />
       <item value="startOfAvaiToWithdraw" />
@@ -50,16 +55,11 @@
       <item value="忽略" />
       <item value="hu'lei" />
       <item value="hu" />
-      <item value="英文字母&#10;" />
-      <item value="英文" />
-      <item value="字母" />
-      <item value="zi'mu" />
-      <item value="zi" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="672" />
-        <entry key="ENGLISH" value="576" />
+        <entry key="CHINESE" value="704" />
+        <entry key="ENGLISH" value="608" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
