@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="1066" />
     <option name="newTranslationDialogY" value="316" />
     <histories>
+      <item value="validate&#10;" />
+      <item value="校验&#10;" />
       <item value="循环" />
       <item value="扩容" />
       <item value="kuo" />
@@ -53,13 +55,11 @@
       <item value="ignon" />
       <item value="ign" />
       <item value="忽略" />
-      <item value="hu'lei" />
-      <item value="hu" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="704" />
-        <entry key="ENGLISH" value="608" />
+        <entry key="CHINESE" value="720" />
+        <entry key="ENGLISH" value="623" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
