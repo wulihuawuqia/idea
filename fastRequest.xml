@@ -223,9 +223,9 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="localhost:8018" />
+    <option name="domain" value="localhost:8001" />
     <option name="enableEnv" value="dev" />
-    <option name="enableProject" value="trade-app" />
+    <option name="enableProject" value="pt-tax-silver" />
     <option name="envList">
       <list>
         <option value="dev" />
