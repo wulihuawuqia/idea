@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1077" />
     <option name="newTranslationDialogY" value="228" />
     <histories>
+      <item value="BuyWrites" />
       <item value="Balance" />
       <item value="validate&#10;" />
       <item value="校验&#10;" />
@@ -54,11 +55,10 @@
       <item value="优化" />
       <item value="ig" />
       <item value="ignon" />
-      <item value="ign" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="721" />
+        <entry key="CHINESE" value="722" />
         <entry key="ENGLISH" value="623" />
         <entry key="HINDI" value="1" />
       </map>
