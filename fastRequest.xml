@@ -223,9 +223,9 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="localhost:8089" />
+    <option name="domain" value="localhost:8018" />
     <option name="enableEnv" value="dev" />
-    <option name="enableProject" value="localhost" />
+    <option name="enableProject" value="trade-app" />
     <option name="envList">
       <list>
         <option value="dev" />
@@ -283,9 +283,9 @@
     <option name="statisticsList">
       <list>
         <YearStatistics>
-          <option name="totalActionCount" value="411" />
+          <option name="totalActionCount" value="412" />
           <option name="totalFailCount" value="46" />
-          <option name="totalRocketCount" value="57" />
+          <option name="totalRocketCount" value="58" />
           <option name="totalSuccessCount" value="143" />
           <option name="year" value="2022" />
         </YearStatistics>
