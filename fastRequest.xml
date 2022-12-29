@@ -62,7 +62,7 @@
             <list>
               <HostGroup>
                 <option name="env" value="dev" />
-                <option name="url" value="10.70.115.230:8183" />
+                <option name="url" value="localhost:8013" />
               </HostGroup>
               <HostGroup>
                 <option name="env" value="pre" />
@@ -149,6 +149,29 @@
           </option>
           <option name="name" value="pt-tax-silver" />
         </NameGroup>
+        <NameGroup>
+          <option name="hostGroup">
+            <list>
+              <HostGroup>
+                <option name="env" value="dev" />
+                <option name="url" value="localhost:8013" />
+              </HostGroup>
+              <HostGroup>
+                <option name="env" value="pre" />
+                <option name="url" value="" />
+              </HostGroup>
+              <HostGroup>
+                <option name="env" value="test" />
+                <option name="url" value="" />
+              </HostGroup>
+              <HostGroup>
+                <option name="env" value="网关" />
+                <option name="url" value="" />
+              </HostGroup>
+            </list>
+          </option>
+          <option name="name" value="inst-account" />
+        </NameGroup>
       </list>
     </option>
     <option name="defaultDataMappingList">
@@ -223,9 +246,9 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="localhost:8018" />
+    <option name="domain" value="localhost:8013" />
     <option name="enableEnv" value="dev" />
-    <option name="enableProject" value="trade-app" />
+    <option name="enableProject" value="inst-account" />
     <option name="envList">
       <list>
         <option value="dev" />
@@ -253,6 +276,15 @@
           <option name="projectName" value="测试环境" />
         </HeaderGroup>
         <HeaderGroup>
+          <option name="envDataMap">
+            <map>
+              <entry key="dev">
+                <value>
+                  <list />
+                </value>
+              </entry>
+            </map>
+          </option>
           <option name="projectName" value="trade-app" />
         </HeaderGroup>
         <HeaderGroup>
@@ -267,6 +299,18 @@
           </option>
           <option name="projectName" value="pt-tax-silver" />
         </HeaderGroup>
+        <HeaderGroup>
+          <option name="envDataMap">
+            <map>
+              <entry key="dev">
+                <value>
+                  <list />
+                </value>
+              </entry>
+            </map>
+          </option>
+          <option name="projectName" value="inst-account" />
+        </HeaderGroup>
       </list>
     </option>
     <option name="projectList">
@@ -276,6 +320,7 @@
         <option value="kbus" />
         <option value="trade-app" />
         <option value="pt-tax-silver" />
+        <option value="inst-account" />
       </list>
     </option>
     <option name="randomStringLength" value="5" />
@@ -283,10 +328,10 @@
     <option name="statisticsList">
       <list>
         <YearStatistics>
-          <option name="totalActionCount" value="412" />
+          <option name="totalActionCount" value="423" />
           <option name="totalFailCount" value="46" />
-          <option name="totalRocketCount" value="58" />
-          <option name="totalSuccessCount" value="143" />
+          <option name="totalRocketCount" value="61" />
+          <option name="totalSuccessCount" value="146" />
           <option name="year" value="2022" />
         </YearStatistics>
       </list>
