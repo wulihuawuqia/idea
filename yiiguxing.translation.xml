@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="1077" />
     <option name="newTranslationDialogY" value="228" />
     <histories>
+      <item value="送股票" />
+      <item value="song" />
+      <item value="s" />
       <item value="BuyWrites" />
       <item value="Balance" />
       <item value="validate&#10;" />
@@ -37,7 +40,6 @@
       <item value="feild" />
       <item value="fe" />
       <item value="属性" />
-      <item value="s" />
       <item value="validate" />
       <item value="valida" />
       <item value="校验" />
@@ -53,13 +55,11 @@
       <item value="gray" />
       <item value="optimization" />
       <item value="优化" />
-      <item value="ig" />
-      <item value="ignon" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="722" />
-        <entry key="ENGLISH" value="623" />
+        <entry key="CHINESE" value="743" />
+        <entry key="ENGLISH" value="644" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
