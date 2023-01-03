@@ -1,10 +1,30 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogHeight" value="347" />
+    <option name="newTranslationDialogHeight" value="359" />
     <option name="newTranslationDialogWidth" value="692" />
-    <option name="newTranslationDialogX" value="1077" />
-    <option name="newTranslationDialogY" value="228" />
+    <option name="newTranslationDialogX" value="1039" />
+    <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="Accurate assessment of levels;Release Risk Control" />
+      <item value="Precautions:" />
+      <item value="Release plans Detail:" />
+      <item value="Functional Repair Dimension:" />
+      <item value="Affect the dimension of data volume:" />
+      <item value="Impacted User Scope:" />
+      <item value="Urgent release:" />
+      <item value="Functional Impact Description:" />
+      <item value="Whether it affects the use of users:" />
+      <item value="Scripts executed during testing are compared to published scripts:" />
+      <item value="Test environment test pass report" />
+      <item value="Operation event tracking for statistical purpose:" />
+      <item value="Database/Mongo/Cache/ES query volume changes:" />
+      <item value="Changes in the amount of interface calls to other services:" />
+      <item value="Release project and branch, release build check:" />
+      <item value="Have unresolved defects been assessed by a tripartite:" />
+      <item value="Whether the monitoring alarm is completed:" />
+      <item value="Whether the inspection function is complete:" />
+      <item value="Release plans Detail" />
+      <item value="Does it affect user conversions" />
       <item value="送股票" />
       <item value="song" />
       <item value="s" />
@@ -35,31 +55,11 @@
       <item value="ze" />
       <item value="not exists" />
       <item value="field" />
-      <item value="字段" />
-      <item value="z" />
-      <item value="feild" />
-      <item value="fe" />
-      <item value="属性" />
-      <item value="validate" />
-      <item value="valida" />
-      <item value="校验" />
-      <item value="j" />
-      <item value="J" />
-      <item value="print" />
-      <item value="scale" />
-      <item value="grayscale" />
-      <item value="灰度" />
-      <item value="灰du" />
-      <item value="hui" />
-      <item value="hui'fu" />
-      <item value="gray" />
-      <item value="optimization" />
-      <item value="优化" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="743" />
-        <entry key="ENGLISH" value="644" />
+        <entry key="CHINESE" value="763" />
+        <entry key="ENGLISH" value="662" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
