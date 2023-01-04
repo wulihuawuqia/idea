@@ -2,9 +2,11 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="359" />
     <option name="newTranslationDialogWidth" value="692" />
-    <option name="newTranslationDialogX" value="1039" />
-    <option name="newTranslationDialogY" value="201" />
+    <option name="newTranslationDialogX" value="1159" />
+    <option name="newTranslationDialogY" value="248" />
     <histories>
+      <item value="TotalReceivable" />
+      <item value="TotalReceived" />
       <item value="Accurate assessment of levels;Release Risk Control" />
       <item value="Precautions:" />
       <item value="Release plans Detail:" />
@@ -53,12 +55,10 @@
       <item value="增量" />
       <item value="zen" />
       <item value="ze" />
-      <item value="not exists" />
-      <item value="field" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="763" />
+        <entry key="CHINESE" value="765" />
         <entry key="ENGLISH" value="662" />
         <entry key="HINDI" value="1" />
       </map>
