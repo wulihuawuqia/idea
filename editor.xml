@@ -8,6 +8,7 @@
     <option name="disabledCodeVisionProviderIds">
       <set>
         <option value="inheritors" />
+        <option value="references" />
       </set>
     </option>
   </component>
