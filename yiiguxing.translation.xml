@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="1159" />
     <option name="newTranslationDialogY" value="248" />
     <histories>
+      <item value="层" />
+      <item value="ceng" />
+      <item value="cen" />
+      <item value="ce" />
       <item value="TotalReceivable" />
       <item value="TotalReceived" />
       <item value="Accurate assessment of levels;Release Risk Control" />
@@ -51,15 +55,11 @@
       <item value="Customer portion of Total Income" />
       <item value="处理" />
       <item value="特殊" />
-      <item value="Incremental" />
-      <item value="增量" />
-      <item value="zen" />
-      <item value="ze" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="765" />
-        <entry key="ENGLISH" value="662" />
+        <entry key="CHINESE" value="775" />
+        <entry key="ENGLISH" value="672" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
