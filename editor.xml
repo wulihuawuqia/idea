@@ -15,6 +15,9 @@
   <component name="DaemonCodeAnalyzerSettings">
     <option name="NEXT_ERROR_ACTION_GOES_TO_ERRORS_FIRST" value="false" />
   </component>
+  <component name="EditorSettings">
+    <option name="ENABLE_RENDERED_DOC" value="true" />
+  </component>
   <component name="TodoConfiguration">
     <multiLine>false</multiLine>
     <pattern pattern="\btodo\b.*" />
