@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1159" />
     <option name="newTranslationDialogY" value="248" />
     <histories>
+      <item value="Abnormal" />
       <item value="OptionDeliverableInfo" />
       <item value="Funds" />
       <item value="Replace" />
@@ -54,11 +55,10 @@
       <item value="novembe" />
       <item value="nove" />
       <item value="deduction" />
-      <item value="扣减" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="778" />
+        <entry key="CHINESE" value="779" />
         <entry key="ENGLISH" value="672" />
         <entry key="HINDI" value="1" />
       </map>
