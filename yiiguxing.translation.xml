@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="1159" />
     <option name="newTranslationDialogY" value="248" />
     <histories>
+      <item value="multiplier" />
+      <item value="deliverable" />
       <item value="Abnormal" />
       <item value="OptionDeliverableInfo" />
       <item value="Funds" />
@@ -53,12 +55,10 @@
       <item value="Consistency mode for health service request." />
       <item value="november" />
       <item value="novembe" />
-      <item value="nove" />
-      <item value="deduction" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="780" />
+        <entry key="CHINESE" value="782" />
         <entry key="ENGLISH" value="672" />
         <entry key="HINDI" value="1" />
       </map>
