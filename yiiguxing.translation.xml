@@ -5,6 +5,14 @@
     <option name="newTranslationDialogX" value="1159" />
     <option name="newTranslationDialogY" value="248" />
     <histories>
+      <item value="邻接矩阵" />
+      <item value="邻接ju'zhen" />
+      <item value="邻接举证" />
+      <item value="邻接" />
+      <item value="邻jie" />
+      <item value="lin" />
+      <item value="lin'jie" />
+      <item value="存储" />
       <item value="trade" />
       <item value="tra" />
       <item value="tread" />
@@ -47,19 +55,11 @@
       <item value="送股票" />
       <item value="song" />
       <item value="s" />
-      <item value="BuyWrites" />
-      <item value="Balance" />
-      <item value="validate&#10;" />
-      <item value="校验&#10;" />
-      <item value="循环" />
-      <item value="扩容" />
-      <item value="kuo" />
-      <item value="l" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="786" />
-        <entry key="ENGLISH" value="673" />
+        <entry key="CHINESE" value="821" />
+        <entry key="ENGLISH" value="708" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
