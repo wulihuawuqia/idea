@@ -2,9 +2,12 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="359" />
     <option name="newTranslationDialogWidth" value="692" />
-    <option name="newTranslationDialogX" value="1159" />
-    <option name="newTranslationDialogY" value="248" />
+    <option name="newTranslationDialogX" value="1211" />
+    <option name="newTranslationDialogY" value="208" />
     <histories>
+      <item value="distance" />
+      <item value="距离" />
+      <item value="distinct" />
       <item value="邻接矩阵" />
       <item value="邻接ju'zhen" />
       <item value="邻接举证" />
@@ -52,14 +55,11 @@
       <item value="Whether the inspection function is complete:" />
       <item value="Release plans Detail" />
       <item value="Does it affect user conversions" />
-      <item value="送股票" />
-      <item value="song" />
-      <item value="s" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="821" />
-        <entry key="ENGLISH" value="708" />
+        <entry key="CHINESE" value="852" />
+        <entry key="ENGLISH" value="738" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
