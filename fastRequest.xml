@@ -265,7 +265,12 @@
             <map>
               <entry key="dev">
                 <value>
-                  <list />
+                  <list>
+                    <DataMapping>
+                      <option name="type" value="userId" />
+                      <option name="value" value="29776" />
+                    </DataMapping>
+                  </list>
                 </value>
               </entry>
             </map>
@@ -335,10 +340,10 @@
           <option name="year" value="2022" />
         </YearStatistics>
         <YearStatistics>
-          <option name="totalActionCount" value="35" />
-          <option name="totalFailCount" value="2" />
-          <option name="totalRocketCount" value="5" />
-          <option name="totalSuccessCount" value="22" />
+          <option name="totalActionCount" value="40" />
+          <option name="totalFailCount" value="3" />
+          <option name="totalRocketCount" value="7" />
+          <option name="totalSuccessCount" value="25" />
           <option name="year" value="2023" />
         </YearStatistics>
       </list>
