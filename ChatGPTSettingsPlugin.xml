@@ -2,5 +2,7 @@
   <component name="com.obiscr.chatgpt.settings.SettingsState">
     <option name="accessToken" value="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" />
     <option name="urlType" value="OFFICIAL" />
+    <option name="readTimeout" value="30000" />
+    <option name="connectionTimeout" value="30000" />
   </component>
 </application>
