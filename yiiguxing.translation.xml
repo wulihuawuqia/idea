@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1211" />
     <option name="newTranslationDialogY" value="208" />
     <histories>
+      <item value="Margin Excess" />
       <item value="estimated" />
       <item value="Abnormal" />
       <item value="已" />
@@ -54,11 +55,10 @@
       <item value="Operation event tracking for statistical purpose:" />
       <item value="Database/Mongo/Cache/ES query volume changes:" />
       <item value="Changes in the amount of interface calls to other services:" />
-      <item value="Release project and branch, release build check:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="859" />
+        <entry key="CHINESE" value="860" />
         <entry key="ENGLISH" value="743" />
         <entry key="HINDI" value="1" />
       </map>
