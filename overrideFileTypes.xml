@@ -1,0 +1,5 @@
+<application>
+  <component name="OverrideFileTypeManager">
+    <file url="file://$USER_HOME$/IdeaProjects/webull/webull-trade-account/trade-account-common/src/main/resources/mybatis/SodAmountAvailableDao.xml" value="AndroidProfilerCpuCapture" />
+  </component>
+</application>
