@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="1211" />
     <option name="newTranslationDialogY" value="208" />
     <histories>
+      <item value="区间" />
+      <item value="q" />
       <item value="Margin Excess" />
       <item value="estimated" />
       <item value="Abnormal" />
@@ -53,13 +55,11 @@
       <item value="Scripts executed during testing are compared to published scripts:" />
       <item value="Test environment test pass report" />
       <item value="Operation event tracking for statistical purpose:" />
-      <item value="Database/Mongo/Cache/ES query volume changes:" />
-      <item value="Changes in the amount of interface calls to other services:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="860" />
-        <entry key="ENGLISH" value="743" />
+        <entry key="CHINESE" value="873" />
+        <entry key="ENGLISH" value="756" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
