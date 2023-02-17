@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1211" />
     <option name="newTranslationDialogY" value="208" />
     <histories>
+      <item value="Exists" />
       <item value="等待确认&#10;" />
       <item value="demg待确认&#10;" />
       <item value="de待确认&#10;" />
@@ -54,11 +55,10 @@
       <item value="Precautions:" />
       <item value="Release plans Detail:" />
       <item value="Functional Repair Dimension:" />
-      <item value="Affect the dimension of data volume:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="894" />
+        <entry key="CHINESE" value="895" />
         <entry key="ENGLISH" value="777" />
         <entry key="HINDI" value="1" />
       </map>
