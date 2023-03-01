@@ -246,9 +246,9 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="localhost:8089" />
+    <option name="domain" value="localhost:8013" />
     <option name="enableEnv" value="dev" />
-    <option name="enableProject" value="localhost" />
+    <option name="enableProject" value="测试环境" />
     <option name="envList">
       <list>
         <option value="dev" />
@@ -340,9 +340,9 @@
           <option name="year" value="2022" />
         </YearStatistics>
         <YearStatistics>
-          <option name="totalActionCount" value="47" />
+          <option name="totalActionCount" value="52" />
           <option name="totalFailCount" value="4" />
-          <option name="totalRocketCount" value="8" />
+          <option name="totalRocketCount" value="10" />
           <option name="totalSuccessCount" value="30" />
           <option name="year" value="2023" />
         </YearStatistics>
