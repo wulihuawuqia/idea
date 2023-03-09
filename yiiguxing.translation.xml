@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1088" />
     <option name="newTranslationDialogY" value="238" />
     <histories>
+      <item value="变量" />
       <item value="识别" />
       <item value="shi" />
       <item value="fe" />
@@ -54,12 +55,11 @@
       <item value="tread" />
       <item value="tread&#10;" />
       <item value="Tread" />
-      <item value="fetch" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="984" />
-        <entry key="ENGLISH" value="863" />
+        <entry key="CHINESE" value="995" />
+        <entry key="ENGLISH" value="874" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
