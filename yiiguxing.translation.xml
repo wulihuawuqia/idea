@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1088" />
     <option name="newTranslationDialogY" value="238" />
     <histories>
+      <item value="待成交" />
       <item value="deliverable" />
       <item value="combination" />
       <item value="成交" />
@@ -54,7 +55,6 @@
       <item value="lin" />
       <item value="lin'jie" />
       <item value="存储" />
-      <item value="trade" />
     </histories>
     <option name="languageScores">
       <map>
