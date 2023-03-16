@@ -5,6 +5,12 @@
     <option name="newTranslationDialogX" value="1088" />
     <option name="newTranslationDialogY" value="238" />
     <histories>
+      <item value="remaining" />
+      <item value="剩余" />
+      <item value="sheng'yu" />
+      <item value="神域" />
+      <item value="remain" />
+      <item value="re" />
       <item value="single" />
       <item value="sin" />
       <item value="sinle" />
@@ -49,17 +55,11 @@
       <item value="已=" />
       <item value="已遍历" />
       <item value="yi" />
-      <item value="distance" />
-      <item value="距离" />
-      <item value="distinct" />
-      <item value="邻接矩阵" />
-      <item value="邻接ju'zhen" />
-      <item value="邻接举证" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1020" />
-        <entry key="ENGLISH" value="895" />
+        <entry key="CHINESE" value="1049" />
+        <entry key="ENGLISH" value="923" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
