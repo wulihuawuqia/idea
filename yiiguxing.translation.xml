@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1088" />
     <option name="newTranslationDialogY" value="238" />
     <histories>
+      <item value="invoke" />
       <item value="current" />
       <item value="当前" />
       <item value="cur" />
@@ -54,11 +55,10 @@
       <item value="demg待确认&#10;" />
       <item value="de待确认&#10;" />
       <item value="待确认&#10;" />
-      <item value="dai" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1077" />
+        <entry key="CHINESE" value="1078" />
         <entry key="ENGLISH" value="945" />
         <entry key="HINDI" value="1" />
       </map>
