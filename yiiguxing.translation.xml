@@ -3,8 +3,14 @@
     <option name="newTranslationDialogHeight" value="359" />
     <option name="newTranslationDialogWidth" value="692" />
     <option name="newTranslationDialogX" value="1088" />
-    <option name="newTranslationDialogY" value="238" />
+    <option name="newTranslationDialogY" value="237" />
     <histories>
+      <item value="Multi" />
+      <item value="muilt" />
+      <item value="muil" />
+      <item value="mu" />
+      <item value="多个" />
+      <item value="Muilt" />
       <item value="commission" />
       <item value="invoke" />
       <item value="current" />
@@ -49,17 +55,11 @@
       <item value="da" />
       <item value="Sign" />
       <item value="存量" />
-      <item value="cun" />
-      <item value="cu" />
-      <item value="Exists" />
-      <item value="等待确认&#10;" />
-      <item value="demg待确认&#10;" />
-      <item value="de待确认&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1079" />
-        <entry key="ENGLISH" value="945" />
+        <entry key="CHINESE" value="1099" />
+        <entry key="ENGLISH" value="964" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
