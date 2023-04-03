@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="1088" />
     <option name="newTranslationDialogY" value="237" />
     <histories>
+      <item value="major or critical" />
+      <item value="major" />
+      <item value="Instrument" />
       <item value="leverage" />
       <item value="DebitDividend" />
       <item value="DebitInterest" />
@@ -52,13 +55,10 @@
       <item value="耗时" />
       <item value="Margin Requirement" />
       <item value="Maintenance margin" />
-      <item value="金额" />
-      <item value="j" />
-      <item value="Amount" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1103" />
+        <entry key="CHINESE" value="1106" />
         <entry key="ENGLISH" value="964" />
         <entry key="HINDI" value="1" />
       </map>
