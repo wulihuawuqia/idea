@@ -172,6 +172,29 @@
           </option>
           <option name="name" value="inst-account" />
         </NameGroup>
+        <NameGroup>
+          <option name="hostGroup">
+            <list>
+              <HostGroup>
+                <option name="env" value="dev" />
+                <option name="url" value="localhost:8029" />
+              </HostGroup>
+              <HostGroup>
+                <option name="env" value="pre" />
+                <option name="url" value="" />
+              </HostGroup>
+              <HostGroup>
+                <option name="env" value="test" />
+                <option name="url" value="" />
+              </HostGroup>
+              <HostGroup>
+                <option name="env" value="网关" />
+                <option name="url" value="" />
+              </HostGroup>
+            </list>
+          </option>
+          <option name="name" value="rzone-trade-support" />
+        </NameGroup>
       </list>
     </option>
     <option name="defaultDataMappingList">
@@ -246,9 +269,9 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="localhost:8013" />
+    <option name="domain" value="localhost:8029" />
     <option name="enableEnv" value="dev" />
-    <option name="enableProject" value="测试环境" />
+    <option name="enableProject" value="rzone-trade-support" />
     <option name="envList">
       <list>
         <option value="dev" />
@@ -278,6 +301,15 @@
           <option name="projectName" value="localhost" />
         </HeaderGroup>
         <HeaderGroup>
+          <option name="envDataMap">
+            <map>
+              <entry key="dev">
+                <value>
+                  <list />
+                </value>
+              </entry>
+            </map>
+          </option>
           <option name="projectName" value="测试环境" />
         </HeaderGroup>
         <HeaderGroup>
@@ -316,6 +348,18 @@
           </option>
           <option name="projectName" value="inst-account" />
         </HeaderGroup>
+        <HeaderGroup>
+          <option name="envDataMap">
+            <map>
+              <entry key="dev">
+                <value>
+                  <list />
+                </value>
+              </entry>
+            </map>
+          </option>
+          <option name="projectName" value="rzone-trade-support" />
+        </HeaderGroup>
       </list>
     </option>
     <option name="projectList">
@@ -326,6 +370,7 @@
         <option value="trade-app" />
         <option value="pt-tax-silver" />
         <option value="inst-account" />
+        <option value="rzone-trade-support" />
       </list>
     </option>
     <option name="randomStringLength" value="5" />
@@ -340,10 +385,10 @@
           <option name="year" value="2022" />
         </YearStatistics>
         <YearStatistics>
-          <option name="totalActionCount" value="53" />
+          <option name="totalActionCount" value="63" />
           <option name="totalFailCount" value="4" />
-          <option name="totalRocketCount" value="11" />
-          <option name="totalSuccessCount" value="30" />
+          <option name="totalRocketCount" value="12" />
+          <option name="totalSuccessCount" value="33" />
           <option name="year" value="2023" />
         </YearStatistics>
       </list>
