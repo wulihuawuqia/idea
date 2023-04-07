@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="1088" />
     <option name="newTranslationDialogY" value="237" />
     <histories>
+      <item value="灰度" />
+      <item value="hui" />
       <item value="major or critical" />
       <item value="major" />
       <item value="Instrument" />
@@ -53,13 +55,11 @@
       <item value="shi" />
       <item value="fe" />
       <item value="耗时" />
-      <item value="Margin Requirement" />
-      <item value="Maintenance margin" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1106" />
-        <entry key="ENGLISH" value="964" />
+        <entry key="CHINESE" value="1118" />
+        <entry key="ENGLISH" value="976" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
