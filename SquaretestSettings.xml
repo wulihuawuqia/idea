@@ -1,5 +1,40 @@
 <application>
   <component name="SquaretestSettings">
+    <option name="usageStatsEnabled" value="true" />
+    <option name="projectNameToSettingsMap">
+      <map>
+        <entry key="webull-trade-assets">
+          <value>
+            <ProjectSettings>
+              <option name="projectName" value="webull-trade-assets" />
+              <option name="templateLanguage" value="Java" />
+              <option name="template">
+                <Template>
+                  <option name="presentationName" value="JUnit4Mockito.java.ft" />
+                  <option name="internalTemplateSaveName" value="SQTJ-JUnit4Mockito.java" />
+                  <option name="isInternal" value="true" />
+                </Template>
+              </option>
+              <option name="moduleAutoConfigSetting" value="AUTOMATICALLY_CONFIGURE_WHEN_POSSIBLE" />
+            </ProjectSettings>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectNameModuleNameToSettingsMap">
+      <map>
+        <entry key="webull-trade-assets_trade-assets-service">
+          <value>
+            <ModuleSettings>
+              <option name="moduleName" value="trade-assets-service" />
+              <option name="testDirectoryRoot" value="trade-assets-service/src/test/java" />
+            </ModuleSettings>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="collectUsageStats" value="true" />
+    <option name="hasShownMetricsDisclosure" value="true" />
     <option name="id" value="b0e49c83-cc76-4fa3-ac08-a71913984520" />
   </component>
 </application>
