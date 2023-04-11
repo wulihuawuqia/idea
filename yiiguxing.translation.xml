@@ -5,8 +5,8 @@
     <option name="newTranslationDialogX" value="1123" />
     <option name="newTranslationDialogY" value="228" />
     <histories>
-      <item value="moneta" />
       <item value="timing" />
+      <item value="moneta" />
       <item value="已经处理" />
       <item value="expectTotal" />
       <item value="灰度" />
@@ -58,7 +58,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1129" />
+        <entry key="CHINESE" value="1130" />
         <entry key="ENGLISH" value="983" />
         <entry key="HINDI" value="1" />
       </map>
