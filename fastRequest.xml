@@ -269,9 +269,9 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="localhost:8013" />
+    <option name="domain" value="localhost:8029" />
     <option name="enableEnv" value="dev" />
-    <option name="enableProject" value="测试环境" />
+    <option name="enableProject" value="rzone-trade-support" />
     <option name="envList">
       <list>
         <option value="dev" />
@@ -387,7 +387,7 @@
         <YearStatistics>
           <option name="totalActionCount" value="69" />
           <option name="totalFailCount" value="4" />
-          <option name="totalRocketCount" value="16" />
+          <option name="totalRocketCount" value="17" />
           <option name="totalSuccessCount" value="33" />
           <option name="year" value="2023" />
         </YearStatistics>
