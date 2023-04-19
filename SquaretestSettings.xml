@@ -3,6 +3,22 @@
     <option name="usageStatsEnabled" value="true" />
     <option name="projectNameToSettingsMap">
       <map>
+        <entry key="unit-test-sample">
+          <value>
+            <ProjectSettings>
+              <option name="projectName" value="unit-test-sample" />
+              <option name="templateLanguage" value="Java" />
+              <option name="template">
+                <Template>
+                  <option name="presentationName" value="JUnit4MockitoSpringAssertJ.java.ft" />
+                  <option name="internalTemplateSaveName" value="SQTJ-JUnit4MockitoSpringAssertJ.java" />
+                  <option name="isInternal" value="true" />
+                </Template>
+              </option>
+              <option name="moduleAutoConfigSetting" value="AUTOMATICALLY_CONFIGURE_WHEN_POSSIBLE" />
+            </ProjectSettings>
+          </value>
+        </entry>
         <entry key="webull-trade-assets">
           <value>
             <ProjectSettings>
@@ -23,6 +39,14 @@
     </option>
     <option name="projectNameModuleNameToSettingsMap">
       <map>
+        <entry key="unit-test-sample_unit-test-sample">
+          <value>
+            <ModuleSettings>
+              <option name="moduleName" value="unit-test-sample" />
+              <option name="testDirectoryRoot" value="src/test/java" />
+            </ModuleSettings>
+          </value>
+        </entry>
         <entry key="webull-trade-assets_trade-assets-service">
           <value>
             <ModuleSettings>
