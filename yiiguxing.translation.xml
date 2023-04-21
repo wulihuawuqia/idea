@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="1123" />
     <option name="newTranslationDialogY" value="228" />
     <histories>
+      <item value="剩余流动性" />
+      <item value="Liquidity" />
       <item value="relation" />
       <item value="关系" />
       <item value="关联" />
@@ -53,12 +55,10 @@
       <item value="factor" />
       <item value="系数" />
       <item value="xi" />
-      <item value="remaining" />
-      <item value="剩余" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1219" />
+        <entry key="CHINESE" value="1220" />
         <entry key="ENGLISH" value="1068" />
         <entry key="HINDI" value="1" />
       </map>
