@@ -1,5 +1,7 @@
 <application>
   <component name="easyJavadoc">
+    <option name="accessKeyId" value="" />
+    <option name="accessKeySecret" value="" />
     <option name="appId" value="" />
     <option name="author" value="wuqia" />
     <option name="secretId" value="" />
@@ -8,6 +10,7 @@
     <option name="token" value="" />
     <option name="wordMap">
       <map>
+        <entry key="excessliquidity" value="剩余流动性" />
         <entry key="position" value="持仓" />
       </map>
     </option>
