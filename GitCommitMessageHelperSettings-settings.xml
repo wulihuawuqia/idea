@@ -1,0 +1,61 @@
+<application>
+  <component name="GitCommitMessageHelperSettings">
+    <option name="dateSettings">
+      <DataSettings>
+        <option name="template" value="#if($type)&lt;${type}&gt;#end#if($scope)[${scope}]#end: #if($subject)${subject}#end&#10;#if($body)${newline}${newline}${body}#end&#10;#if($changes)${newline}${newline}BREAKING CHANGE: ${changes}#end&#10;#if($closes)${newline}${newline}Closes ${closes}#end&#10;" />
+        <option name="typeAliases">
+          <list>
+            <TypeAlias>
+              <option name="title" value="feat" />
+              <option name="description" value="新功能(feature)" />
+            </TypeAlias>
+            <TypeAlias>
+              <option name="title" value="fix" />
+              <option name="description" value="修补bug" />
+            </TypeAlias>
+            <TypeAlias>
+              <option name="title" value="refactor" />
+              <option name="description" value="重构(即不是新增功能，也不是修改bug的代码变动)" />
+            </TypeAlias>
+            <TypeAlias>
+              <option name="title" value="docs" />
+              <option name="description" value="文档(documentation)" />
+            </TypeAlias>
+            <TypeAlias>
+              <option name="title" value="perf" />
+              <option name="description" value="性能、体验相关的提交" />
+            </TypeAlias>
+            <TypeAlias>
+              <option name="title" value="ci" />
+              <option name="description" value="修改项目的持续集成流程(Kenkins、Travis等)的提交" />
+            </TypeAlias>
+            <TypeAlias>
+              <option name="title" value="revert" />
+              <option name="description" value="回滚某个更早的提交" />
+            </TypeAlias>
+            <TypeAlias>
+              <option name="title" value="build" />
+              <option name="description" value="修改项目构建系统(xcodebuild、webpack、glup等)的提交" />
+            </TypeAlias>
+            <TypeAlias>
+              <option name="title" value="style" />
+              <option name="description" value="不影响程序逻辑的代码修改、主要是样式方面的优化、修改" />
+            </TypeAlias>
+            <TypeAlias>
+              <option name="title" value="test" />
+              <option name="description" value="Adding missing tests or correcting existing tests" />
+            </TypeAlias>
+            <TypeAlias>
+              <option name="title" value="build" />
+              <option name="description" value="Changes that affect the build system or external dependencies (example scopes: gulp, broccoli, npm)" />
+            </TypeAlias>
+            <TypeAlias>
+              <option name="title" value="chore" />
+              <option name="description" value="Other changes that don't modify src or test files" />
+            </TypeAlias>
+          </list>
+        </option>
+      </DataSettings>
+    </option>
+  </component>
+</application>
