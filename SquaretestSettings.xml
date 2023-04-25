@@ -47,6 +47,14 @@
             </ModuleSettings>
           </value>
         </entry>
+        <entry key="webull-trade-assets_trade-assets-common">
+          <value>
+            <ModuleSettings>
+              <option name="moduleName" value="trade-assets-common" />
+              <option name="testDirectoryRoot" value="trade-assets-service/src/test/java" />
+            </ModuleSettings>
+          </value>
+        </entry>
         <entry key="webull-trade-assets_trade-assets-service">
           <value>
             <ModuleSettings>
