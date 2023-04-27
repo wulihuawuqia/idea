@@ -150,9 +150,13 @@
           <option name="url" value="ssh://git@gitlab.ustock.cc:5153/inst-sales/st-assets.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@gitlab.ustock.cc:5153/inst-sales/st-order.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects/canada" />
+    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects/canada/st" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
