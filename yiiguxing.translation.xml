@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="1123" />
     <option name="newTranslationDialogY" value="228" />
     <histories>
+      <item value="security" />
+      <item value="quote" />
       <item value="剩余流动性" />
       <item value="Liquidity" />
       <item value="relation" />
@@ -53,12 +55,10 @@
       <item value="OptionDeliverable" />
       <item value="Deliverable" />
       <item value="factor" />
-      <item value="系数" />
-      <item value="xi" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1220" />
+        <entry key="CHINESE" value="1222" />
         <entry key="ENGLISH" value="1068" />
         <entry key="HINDI" value="1" />
       </map>
