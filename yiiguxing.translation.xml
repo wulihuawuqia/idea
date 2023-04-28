@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="1123" />
     <option name="newTranslationDialogY" value="228" />
     <histories>
+      <item value="frozen" />
+      <item value="froze" />
+      <item value="f" />
+      <item value="currency exchange" />
+      <item value="换汇" />
       <item value="冻结" />
       <item value="FREEZE" />
       <item value="RETURN" />
@@ -50,16 +55,11 @@
       <item value="muil" />
       <item value="mu" />
       <item value="多个" />
-      <item value="Muilt" />
-      <item value="commission" />
-      <item value="invoke" />
-      <item value="current" />
-      <item value="当前" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1228" />
-        <entry key="ENGLISH" value="1069" />
+        <entry key="CHINESE" value="1245" />
+        <entry key="ENGLISH" value="1084" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
