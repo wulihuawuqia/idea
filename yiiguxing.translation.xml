@@ -5,6 +5,18 @@
     <option name="newTranslationDialogX" value="1123" />
     <option name="newTranslationDialogY" value="228" />
     <histories>
+      <item value="fro" />
+      <item value="froze" />
+      <item value="frozen" />
+      <item value="f" />
+      <item value="ro" />
+      <item value="冻结" />
+      <item value="dong" />
+      <item value="DON" />
+      <item value="WITHDRAW_FRZON" />
+      <item value="WITHDRAW_FR" />
+      <item value="WITHDRAW_F" />
+      <item value="WITHDRAW_FRZONE" />
       <item value="receiveable" />
       <item value="适配器" />
       <item value="适配qi" />
@@ -17,12 +29,8 @@
       <item value="external" />
       <item value="外部依赖" />
       <item value="wa" />
-      <item value="frozen" />
-      <item value="froze" />
-      <item value="f" />
       <item value="currency exchange" />
       <item value="换汇" />
-      <item value="冻结" />
       <item value="FREEZE" />
       <item value="RETURN" />
       <item value="WITHDRAW" />
@@ -47,19 +55,11 @@
       <item value="sis" />
       <item value="越界" />
       <item value="yue'jie" />
-      <item value="yue'je" />
-      <item value="yu" />
-      <item value="timing" />
-      <item value="moneta" />
-      <item value="已经处理" />
-      <item value="expectTotal" />
-      <item value="灰度" />
-      <item value="hui" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1315" />
-        <entry key="ENGLISH" value="1152" />
+        <entry key="CHINESE" value="1355" />
+        <entry key="ENGLISH" value="1191" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
