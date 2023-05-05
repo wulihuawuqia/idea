@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="1123" />
     <option name="newTranslationDialogY" value="228" />
     <histories>
+      <item value="t" />
+      <item value="LoanValue" />
       <item value="fro" />
       <item value="froze" />
       <item value="frozen" />
@@ -53,13 +55,11 @@
       <item value="死锁" />
       <item value="si" />
       <item value="sis" />
-      <item value="越界" />
-      <item value="yue'jie" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1355" />
-        <entry key="ENGLISH" value="1191" />
+        <entry key="CHINESE" value="1357" />
+        <entry key="ENGLISH" value="1192" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
