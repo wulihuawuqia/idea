@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="1123" />
     <option name="newTranslationDialogY" value="228" />
     <histories>
+      <item value="isolation" />
+      <item value="隔离" />
+      <item value="external" />
+      <item value="外部依赖" />
+      <item value="wa" />
       <item value="frozen" />
       <item value="froze" />
       <item value="f" />
@@ -50,16 +55,11 @@
       <item value="DebitDividend" />
       <item value="DebitInterest" />
       <item value="Allows equity flow to participate in only the pre-market trading session." />
-      <item value="Multi" />
-      <item value="muilt" />
-      <item value="muil" />
-      <item value="mu" />
-      <item value="多个" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1246" />
-        <entry key="ENGLISH" value="1085" />
+        <entry key="CHINESE" value="1286" />
+        <entry key="ENGLISH" value="1124" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
