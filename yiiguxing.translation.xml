@@ -5,6 +5,12 @@
     <option name="newTranslationDialogX" value="1123" />
     <option name="newTranslationDialogY" value="228" />
     <histories>
+      <item value="适配器" />
+      <item value="适配qi" />
+      <item value="适配" />
+      <item value="shi'pei" />
+      <item value="adapt" />
+      <item value="adaptation" />
       <item value="isolation" />
       <item value="隔离" />
       <item value="external" />
@@ -49,17 +55,11 @@
       <item value="灰度" />
       <item value="hui" />
       <item value="major or critical" />
-      <item value="major" />
-      <item value="Instrument" />
-      <item value="leverage" />
-      <item value="DebitDividend" />
-      <item value="DebitInterest" />
-      <item value="Allows equity flow to participate in only the pre-market trading session." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1286" />
-        <entry key="ENGLISH" value="1124" />
+        <entry key="CHINESE" value="1314" />
+        <entry key="ENGLISH" value="1152" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
