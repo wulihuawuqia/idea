@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1123" />
     <option name="newTranslationDialogY" value="228" />
     <histories>
+      <item value="Process" />
       <item value="t" />
       <item value="LoanValue" />
       <item value="fro" />
@@ -54,11 +55,10 @@
       <item value="Brokers Leader Skewed" />
       <item value="死锁" />
       <item value="si" />
-      <item value="sis" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1357" />
+        <entry key="CHINESE" value="1358" />
         <entry key="ENGLISH" value="1192" />
         <entry key="HINDI" value="1" />
       </map>
