@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1123" />
     <option name="newTranslationDialogY" value="228" />
     <histories>
+      <item value="外部依赖" />
       <item value="Process" />
       <item value="t" />
       <item value="LoanValue" />
@@ -30,7 +31,6 @@
       <item value="isolation" />
       <item value="隔离" />
       <item value="external" />
-      <item value="外部依赖" />
       <item value="wa" />
       <item value="currency exchange" />
       <item value="换汇" />
@@ -58,8 +58,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1358" />
-        <entry key="ENGLISH" value="1192" />
+        <entry key="CHINESE" value="1369" />
+        <entry key="ENGLISH" value="1203" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
