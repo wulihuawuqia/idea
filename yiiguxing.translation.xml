@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="1123" />
     <option name="newTranslationDialogY" value="228" />
     <histories>
+      <item value="已经处理" />
+      <item value="唯一键" />
+      <item value="wei'yi'jian" />
+      <item value="WI" />
+      <item value="UNI" />
       <item value="外部依赖" />
       <item value="Process" />
       <item value="t" />
@@ -50,16 +55,11 @@
       <item value="g" />
       <item value="gu" />
       <item value="cover" />
-      <item value="co" />
-      <item value="c" />
-      <item value="Brokers Leader Skewed" />
-      <item value="死锁" />
-      <item value="si" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1369" />
-        <entry key="ENGLISH" value="1203" />
+        <entry key="CHINESE" value="1401" />
+        <entry key="ENGLISH" value="1235" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
