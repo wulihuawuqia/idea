@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="1123" />
     <option name="newTranslationDialogY" value="228" />
     <histories>
+      <item value="surplus" />
+      <item value="浮盈" />
+      <item value="Floating" />
       <item value="已经处理" />
       <item value="唯一键" />
       <item value="wei'yi'jian" />
@@ -52,14 +55,11 @@
       <item value="关系" />
       <item value="关联" />
       <item value="挂单" />
-      <item value="g" />
-      <item value="gu" />
-      <item value="cover" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1401" />
-        <entry key="ENGLISH" value="1235" />
+        <entry key="CHINESE" value="1403" />
+        <entry key="ENGLISH" value="1236" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
