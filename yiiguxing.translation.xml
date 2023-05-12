@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="1123" />
     <option name="newTranslationDialogY" value="228" />
     <histories>
+      <item value="finally" />
+      <item value="最终" />
       <item value="SYS_RECURRING" />
       <item value="定" />
       <item value="定投" />
@@ -53,13 +55,11 @@
       <item value="WithdrawFreeze" />
       <item value="security" />
       <item value="quote" />
-      <item value="剩余流动性" />
-      <item value="Liquidity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1421" />
-        <entry key="ENGLISH" value="1252" />
+        <entry key="CHINESE" value="1438" />
+        <entry key="ENGLISH" value="1268" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
