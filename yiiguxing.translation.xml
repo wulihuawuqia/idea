@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="748" />
     <option name="newTranslationDialogY" value="228" />
     <histories>
+      <item value="Virtual" />
       <item value="Factor" />
       <item value="昨天" />
       <item value="finally" />
@@ -54,11 +55,10 @@
       <item value="RETURN" />
       <item value="WITHDRAW" />
       <item value="EFFECTIVE" />
-      <item value="WithdrawFreeze" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1454" />
+        <entry key="CHINESE" value="1455" />
         <entry key="ENGLISH" value="1283" />
         <entry key="HINDI" value="1" />
       </map>
