@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1123" />
     <option name="newTranslationDialogY" value="228" />
     <histories>
+      <item value="昨天" />
       <item value="finally" />
       <item value="最终" />
       <item value="SYS_RECURRING" />
@@ -54,12 +55,11 @@
       <item value="EFFECTIVE" />
       <item value="WithdrawFreeze" />
       <item value="security" />
-      <item value="quote" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1438" />
-        <entry key="ENGLISH" value="1268" />
+        <entry key="CHINESE" value="1453" />
+        <entry key="ENGLISH" value="1283" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
