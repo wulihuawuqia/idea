@@ -2,7 +2,7 @@
   <component name="MyBatisCodeHelper">
     <option name="profile">
       <Profile>
-        <option name="checkUsage" value="17" />
+        <option name="checkUsage" value="18" />
         <option name="convertByteOrShortToInt" value="true" />
         <option name="disableCompleteWithJdbcType" value="true" />
         <option name="mybatisGeneratorMapperSuffix" value="Dao" />
