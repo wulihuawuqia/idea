@@ -269,9 +269,9 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="localhost:8013" />
-    <option name="enableEnv" value="dev" />
-    <option name="enableProject" value="测试环境" />
+    <option name="domain" value="http://localhost:8080" />
+    <option name="enableEnv" value="local" />
+    <option name="enableProject" value="natrade-assets-api" />
     <option name="envList">
       <list>
         <option value="dev" />
@@ -384,11 +384,11 @@
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="X-Account-Id" />
-                      <option name="value" value="1234502" />
+                      <option name="value" value="6668483927981426688" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="X-User-Id" />
-                      <option name="value" value="6668483927981426688" />
+                      <option name="value" value="1234502" />
                     </DataMapping>
                   </list>
                 </value>
@@ -422,10 +422,10 @@
           <option name="year" value="2022" />
         </YearStatistics>
         <YearStatistics>
-          <option name="totalActionCount" value="98" />
-          <option name="totalFailCount" value="26" />
+          <option name="totalActionCount" value="116" />
+          <option name="totalFailCount" value="39" />
           <option name="totalRocketCount" value="29" />
-          <option name="totalSuccessCount" value="37" />
+          <option name="totalSuccessCount" value="38" />
           <option name="year" value="2023" />
         </YearStatistics>
       </list>
