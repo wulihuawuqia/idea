@@ -384,11 +384,11 @@
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="X-Account-Id" />
-                      <option name="value" value="20720" />
+                      <option name="value" value="1234502" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="X-User-Id" />
-                      <option name="value" value="100025717" />
+                      <option name="value" value="6668483927981426688" />
                     </DataMapping>
                   </list>
                 </value>
@@ -422,8 +422,8 @@
           <option name="year" value="2022" />
         </YearStatistics>
         <YearStatistics>
-          <option name="totalActionCount" value="97" />
-          <option name="totalFailCount" value="25" />
+          <option name="totalActionCount" value="98" />
+          <option name="totalFailCount" value="26" />
           <option name="totalRocketCount" value="29" />
           <option name="totalSuccessCount" value="37" />
           <option name="year" value="2023" />
