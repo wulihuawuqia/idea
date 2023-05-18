@@ -377,7 +377,20 @@
             <map>
               <entry key="local">
                 <value>
-                  <list />
+                  <list>
+                    <DataMapping>
+                      <option name="type" value="finAccountId" />
+                      <option name="value" value="032187K36K7SK0K0605S000000" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="userId" />
+                      <option name="value" value="1234502" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="secAccountId" />
+                      <option name="value" value="6668483927981426688" />
+                    </DataMapping>
+                  </list>
                 </value>
               </entry>
             </map>
@@ -409,10 +422,10 @@
           <option name="year" value="2022" />
         </YearStatistics>
         <YearStatistics>
-          <option name="totalActionCount" value="81" />
-          <option name="totalFailCount" value="14" />
-          <option name="totalRocketCount" value="26" />
-          <option name="totalSuccessCount" value="33" />
+          <option name="totalActionCount" value="88" />
+          <option name="totalFailCount" value="16" />
+          <option name="totalRocketCount" value="29" />
+          <option name="totalSuccessCount" value="37" />
           <option name="year" value="2023" />
         </YearStatistics>
       </list>
