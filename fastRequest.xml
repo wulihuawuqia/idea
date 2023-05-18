@@ -379,16 +379,16 @@
                 <value>
                   <list>
                     <DataMapping>
-                      <option name="type" value="finAccountId" />
-                      <option name="value" value="032187K36K7SK0K0605S000000" />
+                      <option name="type" value="X-Request-From" />
+                      <option name="value" value="new-trade-gateway" />
                     </DataMapping>
                     <DataMapping>
-                      <option name="type" value="userId" />
-                      <option name="value" value="1234502" />
+                      <option name="type" value="X-Account-Id" />
+                      <option name="value" value="20720" />
                     </DataMapping>
                     <DataMapping>
-                      <option name="type" value="secAccountId" />
-                      <option name="value" value="6668483927981426688" />
+                      <option name="type" value="X-User-Id" />
+                      <option name="value" value="100025717" />
                     </DataMapping>
                   </list>
                 </value>
@@ -422,8 +422,8 @@
           <option name="year" value="2022" />
         </YearStatistics>
         <YearStatistics>
-          <option name="totalActionCount" value="88" />
-          <option name="totalFailCount" value="16" />
+          <option name="totalActionCount" value="97" />
+          <option name="totalFailCount" value="25" />
           <option name="totalRocketCount" value="29" />
           <option name="totalSuccessCount" value="37" />
           <option name="year" value="2023" />
