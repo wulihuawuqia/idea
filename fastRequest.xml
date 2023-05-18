@@ -397,6 +397,18 @@
           </option>
           <option name="projectName" value="natrade-assets-api" />
         </HeaderGroup>
+        <HeaderGroup>
+          <option name="envDataMap">
+            <map>
+              <entry key="local">
+                <value>
+                  <list />
+                </value>
+              </entry>
+            </map>
+          </option>
+          <option name="projectName" value="natrade-assets-common" />
+        </HeaderGroup>
       </list>
     </option>
     <option name="projectList">
@@ -422,10 +434,10 @@
           <option name="year" value="2022" />
         </YearStatistics>
         <YearStatistics>
-          <option name="totalActionCount" value="117" />
+          <option name="totalActionCount" value="121" />
           <option name="totalFailCount" value="39" />
-          <option name="totalRocketCount" value="30" />
-          <option name="totalSuccessCount" value="38" />
+          <option name="totalRocketCount" value="31" />
+          <option name="totalSuccessCount" value="42" />
           <option name="year" value="2023" />
         </YearStatistics>
       </list>
