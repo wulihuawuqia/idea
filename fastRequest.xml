@@ -452,10 +452,10 @@
           <option name="year" value="2022" />
         </YearStatistics>
         <YearStatistics>
-          <option name="totalActionCount" value="139" />
-          <option name="totalFailCount" value="44" />
-          <option name="totalRocketCount" value="32" />
-          <option name="totalSuccessCount" value="45" />
+          <option name="totalActionCount" value="150" />
+          <option name="totalFailCount" value="45" />
+          <option name="totalRocketCount" value="36" />
+          <option name="totalSuccessCount" value="52" />
           <option name="year" value="2023" />
         </YearStatistics>
       </list>
