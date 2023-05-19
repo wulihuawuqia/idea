@@ -269,9 +269,9 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="http://localhost:8080" />
+    <option name="domain" value="http://localhost:8017" />
     <option name="enableEnv" value="local" />
-    <option name="enableProject" value="natrade-assets-api" />
+    <option name="enableProject" value="natrade-app-service" />
     <option name="envList">
       <list>
         <option value="dev" />
@@ -384,11 +384,11 @@
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="X-Account-Id" />
-                      <option name="value" value="6668483927981426688" />
+                      <option name="value" value="1107073009219965953" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="X-User-Id" />
-                      <option name="value" value="1234502" />
+                      <option name="value" value="1990010963" />
                     </DataMapping>
                   </list>
                 </value>
@@ -427,6 +427,49 @@
           </option>
           <option name="projectName" value="natrade-assets-common" />
         </HeaderGroup>
+        <HeaderGroup>
+          <option name="envDataMap">
+            <map>
+              <entry key="local">
+                <value>
+                  <list>
+                    <DataMapping>
+                      <option name="type" value="X-Request-From" />
+                      <option name="value" value="new-trade-gateway" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="X-Account-Id" />
+                      <option name="value" value="1107073009219965953" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="X-User-Id" />
+                      <option name="value" value="1990010963" />
+                    </DataMapping>
+                  </list>
+                </value>
+              </entry>
+              <entry key="pre">
+                <value>
+                  <list>
+                    <DataMapping>
+                      <option name="type" value="X-Request-From" />
+                      <option name="value" value="new-trade-gateway" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="X-Account-Id" />
+                      <option name="value" value="1107073009219965953" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="X-User-Id" />
+                      <option name="value" value="1990010963" />
+                    </DataMapping>
+                  </list>
+                </value>
+              </entry>
+            </map>
+          </option>
+          <option name="projectName" value="natrade-app-service" />
+        </HeaderGroup>
       </list>
     </option>
     <option name="projectList">
@@ -452,10 +495,10 @@
           <option name="year" value="2022" />
         </YearStatistics>
         <YearStatistics>
-          <option name="totalActionCount" value="151" />
-          <option name="totalFailCount" value="46" />
-          <option name="totalRocketCount" value="37" />
-          <option name="totalSuccessCount" value="52" />
+          <option name="totalActionCount" value="175" />
+          <option name="totalFailCount" value="55" />
+          <option name="totalRocketCount" value="42" />
+          <option name="totalSuccessCount" value="59" />
           <option name="year" value="2023" />
         </YearStatistics>
       </list>
