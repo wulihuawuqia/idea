@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="748" />
     <option name="newTranslationDialogY" value="228" />
     <histories>
+      <item value="wancheng" />
+      <item value="wancheng " />
+      <item value="通知" />
+      <item value="tong" />
       <item value="Transfer" />
       <item value="orign" />
       <item value="Virtual" />
@@ -51,15 +55,11 @@
       <item value="隔离" />
       <item value="external" />
       <item value="wa" />
-      <item value="currency exchange" />
-      <item value="换汇" />
-      <item value="FREEZE" />
-      <item value="RETURN" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1457" />
-        <entry key="ENGLISH" value="1283" />
+        <entry key="CHINESE" value="1473" />
+        <entry key="ENGLISH" value="1299" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
