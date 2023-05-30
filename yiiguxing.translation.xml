@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="748" />
     <option name="newTranslationDialogY" value="228" />
     <histories>
+      <item value="前缀" />
+      <item value="q" />
       <item value="retryTtimes" />
       <item value="retry_times" />
       <item value="storage" />
@@ -53,13 +55,11 @@
       <item value="WITHDRAW_F" />
       <item value="WITHDRAW_FRZONE" />
       <item value="receiveable" />
-      <item value="适配器" />
-      <item value="适配qi" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1504" />
-        <entry key="ENGLISH" value="1327" />
+        <entry key="CHINESE" value="1521" />
+        <entry key="ENGLISH" value="1344" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
