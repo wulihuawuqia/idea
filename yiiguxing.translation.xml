@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="748" />
     <option name="newTranslationDialogY" value="228" />
     <histories>
+      <item value="retryTtimes" />
+      <item value="retry_times" />
       <item value="storage" />
       <item value="idempotent" />
       <item value="幂等" />
@@ -53,12 +55,10 @@
       <item value="receiveable" />
       <item value="适配器" />
       <item value="适配qi" />
-      <item value="适配" />
-      <item value="shi'pei" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1503" />
+        <entry key="CHINESE" value="1504" />
         <entry key="ENGLISH" value="1327" />
         <entry key="HINDI" value="1" />
       </map>
