@@ -5,6 +5,14 @@
     <option name="newTranslationDialogX" value="748" />
     <option name="newTranslationDialogY" value="228" />
     <histories>
+      <item value="完成" />
+      <item value="a" />
+      <item value="sended" />
+      <item value="send" />
+      <item value="se" />
+      <item value="end" />
+      <item value="wa" />
+      <item value="SENDING" />
       <item value="前缀" />
       <item value="q" />
       <item value="retryTtimes" />
@@ -47,19 +55,11 @@
       <item value="frozen" />
       <item value="f" />
       <item value="ro" />
-      <item value="冻结" />
-      <item value="dong" />
-      <item value="DON" />
-      <item value="WITHDRAW_FRZON" />
-      <item value="WITHDRAW_FR" />
-      <item value="WITHDRAW_F" />
-      <item value="WITHDRAW_FRZONE" />
-      <item value="receiveable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1521" />
-        <entry key="ENGLISH" value="1344" />
+        <entry key="CHINESE" value="1547" />
+        <entry key="ENGLISH" value="1370" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
