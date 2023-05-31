@@ -2,9 +2,12 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="359" />
     <option name="newTranslationDialogWidth" value="692" />
-    <option name="newTranslationDialogX" value="748" />
-    <option name="newTranslationDialogY" value="228" />
+    <option name="newTranslationDialogX" value="699" />
+    <option name="newTranslationDialogY" value="181" />
     <histories>
+      <item value="已经" />
+      <item value="yij " />
+      <item value="已经处理" />
       <item value="完成" />
       <item value="a" />
       <item value="sended" />
@@ -41,7 +44,6 @@
       <item value="surplus" />
       <item value="浮盈" />
       <item value="Floating" />
-      <item value="已经处理" />
       <item value="唯一键" />
       <item value="wei'yi'jian" />
       <item value="WI" />
@@ -53,13 +55,11 @@
       <item value="fro" />
       <item value="froze" />
       <item value="frozen" />
-      <item value="f" />
-      <item value="ro" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1547" />
-        <entry key="ENGLISH" value="1370" />
+        <entry key="CHINESE" value="1568" />
+        <entry key="ENGLISH" value="1391" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
