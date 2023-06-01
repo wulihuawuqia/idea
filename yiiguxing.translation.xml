@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="699" />
     <option name="newTranslationDialogY" value="181" />
     <histories>
+      <item value="市场" />
+      <item value="shi" />
+      <item value="前缀" />
+      <item value="PREFIX" />
       <item value="已经" />
       <item value="yij " />
       <item value="已经处理" />
@@ -16,7 +20,6 @@
       <item value="end" />
       <item value="wa" />
       <item value="SENDING" />
-      <item value="前缀" />
       <item value="q" />
       <item value="retryTtimes" />
       <item value="retry_times" />
@@ -52,14 +55,11 @@
       <item value="Process" />
       <item value="t" />
       <item value="LoanValue" />
-      <item value="fro" />
-      <item value="froze" />
-      <item value="frozen" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1568" />
-        <entry key="ENGLISH" value="1391" />
+        <entry key="CHINESE" value="1602" />
+        <entry key="ENGLISH" value="1425" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
