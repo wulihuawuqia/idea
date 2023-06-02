@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="699" />
     <option name="newTranslationDialogY" value="181" />
     <histories>
+      <item value="sch" />
+      <item value="s" />
       <item value="市场" />
       <item value="shi" />
       <item value="前缀" />
@@ -53,13 +55,11 @@
       <item value="UNI" />
       <item value="外部依赖" />
       <item value="Process" />
-      <item value="t" />
-      <item value="LoanValue" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1602" />
-        <entry key="ENGLISH" value="1425" />
+        <entry key="CHINESE" value="1603" />
+        <entry key="ENGLISH" value="1426" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
