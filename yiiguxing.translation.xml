@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="699" />
     <option name="newTranslationDialogY" value="181" />
     <histories>
+      <item value="忽略" />
+      <item value="predecessor task" />
+      <item value="前置任务" />
       <item value="PROCESS" />
       <item value="progress" />
       <item value="进度条" />
@@ -52,14 +55,11 @@
       <item value="昨天" />
       <item value="finally" />
       <item value="最终" />
-      <item value="SYS_RECURRING" />
-      <item value="定" />
-      <item value="定投" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1646" />
-        <entry key="ENGLISH" value="1468" />
+        <entry key="CHINESE" value="1669" />
+        <entry key="ENGLISH" value="1490" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
