@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="699" />
     <option name="newTranslationDialogY" value="181" />
     <histories>
+      <item value="Manual" />
+      <item value="手动重试" />
       <item value="忽略" />
       <item value="predecessor task" />
       <item value="前置任务" />
@@ -53,13 +55,11 @@
       <item value="Virtual" />
       <item value="Factor" />
       <item value="昨天" />
-      <item value="finally" />
-      <item value="最终" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1669" />
-        <entry key="ENGLISH" value="1490" />
+        <entry key="CHINESE" value="1685" />
+        <entry key="ENGLISH" value="1504" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
