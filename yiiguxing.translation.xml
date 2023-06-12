@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="699" />
     <option name="newTranslationDialogY" value="181" />
     <histories>
+      <item value="IssueDate" />
       <item value="Manual" />
       <item value="手动重试" />
       <item value="忽略" />
@@ -54,11 +55,10 @@
       <item value="orign" />
       <item value="Virtual" />
       <item value="Factor" />
-      <item value="昨天" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1685" />
+        <entry key="CHINESE" value="1686" />
         <entry key="ENGLISH" value="1504" />
         <entry key="HINDI" value="1" />
       </map>
