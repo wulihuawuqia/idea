@@ -488,9 +488,9 @@
     <option name="statisticsList">
       <list>
         <YearStatistics>
-          <option name="totalActionCount" value="249" />
+          <option name="totalActionCount" value="250" />
           <option name="totalFailCount" value="88" />
-          <option name="totalRocketCount" value="67" />
+          <option name="totalRocketCount" value="68" />
           <option name="totalSuccessCount" value="72" />
           <option name="year" value="2023" />
         </YearStatistics>
