@@ -2,9 +2,11 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="359" />
     <option name="newTranslationDialogWidth" value="692" />
-    <option name="newTranslationDialogX" value="699" />
-    <option name="newTranslationDialogY" value="181" />
+    <option name="newTranslationDialogX" value="997" />
+    <option name="newTranslationDialogY" value="183" />
     <histories>
+      <item value="换汇" />
+      <item value="exchange" />
       <item value="IssueDate" />
       <item value="Manual" />
       <item value="手动重试" />
@@ -53,13 +55,11 @@
       <item value="tong" />
       <item value="Transfer" />
       <item value="orign" />
-      <item value="Virtual" />
-      <item value="Factor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1686" />
-        <entry key="ENGLISH" value="1504" />
+        <entry key="CHINESE" value="1702" />
+        <entry key="ENGLISH" value="1520" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
