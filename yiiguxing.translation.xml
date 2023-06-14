@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="997" />
     <option name="newTranslationDialogY" value="183" />
     <histories>
+      <item value="finish" />
       <item value="换汇" />
       <item value="exchange" />
       <item value="IssueDate" />
@@ -54,11 +55,10 @@
       <item value="通知" />
       <item value="tong" />
       <item value="Transfer" />
-      <item value="orign" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1702" />
+        <entry key="CHINESE" value="1703" />
         <entry key="ENGLISH" value="1520" />
         <entry key="HINDI" value="1" />
       </map>
