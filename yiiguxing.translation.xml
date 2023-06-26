@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="997" />
     <option name="newTranslationDialogY" value="183" />
     <histories>
+      <item value="大于" />
+      <item value="dayu" />
       <item value="async" />
       <item value="异步" />
       <item value="yi" />
@@ -53,13 +55,11 @@
       <item value="幂等" />
       <item value="mi" />
       <item value="成功" />
-      <item value="c" />
-      <item value="wancheng" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1723" />
-        <entry key="ENGLISH" value="1538" />
+        <entry key="CHINESE" value="1733" />
+        <entry key="ENGLISH" value="1548" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
