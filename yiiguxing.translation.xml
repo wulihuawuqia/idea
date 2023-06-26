@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="997" />
     <option name="newTranslationDialogY" value="183" />
     <histories>
+      <item value="async" />
+      <item value="异步" />
+      <item value="yi" />
+      <item value="sync" />
       <item value="finish" />
       <item value="换汇" />
       <item value="exchange" />
@@ -51,15 +55,11 @@
       <item value="成功" />
       <item value="c" />
       <item value="wancheng" />
-      <item value="wancheng " />
-      <item value="通知" />
-      <item value="tong" />
-      <item value="Transfer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1703" />
-        <entry key="ENGLISH" value="1520" />
+        <entry key="CHINESE" value="1723" />
+        <entry key="ENGLISH" value="1538" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
