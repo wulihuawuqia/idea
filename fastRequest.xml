@@ -490,7 +490,7 @@
         <YearStatistics>
           <option name="totalActionCount" value="275" />
           <option name="totalFailCount" value="89" />
-          <option name="totalRocketCount" value="100" />
+          <option name="totalRocketCount" value="101" />
           <option name="totalSuccessCount" value="74" />
           <option name="year" value="2023" />
         </YearStatistics>
