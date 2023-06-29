@@ -2,9 +2,11 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="359" />
     <option name="newTranslationDialogWidth" value="692" />
-    <option name="newTranslationDialogX" value="997" />
-    <option name="newTranslationDialogY" value="183" />
+    <option name="newTranslationDialogX" value="1013" />
+    <option name="newTranslationDialogY" value="173" />
     <histories>
+      <item value="币种" />
+      <item value="bi" />
       <item value="TASK PREDECESSOR NO FINISH" />
       <item value="TASK PREDECESSOR NO_FINISH" />
       <item value="TASK PREDECESSOR_NO_FINISH" />
@@ -53,13 +55,11 @@
       <item value="wa" />
       <item value="SENDING" />
       <item value="q" />
-      <item value="retryTtimes" />
-      <item value="retry_times" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1735" />
-        <entry key="ENGLISH" value="1548" />
+        <entry key="CHINESE" value="1750" />
+        <entry key="ENGLISH" value="1563" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
