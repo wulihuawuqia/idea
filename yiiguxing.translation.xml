@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="1013" />
     <option name="newTranslationDialogY" value="173" />
     <histories>
+      <item value="剩余" />
+      <item value="z" />
+      <item value="计数" />
+      <item value="ji'shu" />
+      <item value="ji" />
       <item value="币种" />
       <item value="bi" />
       <item value="TASK PREDECESSOR NO FINISH" />
@@ -37,7 +42,6 @@
       <item value="已经zhi'c" />
       <item value="已经chi" />
       <item value="已经" />
-      <item value="ji" />
       <item value="sch" />
       <item value="s" />
       <item value="市场" />
@@ -51,15 +55,11 @@
       <item value="sended" />
       <item value="send" />
       <item value="se" />
-      <item value="end" />
-      <item value="wa" />
-      <item value="SENDING" />
-      <item value="q" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1750" />
-        <entry key="ENGLISH" value="1563" />
+        <entry key="CHINESE" value="1778" />
+        <entry key="ENGLISH" value="1591" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
