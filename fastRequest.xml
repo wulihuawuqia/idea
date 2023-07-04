@@ -271,7 +271,7 @@
     </option>
     <option name="domain" value="http://localhost:8080" />
     <option name="enableEnv" value="local" />
-    <option name="enableProject" value="trade-assets-service" />
+    <option name="enableProject" value="trade-assets-common" />
     <option name="envList">
       <list>
         <option value="dev" />
@@ -488,9 +488,9 @@
     <option name="statisticsList">
       <list>
         <YearStatistics>
-          <option name="totalActionCount" value="277" />
+          <option name="totalActionCount" value="278" />
           <option name="totalFailCount" value="89" />
-          <option name="totalRocketCount" value="110" />
+          <option name="totalRocketCount" value="111" />
           <option name="totalSuccessCount" value="74" />
           <option name="year" value="2023" />
         </YearStatistics>
