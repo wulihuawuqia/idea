@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1013" />
     <option name="newTranslationDialogY" value="173" />
     <histories>
+      <item value="debitInterest" />
       <item value="剩余" />
       <item value="z" />
       <item value="计数" />
@@ -54,11 +55,10 @@
       <item value="a" />
       <item value="sended" />
       <item value="send" />
-      <item value="se" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1778" />
+        <entry key="CHINESE" value="1779" />
         <entry key="ENGLISH" value="1591" />
         <entry key="HINDI" value="1" />
       </map>
