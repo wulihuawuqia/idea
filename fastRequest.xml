@@ -271,7 +271,7 @@
     </option>
     <option name="domain" value="http://localhost:8080" />
     <option name="enableEnv" value="local" />
-    <option name="enableProject" value="natrade-assets-api" />
+    <option name="enableProject" value="trade-assets-common" />
     <option name="envList">
       <list>
         <option value="dev" />
@@ -513,9 +513,9 @@
     <option name="statisticsList">
       <list>
         <YearStatistics>
-          <option name="totalActionCount" value="330" />
+          <option name="totalActionCount" value="332" />
           <option name="totalFailCount" value="120" />
-          <option name="totalRocketCount" value="140" />
+          <option name="totalRocketCount" value="141" />
           <option name="totalSuccessCount" value="74" />
           <option name="year" value="2023" />
         </YearStatistics>
