@@ -269,9 +269,9 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="http://localhost:8080" />
+    <option name="domain" value="http://localhost:8089" />
     <option name="enableEnv" value="local" />
-    <option name="enableProject" value="trade-assets-common" />
+    <option name="enableProject" value="trade-assets-service" />
     <option name="envList">
       <list>
         <option value="dev" />
@@ -513,6 +513,30 @@
           </option>
           <option name="projectName" value="trade-app-service" />
         </HeaderGroup>
+        <HeaderGroup>
+          <option name="envDataMap">
+            <map>
+              <entry key="local">
+                <value>
+                  <list />
+                </value>
+              </entry>
+            </map>
+          </option>
+          <option name="projectName" value="trade-assets-common" />
+        </HeaderGroup>
+        <HeaderGroup>
+          <option name="envDataMap">
+            <map>
+              <entry key="local">
+                <value>
+                  <list />
+                </value>
+              </entry>
+            </map>
+          </option>
+          <option name="projectName" value="trade-assets-service" />
+        </HeaderGroup>
       </list>
     </option>
     <option name="headerList">
@@ -547,9 +571,9 @@
     <option name="statisticsList">
       <list>
         <YearStatistics>
-          <option name="totalActionCount" value="336" />
+          <option name="totalActionCount" value="344" />
           <option name="totalFailCount" value="120" />
-          <option name="totalRocketCount" value="142" />
+          <option name="totalRocketCount" value="143" />
           <option name="totalSuccessCount" value="75" />
           <option name="year" value="2023" />
         </YearStatistics>
