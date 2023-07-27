@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1013" />
     <option name="newTranslationDialogY" value="173" />
     <histories>
+      <item value="前缀" />
       <item value="debitInterest" />
       <item value="剩余" />
       <item value="z" />
@@ -47,7 +48,6 @@
       <item value="s" />
       <item value="市场" />
       <item value="shi" />
-      <item value="前缀" />
       <item value="PREFIX" />
       <item value="yij " />
       <item value="已经处理" />
@@ -58,8 +58,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1779" />
-        <entry key="ENGLISH" value="1591" />
+        <entry key="CHINESE" value="1799" />
+        <entry key="ENGLISH" value="1611" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
