@@ -5,16 +5,18 @@
     <option name="newTranslationDialogX" value="1013" />
     <option name="newTranslationDialogY" value="173" />
     <histories>
+      <item value="解除冻结" />
+      <item value="ji" />
+      <item value="jie'chu" />
+      <item value="解冻" />
+      <item value="jie'dong" />
+      <item value="jie" />
       <item value="财富管理" />
       <item value="NEGATIVE" />
       <item value="Unfreeze" />
       <item value="Unfreez" />
       <item value="Unfreezo" />
       <item value="Unfreezon&#10;" />
-      <item value="解除冻结" />
-      <item value="jie'chu" />
-      <item value="解冻" />
-      <item value="jie'dong" />
       <item value="FrozenParams" />
       <item value="前缀" />
       <item value="debitInterest" />
@@ -22,7 +24,6 @@
       <item value="z" />
       <item value="计数" />
       <item value="ji'shu" />
-      <item value="ji" />
       <item value="币种" />
       <item value="bi" />
       <item value="TASK PREDECESSOR NO FINISH" />
@@ -54,12 +55,11 @@
       <item value="已经执行" />
       <item value="已经zhi'c" />
       <item value="已经chi" />
-      <item value="已经" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1837" />
-        <entry key="ENGLISH" value="1646" />
+        <entry key="CHINESE" value="1878" />
+        <entry key="ENGLISH" value="1687" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
