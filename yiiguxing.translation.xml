@@ -5,6 +5,12 @@
     <option name="newTranslationDialogX" value="1013" />
     <option name="newTranslationDialogY" value="173" />
     <histories>
+      <item value="perf" />
+      <item value="pert" />
+      <item value="pe" />
+      <item value="PE" />
+      <item value="e" />
+      <item value="PREF" />
       <item value="忽略" />
       <item value="hu'l" />
       <item value="hu'lei" />
@@ -49,17 +55,11 @@
       <item value="大于" />
       <item value="dayu" />
       <item value="async" />
-      <item value="异步" />
-      <item value="sync" />
-      <item value="finish" />
-      <item value="换汇" />
-      <item value="exchange" />
-      <item value="IssueDate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1937" />
-        <entry key="ENGLISH" value="1745" />
+        <entry key="CHINESE" value="1941" />
+        <entry key="ENGLISH" value="1747" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
