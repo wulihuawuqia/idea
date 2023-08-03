@@ -5,6 +5,15 @@
     <option name="newTranslationDialogX" value="1013" />
     <option name="newTranslationDialogY" value="173" />
     <histories>
+      <item value="忽略" />
+      <item value="hu'l" />
+      <item value="hu'lei" />
+      <item value="胡磊" />
+      <item value="hulue" />
+      <item value="hul" />
+      <item value="hu" />
+      <item value="igonor" />
+      <item value="igore" />
       <item value="Exercise" />
       <item value="nExercise" />
       <item value="FrozenExercise" />
@@ -46,20 +55,11 @@
       <item value="换汇" />
       <item value="exchange" />
       <item value="IssueDate" />
-      <item value="Manual" />
-      <item value="手动重试" />
-      <item value="忽略" />
-      <item value="predecessor task" />
-      <item value="前置任务" />
-      <item value="PROCESS" />
-      <item value="progress" />
-      <item value="进度条" />
-      <item value="jin't" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1902" />
-        <entry key="ENGLISH" value="1710" />
+        <entry key="CHINESE" value="1937" />
+        <entry key="ENGLISH" value="1745" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
