@@ -48,6 +48,7 @@
                         <GrepStyle>
                           <option name="backgroundColor">
                             <GrepColor>
+                              <option name="color" value="-3403242" />
                               <option name="colorKey" value="GrepConsole.error.background" />
                               <option name="enabled" value="true" />
                             </GrepColor>
