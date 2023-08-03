@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="1013" />
     <option name="newTranslationDialogY" value="173" />
     <histories>
+      <item value="Exercise" />
+      <item value="nExercise" />
+      <item value="FrozenExercise" />
       <item value="已存在" />
       <item value="yi" />
       <item value="yti" />
@@ -52,13 +55,10 @@
       <item value="progress" />
       <item value="进度条" />
       <item value="jin't" />
-      <item value="schedule" />
-      <item value="进度" />
-      <item value="已经执行" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1901" />
+        <entry key="CHINESE" value="1902" />
         <entry key="ENGLISH" value="1710" />
         <entry key="HINDI" value="1" />
       </map>
