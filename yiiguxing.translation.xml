@@ -5,6 +5,12 @@
     <option name="newTranslationDialogX" value="1013" />
     <option name="newTranslationDialogY" value="173" />
     <histories>
+      <item value="存量任务" />
+      <item value="存量r" />
+      <item value="存量" />
+      <item value="cun'l" />
+      <item value="cun" />
+      <item value="c" />
       <item value="上一页" />
       <item value="shang'yi" />
       <item value="增量" />
@@ -49,17 +55,11 @@
       <item value="剩余" />
       <item value="计数" />
       <item value="ji'shu" />
-      <item value="币种" />
-      <item value="bi" />
-      <item value="TASK PREDECESSOR NO FINISH" />
-      <item value="TASK PREDECESSOR NO_FINISH" />
-      <item value="TASK PREDECESSOR_NO_FINISH" />
-      <item value="TASK_PREDECESSOR_NO_FINISH" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1981" />
-        <entry key="ENGLISH" value="1787" />
+        <entry key="CHINESE" value="1990" />
+        <entry key="ENGLISH" value="1796" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
