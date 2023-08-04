@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="1013" />
     <option name="newTranslationDialogY" value="173" />
     <histories>
+      <item value="上一页" />
+      <item value="shang'yi" />
       <item value="增量" />
       <item value="z" />
       <item value="Z" />
@@ -53,13 +55,11 @@
       <item value="TASK PREDECESSOR NO_FINISH" />
       <item value="TASK PREDECESSOR_NO_FINISH" />
       <item value="TASK_PREDECESSOR_NO_FINISH" />
-      <item value="antiRepeat" />
-      <item value="大于" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1962" />
-        <entry key="ENGLISH" value="1768" />
+        <entry key="CHINESE" value="1981" />
+        <entry key="ENGLISH" value="1787" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
