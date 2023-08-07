@@ -269,9 +269,9 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="10.60.135.3:3590" />
-    <option name="enableEnv" value="uat" />
-    <option name="enableProject" value="natrade-app-service" />
+    <option name="domain" value="http://localhost:8018" />
+    <option name="enableEnv" value="local" />
+    <option name="enableProject" value="trade-app-service" />
     <option name="envList">
       <list>
         <option value="dev" />
@@ -571,9 +571,9 @@
     <option name="statisticsList">
       <list>
         <YearStatistics>
-          <option name="totalActionCount" value="358" />
+          <option name="totalActionCount" value="359" />
           <option name="totalFailCount" value="120" />
-          <option name="totalRocketCount" value="156" />
+          <option name="totalRocketCount" value="157" />
           <option name="totalSuccessCount" value="75" />
           <option name="year" value="2023" />
         </YearStatistics>
