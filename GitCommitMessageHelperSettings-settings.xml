@@ -2,7 +2,7 @@
   <component name="GitCommitMessageHelperSettings">
     <option name="dateSettings">
       <DataSettings>
-        <option name="template" value="#if($type)&lt;${type}&gt;#end#if($scope)[${scope}]#end: #if($subject)${subject}#end&#10;#if($body)${newline}${newline}${body}#end&#10;#if($changes)${newline}${newline}BREAKING CHANGE: ${changes}#end&#10;#if($closes)${newline}${newline}Closes ${closes}#end&#10;" />
+        <option name="template" value="#if($type)${type}#end#if($scope)[${scope}]#end: #if($subject)${subject}#end&#10;#if($body)${newline}${newline}${body}#end&#10;#if($changes)${newline}${newline}BREAKING CHANGE: ${changes}#end&#10;#if($closes)${newline}${newline}Closes ${closes}#end&#10;" />
         <option name="typeAliases">
           <list>
             <TypeAlias>
