@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="1013" />
     <option name="newTranslationDialogY" value="173" />
     <histories>
+      <item value="activity" />
+      <item value="discount" />
       <item value="currence" />
       <item value="start" />
       <item value="白" />
@@ -53,12 +55,10 @@
       <item value="jie'chu" />
       <item value="解冻" />
       <item value="jie'dong" />
-      <item value="jie" />
-      <item value="财富管理" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2056" />
+        <entry key="CHINESE" value="2058" />
         <entry key="ENGLISH" value="1858" />
         <entry key="HINDI" value="1" />
       </map>
