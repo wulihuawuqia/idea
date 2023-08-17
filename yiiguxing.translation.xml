@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="991" />
     <option name="newTranslationDialogY" value="121" />
     <histories>
+      <item value="包含" />
+      <item value="关系" />
+      <item value="干洗" />
+      <item value="g" />
       <item value="FUTURE" />
       <item value="FUTURES" />
       <item value="discount" />
@@ -51,15 +55,11 @@
       <item value="FrozenExercise" />
       <item value="已存在" />
       <item value="yi" />
-      <item value="yti" />
-      <item value="解除冻结" />
-      <item value="ji" />
-      <item value="jie'chu" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2060" />
-        <entry key="ENGLISH" value="1858" />
+        <entry key="CHINESE" value="2098" />
+        <entry key="ENGLISH" value="1896" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
