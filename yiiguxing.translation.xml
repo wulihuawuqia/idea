@@ -2,11 +2,13 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="359" />
     <option name="newTranslationDialogWidth" value="692" />
-    <option name="newTranslationDialogX" value="1013" />
-    <option name="newTranslationDialogY" value="173" />
+    <option name="newTranslationDialogX" value="991" />
+    <option name="newTranslationDialogY" value="121" />
     <histories>
-      <item value="activity" />
+      <item value="FUTURE" />
+      <item value="FUTURES" />
       <item value="discount" />
+      <item value="activity" />
       <item value="currence" />
       <item value="start" />
       <item value="白" />
@@ -53,12 +55,10 @@
       <item value="解除冻结" />
       <item value="ji" />
       <item value="jie'chu" />
-      <item value="解冻" />
-      <item value="jie'dong" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2058" />
+        <entry key="CHINESE" value="2060" />
         <entry key="ENGLISH" value="1858" />
         <entry key="HINDI" value="1" />
       </map>
