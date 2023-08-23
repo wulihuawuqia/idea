@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="991" />
     <option name="newTranslationDialogY" value="121" />
     <histories>
+      <item value="apeend" />
+      <item value="apen" />
+      <item value="ape" />
       <item value="原始佣金" />
       <item value="yuan'shi" />
       <item value="外部" />
@@ -52,13 +55,10 @@
       <item value="zhong" />
       <item value="存量任务" />
       <item value="存量r" />
-      <item value="存量" />
-      <item value="cun'l" />
-      <item value="cun" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2256" />
+        <entry key="CHINESE" value="2257" />
         <entry key="ENGLISH" value="2049" />
         <entry key="HINDI" value="1" />
       </map>
