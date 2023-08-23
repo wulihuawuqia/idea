@@ -5,6 +5,16 @@
     <option name="newTranslationDialogX" value="991" />
     <option name="newTranslationDialogY" value="121" />
     <histories>
+      <item value="precision" />
+      <item value="精度" />
+      <item value="jing'du" />
+      <item value="精读" />
+      <item value="jing" />
+      <item value="jin" />
+      <item value="小数位" />
+      <item value="小数wei" />
+      <item value="xiao'shu" />
+      <item value="x" />
       <item value="modify" />
       <item value="modif" />
       <item value="modifier" />
@@ -45,21 +55,11 @@
       <item value="pert" />
       <item value="pe" />
       <item value="PE" />
-      <item value="e" />
-      <item value="PREF" />
-      <item value="忽略" />
-      <item value="hu'l" />
-      <item value="hu'lei" />
-      <item value="胡磊" />
-      <item value="hulue" />
-      <item value="hul" />
-      <item value="hu" />
-      <item value="igonor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2146" />
-        <entry key="ENGLISH" value="1943" />
+        <entry key="CHINESE" value="2190" />
+        <entry key="ENGLISH" value="1985" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
