@@ -5,6 +5,12 @@
     <option name="newTranslationDialogX" value="991" />
     <option name="newTranslationDialogY" value="121" />
     <histories>
+      <item value="reductionRemainQuantity" />
+      <item value="减" />
+      <item value="jian" />
+      <item value="扣减" />
+      <item value="ko" />
+      <item value="k'l" />
       <item value="消耗" />
       <item value="apeend" />
       <item value="apen" />
@@ -49,17 +55,11 @@
       <item value="bai" />
       <item value="attach" />
       <item value="标签" />
-      <item value="bi" />
-      <item value="reset" />
-      <item value="rest" />
-      <item value="中断" />
-      <item value="zhong" />
-      <item value="存量任务" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2273" />
-        <entry key="ENGLISH" value="2065" />
+        <entry key="CHINESE" value="2326" />
+        <entry key="ENGLISH" value="2117" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
