@@ -83,6 +83,10 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="444" />
     <histories>
+      <item value="唯一键" />
+      <item value="唯一jian" />
+      <item value="唯一" />
+      <item value="wei" />
       <item value="Redution" />
       <item value="参数异常" />
       <item value="exists invalid value" />
@@ -91,8 +95,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="37" />
-        <entry key="ENGLISH" value="35" />
+        <entry key="CHINESE" value="48" />
+        <entry key="ENGLISH" value="46" />
       </map>
     </option>
   </component>
