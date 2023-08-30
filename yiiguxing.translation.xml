@@ -83,6 +83,8 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="444" />
     <histories>
+      <item value="Restricted Identifiers should not be used as Identifiers" />
+      <item value="Nesting try/catch blocks severely impacts the readability of source code because it makes it too difficult to understand which block will catch which exception." />
       <item value="gray" />
       <item value="唯一键" />
       <item value="唯一jian" />
@@ -96,7 +98,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="49" />
+        <entry key="CHINESE" value="51" />
         <entry key="ENGLISH" value="46" />
       </map>
     </option>
