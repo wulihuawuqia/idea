@@ -83,6 +83,12 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="444" />
     <histories>
+      <item value="下单" />
+      <item value="xu" />
+      <item value="xi" />
+      <item value="xui" />
+      <item value="xuia" />
+      <item value="x" />
       <item value="剔除" />
       <item value="排除" />
       <item value="pai" />
@@ -109,8 +115,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="121" />
-        <entry key="ENGLISH" value="112" />
+        <entry key="CHINESE" value="183" />
+        <entry key="ENGLISH" value="174" />
       </map>
     </option>
   </component>
