@@ -83,6 +83,11 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="444" />
     <histories>
+      <item value="剔除" />
+      <item value="排除" />
+      <item value="pai" />
+      <item value="避免" />
+      <item value="bi" />
       <item value="Naive" />
       <item value="TRADING_EXEPTION" />
       <item value="操作人" />
@@ -104,8 +109,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="72" />
-        <entry key="ENGLISH" value="63" />
+        <entry key="CHINESE" value="121" />
+        <entry key="ENGLISH" value="112" />
       </map>
     </option>
   </component>
