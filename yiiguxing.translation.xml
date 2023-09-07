@@ -83,6 +83,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="444" />
     <histories>
+      <item value="Deliverable" />
       <item value="ReArrange" />
       <item value="BUST" />
       <item value="下单" />
@@ -117,7 +118,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="185" />
+        <entry key="CHINESE" value="186" />
         <entry key="ENGLISH" value="174" />
       </map>
     </option>
