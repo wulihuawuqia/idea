@@ -4,6 +4,25 @@
     <option name="accessKeySecret" value="" />
     <option name="appId" value="20220510001210960" />
     <option name="author" value="wuqia" />
+    <option name="projectWordMap">
+      <map>
+        <entry key="leetcode">
+          <value>
+            <map />
+          </value>
+        </entry>
+        <entry key="webull-trade-assets">
+          <value>
+            <map />
+          </value>
+        </entry>
+        <entry key="webull-view">
+          <value>
+            <map />
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="secretId" value="" />
     <option name="secretKey" value="" />
     <option name="simpleFieldDoc" value="true" />
