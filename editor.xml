@@ -9,6 +9,7 @@
       <set>
         <option value="inheritors" />
         <option value="references" />
+        <option value="vcs.code.vision" />
       </set>
     </option>
   </component>
