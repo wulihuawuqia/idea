@@ -83,6 +83,12 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="444" />
     <histories>
+      <item value="Artificial" />
+      <item value="人工" />
+      <item value="人gong" />
+      <item value="人go" />
+      <item value="人" />
+      <item value="ren" />
       <item value="前缀" />
       <item value="Deliverable" />
       <item value="ReArrange" />
@@ -119,8 +125,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="204" />
-        <entry key="ENGLISH" value="192" />
+        <entry key="CHINESE" value="212" />
+        <entry key="ENGLISH" value="199" />
       </map>
     </option>
   </component>
