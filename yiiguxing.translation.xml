@@ -83,6 +83,12 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="444" />
     <histories>
+      <item value="实时转仓" />
+      <item value="实时zhuan'c" />
+      <item value="实时zhuan" />
+      <item value="实时" />
+      <item value="shi'shi" />
+      <item value="s" />
       <item value="ACATS" />
       <item value="去重" />
       <item value="qu'chong" />
@@ -130,8 +136,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="230" />
-        <entry key="ENGLISH" value="216" />
+        <entry key="CHINESE" value="246" />
+        <entry key="ENGLISH" value="232" />
       </map>
     </option>
   </component>
