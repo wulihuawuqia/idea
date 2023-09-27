@@ -240,11 +240,11 @@
               </HostGroup>
               <HostGroup>
                 <option name="env" value="000" />
-                <option name="url" value="dc_core1-trade-account-service:8719" />
+                <option name="url" value="dc.core1.trade.account.service:8719" />
               </HostGroup>
               <HostGroup>
                 <option name="env" value="001" />
-                <option name="url" value="10.70.119.140:12345" />
+                <option name="url" value="dc.core.r001.trade.account.service:12345" />
               </HostGroup>
             </list>
           </option>
@@ -324,8 +324,8 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="10.70.119.140:12345" />
-    <option name="enableEnv" value="001" />
+    <option name="domain" value="dc.core1.trade.account.service:8719" />
+    <option name="enableEnv" value="000" />
     <option name="enableProject" value="trade-account" />
     <option name="envList">
       <list>
@@ -596,6 +596,11 @@
         <HeaderGroup>
           <option name="envDataMap">
             <map>
+              <entry key="000">
+                <value>
+                  <list />
+                </value>
+              </entry>
               <entry key="001">
                 <value>
                   <list />
@@ -640,10 +645,10 @@
     <option name="statisticsList">
       <list>
         <YearStatistics>
-          <option name="totalActionCount" value="435" />
-          <option name="totalFailCount" value="135" />
+          <option name="totalActionCount" value="454" />
+          <option name="totalFailCount" value="137" />
           <option name="totalRocketCount" value="193" />
-          <option name="totalSuccessCount" value="79" />
+          <option name="totalSuccessCount" value="83" />
           <option name="year" value="2023" />
         </YearStatistics>
         <YearStatistics>
