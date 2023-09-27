@@ -42,15 +42,19 @@
                 <option name="url" value="localhost:8089" />
               </HostGroup>
               <HostGroup>
-                <option name="env" value="pre" />
-                <option name="url" value="" />
-              </HostGroup>
-              <HostGroup>
                 <option name="env" value="test" />
                 <option name="url" value="" />
               </HostGroup>
               <HostGroup>
                 <option name="env" value="网关" />
+                <option name="url" value="" />
+              </HostGroup>
+              <HostGroup>
+                <option name="env" value="000" />
+                <option name="url" value="" />
+              </HostGroup>
+              <HostGroup>
+                <option name="env" value="001" />
                 <option name="url" value="" />
               </HostGroup>
             </list>
@@ -65,15 +69,19 @@
                 <option name="url" value="localhost:8013" />
               </HostGroup>
               <HostGroup>
-                <option name="env" value="pre" />
-                <option name="url" value="10.70.116.9:7848" />
-              </HostGroup>
-              <HostGroup>
                 <option name="env" value="test" />
                 <option name="url" value="10.70.115.48:8183" />
               </HostGroup>
               <HostGroup>
                 <option name="env" value="网关" />
+                <option name="url" value="" />
+              </HostGroup>
+              <HostGroup>
+                <option name="env" value="000" />
+                <option name="url" value="" />
+              </HostGroup>
+              <HostGroup>
+                <option name="env" value="001" />
                 <option name="url" value="" />
               </HostGroup>
             </list>
@@ -88,15 +96,19 @@
                 <option name="url" value="" />
               </HostGroup>
               <HostGroup>
-                <option name="env" value="pre" />
-                <option name="url" value="" />
-              </HostGroup>
-              <HostGroup>
                 <option name="env" value="test" />
                 <option name="url" value="" />
               </HostGroup>
               <HostGroup>
                 <option name="env" value="网关" />
+                <option name="url" value="" />
+              </HostGroup>
+              <HostGroup>
+                <option name="env" value="000" />
+                <option name="url" value="" />
+              </HostGroup>
+              <HostGroup>
+                <option name="env" value="001" />
                 <option name="url" value="" />
               </HostGroup>
             </list>
@@ -111,16 +123,20 @@
                 <option name="url" value="localhost:8018" />
               </HostGroup>
               <HostGroup>
-                <option name="env" value="pre" />
-                <option name="url" value="10.70.114.53:2508" />
-              </HostGroup>
-              <HostGroup>
                 <option name="env" value="test" />
                 <option name="url" value="10.70.121.8:7166" />
               </HostGroup>
               <HostGroup>
                 <option name="env" value="网关" />
                 <option name="url" value="https://pre-ustrade.webullbroker.com" />
+              </HostGroup>
+              <HostGroup>
+                <option name="env" value="000" />
+                <option name="url" value="" />
+              </HostGroup>
+              <HostGroup>
+                <option name="env" value="001" />
+                <option name="url" value="" />
               </HostGroup>
             </list>
           </option>
@@ -134,15 +150,19 @@
                 <option name="url" value="localhost:8001" />
               </HostGroup>
               <HostGroup>
-                <option name="env" value="pre" />
-                <option name="url" value="" />
-              </HostGroup>
-              <HostGroup>
                 <option name="env" value="test" />
                 <option name="url" value="" />
               </HostGroup>
               <HostGroup>
                 <option name="env" value="网关" />
+                <option name="url" value="" />
+              </HostGroup>
+              <HostGroup>
+                <option name="env" value="000" />
+                <option name="url" value="" />
+              </HostGroup>
+              <HostGroup>
+                <option name="env" value="001" />
                 <option name="url" value="" />
               </HostGroup>
             </list>
@@ -157,15 +177,19 @@
                 <option name="url" value="localhost:8013" />
               </HostGroup>
               <HostGroup>
-                <option name="env" value="pre" />
-                <option name="url" value="" />
-              </HostGroup>
-              <HostGroup>
                 <option name="env" value="test" />
                 <option name="url" value="" />
               </HostGroup>
               <HostGroup>
                 <option name="env" value="网关" />
+                <option name="url" value="" />
+              </HostGroup>
+              <HostGroup>
+                <option name="env" value="000" />
+                <option name="url" value="" />
+              </HostGroup>
+              <HostGroup>
+                <option name="env" value="001" />
                 <option name="url" value="" />
               </HostGroup>
             </list>
@@ -180,7 +204,30 @@
                 <option name="url" value="localhost:8029" />
               </HostGroup>
               <HostGroup>
-                <option name="env" value="pre" />
+                <option name="env" value="test" />
+                <option name="url" value="" />
+              </HostGroup>
+              <HostGroup>
+                <option name="env" value="网关" />
+                <option name="url" value="" />
+              </HostGroup>
+              <HostGroup>
+                <option name="env" value="000" />
+                <option name="url" value="" />
+              </HostGroup>
+              <HostGroup>
+                <option name="env" value="001" />
+                <option name="url" value="" />
+              </HostGroup>
+            </list>
+          </option>
+          <option name="name" value="rzone-trade-support" />
+        </NameGroup>
+        <NameGroup>
+          <option name="hostGroup">
+            <list>
+              <HostGroup>
+                <option name="env" value="dev" />
                 <option name="url" value="" />
               </HostGroup>
               <HostGroup>
@@ -191,9 +238,17 @@
                 <option name="env" value="网关" />
                 <option name="url" value="" />
               </HostGroup>
+              <HostGroup>
+                <option name="env" value="000" />
+                <option name="url" value="dc_core1-trade-account-service:8719" />
+              </HostGroup>
+              <HostGroup>
+                <option name="env" value="001" />
+                <option name="url" value="10.70.119.140:12345" />
+              </HostGroup>
             </list>
           </option>
-          <option name="name" value="rzone-trade-support" />
+          <option name="name" value="trade-account" />
         </NameGroup>
       </list>
     </option>
@@ -269,15 +324,16 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="http://localhost:8080" />
-    <option name="enableEnv" value="local" />
-    <option name="enableProject" value="trade-app-service" />
+    <option name="domain" value="10.70.119.140:12345" />
+    <option name="enableEnv" value="001" />
+    <option name="enableProject" value="trade-account" />
     <option name="envList">
       <list>
         <option value="dev" />
-        <option value="pre" />
         <option value="test" />
         <option value="网关" />
+        <option value="000" />
+        <option value="001" />
       </list>
     </option>
     <option name="eual" value="true" />
@@ -537,6 +593,18 @@
           </option>
           <option name="projectName" value="trade-assets-service" />
         </HeaderGroup>
+        <HeaderGroup>
+          <option name="envDataMap">
+            <map>
+              <entry key="001">
+                <value>
+                  <list />
+                </value>
+              </entry>
+            </map>
+          </option>
+          <option name="projectName" value="trade-account" />
+        </HeaderGroup>
       </list>
     </option>
     <option name="headerList">
@@ -564,6 +632,7 @@
         <option value="pt-tax-silver" />
         <option value="inst-account" />
         <option value="rzone-trade-support" />
+        <option value="trade-account" />
       </list>
     </option>
     <option name="randomStringLength" value="5" />
@@ -571,10 +640,10 @@
     <option name="statisticsList">
       <list>
         <YearStatistics>
-          <option name="totalActionCount" value="418" />
-          <option name="totalFailCount" value="128" />
+          <option name="totalActionCount" value="435" />
+          <option name="totalFailCount" value="135" />
           <option name="totalRocketCount" value="193" />
-          <option name="totalSuccessCount" value="76" />
+          <option name="totalSuccessCount" value="79" />
           <option name="year" value="2023" />
         </YearStatistics>
         <YearStatistics>
