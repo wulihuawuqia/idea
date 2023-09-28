@@ -83,12 +83,14 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="444" />
     <histories>
+      <item value="调仓" />
+      <item value="rollover" />
       <item value="实时转仓" />
+      <item value="shi'shi" />
+      <item value="s" />
       <item value="实时zhuan'c" />
       <item value="实时zhuan" />
       <item value="实时" />
-      <item value="shi'shi" />
-      <item value="s" />
       <item value="ACATS" />
       <item value="去重" />
       <item value="qu'chong" />
@@ -131,13 +133,11 @@
       <item value="Redution" />
       <item value="参数异常" />
       <item value="exists invalid value" />
-      <item value="幂等" />
-      <item value="mi" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="246" />
-        <entry key="ENGLISH" value="232" />
+        <entry key="CHINESE" value="293" />
+        <entry key="ENGLISH" value="279" />
       </map>
     </option>
   </component>
