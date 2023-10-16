@@ -324,8 +324,8 @@
         </DataMapping>
       </list>
     </option>
-    <option name="enableEnv" value="000" />
-    <option name="enableProject" value="trade-assets-api" />
+    <option name="enableEnv" value="网关" />
+    <option name="enableProject" value="trade-assets-service" />
     <option name="envList">
       <list>
         <option value="dev" />
@@ -609,6 +609,18 @@
           </option>
           <option name="projectName" value="trade-account" />
         </HeaderGroup>
+        <HeaderGroup>
+          <option name="envDataMap">
+            <map>
+              <entry key="local">
+                <value>
+                  <list />
+                </value>
+              </entry>
+            </map>
+          </option>
+          <option name="projectName" value="trade-assets-api" />
+        </HeaderGroup>
       </list>
     </option>
     <option name="headerList">
@@ -644,9 +656,9 @@
     <option name="statisticsList">
       <list>
         <YearStatistics>
-          <option name="totalActionCount" value="465" />
+          <option name="totalActionCount" value="466" />
           <option name="totalFailCount" value="137" />
-          <option name="totalRocketCount" value="194" />
+          <option name="totalRocketCount" value="195" />
           <option name="totalSuccessCount" value="83" />
           <option name="year" value="2023" />
         </YearStatistics>
