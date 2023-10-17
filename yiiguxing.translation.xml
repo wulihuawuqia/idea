@@ -83,6 +83,8 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="444" />
     <histories>
+      <item value="baxi" />
+      <item value="白皙" />
       <item value="元数据" />
       <item value="方法签名" />
       <item value="q" />
@@ -131,13 +133,11 @@
       <item value="Naive" />
       <item value="TRADING_EXEPTION" />
       <item value="操作人" />
-      <item value="ca" />
-      <item value="reArranged" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="389" />
-        <entry key="ENGLISH" value="375" />
+        <entry key="CHINESE" value="419" />
+        <entry key="ENGLISH" value="405" />
       </map>
     </option>
   </component>
