@@ -324,7 +324,8 @@
         </DataMapping>
       </list>
     </option>
-    <option name="enableEnv" value="网关" />
+    <option name="domain" value="http://localhost:8089" />
+    <option name="enableEnv" value="local" />
     <option name="enableProject" value="trade-assets-service" />
     <option name="envList">
       <list>
@@ -656,10 +657,10 @@
     <option name="statisticsList">
       <list>
         <YearStatistics>
-          <option name="totalActionCount" value="470" />
-          <option name="totalFailCount" value="137" />
-          <option name="totalRocketCount" value="200" />
-          <option name="totalSuccessCount" value="83" />
+          <option name="totalActionCount" value="489" />
+          <option name="totalFailCount" value="147" />
+          <option name="totalRocketCount" value="202" />
+          <option name="totalSuccessCount" value="92" />
           <option name="year" value="2023" />
         </YearStatistics>
         <YearStatistics>
