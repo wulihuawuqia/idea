@@ -83,6 +83,7 @@
     <option name="newTranslationDialogX" value="1095" />
     <option name="newTranslationDialogY" value="332" />
     <histories>
+      <item value="computeFunds" />
       <item value="c" />
       <item value="baxi" />
       <item value="白皙" />
@@ -132,11 +133,10 @@
       <item value="避免" />
       <item value="bi" />
       <item value="Naive" />
-      <item value="TRADING_EXEPTION" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="421" />
+        <entry key="CHINESE" value="422" />
         <entry key="ENGLISH" value="407" />
       </map>
     </option>
