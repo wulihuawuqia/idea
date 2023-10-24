@@ -83,13 +83,23 @@
     <option name="newTranslationDialogX" value="1095" />
     <option name="newTranslationDialogY" value="332" />
     <histories>
+      <item value="前天" />
+      <item value="q" />
+      <item value="昨天" />
+      <item value="Z" />
+      <item value="Settlement_date" />
+      <item value="Settlement_+date" />
+      <item value="Settlement date" />
+      <item value="结算日" />
+      <item value="结算" />
+      <item value="j" />
+      <item value="SettelementDate" />
       <item value="computeFunds" />
       <item value="c" />
       <item value="baxi" />
       <item value="白皙" />
       <item value="元数据" />
       <item value="方法签名" />
-      <item value="q" />
       <item value="位置" />
       <item value="wei" />
       <item value="场景" />
@@ -123,21 +133,11 @@
       <item value="BUST" />
       <item value="下单" />
       <item value="xu" />
-      <item value="xi" />
-      <item value="xui" />
-      <item value="xuia" />
-      <item value="x" />
-      <item value="剔除" />
-      <item value="排除" />
-      <item value="pai" />
-      <item value="避免" />
-      <item value="bi" />
-      <item value="Naive" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="422" />
-        <entry key="ENGLISH" value="407" />
+        <entry key="CHINESE" value="488" />
+        <entry key="ENGLISH" value="473" />
       </map>
     </option>
   </component>
