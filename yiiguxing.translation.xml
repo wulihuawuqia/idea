@@ -83,6 +83,14 @@
     <option name="newTranslationDialogX" value="1095" />
     <option name="newTranslationDialogY" value="332" />
     <histories>
+      <item value="保证金" />
+      <item value="bao" />
+      <item value="B" />
+      <item value="触发" />
+      <item value="定时" />
+      <item value="ding'shi" />
+      <item value="ding" />
+      <item value="d" />
       <item value="汇总" />
       <item value="统计" />
       <item value="前天" />
@@ -125,19 +133,11 @@
       <item value="qu" />
       <item value="Artificial" />
       <item value="人工" />
-      <item value="人gong" />
-      <item value="人go" />
-      <item value="人" />
-      <item value="ren" />
-      <item value="前缀" />
-      <item value="Deliverable" />
-      <item value="ReArrange" />
-      <item value="BUST" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="517" />
-        <entry key="ENGLISH" value="502" />
+        <entry key="CHINESE" value="560" />
+        <entry key="ENGLISH" value="545" />
       </map>
     </option>
   </component>
