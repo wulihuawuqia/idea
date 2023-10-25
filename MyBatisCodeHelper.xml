@@ -2,7 +2,7 @@
   <component name="MyBatisCodeHelper">
     <option name="profile">
       <Profile>
-        <option name="checkUsage" value="62" />
+        <option name="checkUsage" value="65" />
         <option name="convertByteOrShortToInt" value="true" />
         <option name="disableCompleteWithJdbcType" value="true" />
         <option name="valid" value="true" />
