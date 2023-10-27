@@ -83,6 +83,7 @@
     <option name="newTranslationDialogX" value="1095" />
     <option name="newTranslationDialogY" value="332" />
     <histories>
+      <item value="上一个结算日" />
       <item value="Simple" />
       <item value="Settlement" />
       <item value="结算" />
@@ -132,7 +133,6 @@
       <item value="实时" />
       <item value="ACATS" />
       <item value="去重" />
-      <item value="qu'chong" />
     </histories>
     <option name="languageScores">
       <map>
