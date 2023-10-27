@@ -83,6 +83,7 @@
     <option name="newTranslationDialogX" value="1095" />
     <option name="newTranslationDialogY" value="332" />
     <histories>
+      <item value="Simple" />
       <item value="Settlement" />
       <item value="结算" />
       <item value=" Settlement" />
@@ -132,11 +133,10 @@
       <item value="ACATS" />
       <item value="去重" />
       <item value="qu'chong" />
-      <item value="qu" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="592" />
+        <entry key="CHINESE" value="593" />
         <entry key="ENGLISH" value="576" />
       </map>
     </option>
