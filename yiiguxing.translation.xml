@@ -83,6 +83,10 @@
     <option name="newTranslationDialogX" value="1095" />
     <option name="newTranslationDialogY" value="332" />
     <histories>
+      <item value="参数异常" />
+      <item value="参数一场" />
+      <item value="can's" />
+      <item value="C" />
       <item value="上一个结算日" />
       <item value="Simple" />
       <item value="Settlement" />
@@ -129,15 +133,11 @@
       <item value="shi'shi" />
       <item value="s" />
       <item value="实时zhuan'c" />
-      <item value="实时zhuan" />
-      <item value="实时" />
-      <item value="ACATS" />
-      <item value="去重" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="593" />
-        <entry key="ENGLISH" value="576" />
+        <entry key="CHINESE" value="604" />
+        <entry key="ENGLISH" value="587" />
       </map>
     </option>
   </component>

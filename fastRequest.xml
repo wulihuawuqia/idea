@@ -32,6 +32,7 @@
         </DataMapping>
       </list>
     </option>
+    <option name="connectionTimeout" value="3" />
     <option name="dataList">
       <list>
         <NameGroup>
@@ -324,9 +325,9 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="http://localhost:8013" />
+    <option name="domain" value="http://localhost:8089" />
     <option name="enableEnv" value="local" />
-    <option name="enableProject" value="inst-account-api" />
+    <option name="enableProject" value="trade-assets-service" />
     <option name="envList">
       <list>
         <option value="dev" />
@@ -682,13 +683,14 @@
       </list>
     </option>
     <option name="randomStringLength" value="5" />
+    <option name="readTimeout" value="3" />
     <option name="statisticsDate" value="2022-08-30 17:08:44" />
     <option name="statisticsList">
       <list>
         <YearStatistics>
-          <option name="totalActionCount" value="556" />
-          <option name="totalFailCount" value="155" />
-          <option name="totalRocketCount" value="209" />
+          <option name="totalActionCount" value="575" />
+          <option name="totalFailCount" value="161" />
+          <option name="totalRocketCount" value="213" />
           <option name="totalSuccessCount" value="115" />
           <option name="year" value="2023" />
         </YearStatistics>

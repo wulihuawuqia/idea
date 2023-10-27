@@ -6,13 +6,10 @@
     <option name="author" value="wuqia" />
     <option name="projectWordMap">
       <map>
-        <entry key="data-analyze">
-          <value>
-            <map />
-          </value>
-        </entry>
+        <entry key="data-analyze" />
         <entry key="leetcode" />
-        <entry key="natrade-assets">
+        <entry key="natrade-assets" />
+        <entry key="webull-inst-account">
           <value>
             <map />
           </value>
@@ -22,11 +19,7 @@
             <map />
           </value>
         </entry>
-        <entry key="webull-view">
-          <value>
-            <map />
-          </value>
-        </entry>
+        <entry key="webull-view" />
       </map>
     </option>
     <option name="secretId" value="" />
