@@ -83,6 +83,7 @@
     <option name="newTranslationDialogX" value="1095" />
     <option name="newTranslationDialogY" value="332" />
     <histories>
+      <item value="fininsh" />
       <item value="执行中" />
       <item value="执行" />
       <item value="z" />
@@ -132,11 +133,10 @@
       <item value="入口" />
       <item value="调仓" />
       <item value="rollover" />
-      <item value="实时转仓" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="613" />
+        <entry key="CHINESE" value="614" />
         <entry key="ENGLISH" value="596" />
       </map>
     </option>
