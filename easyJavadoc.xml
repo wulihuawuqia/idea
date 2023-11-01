@@ -8,7 +8,11 @@
       <map>
         <entry key="data-analyze" />
         <entry key="leetcode" />
-        <entry key="natrade-assets" />
+        <entry key="natrade-assets">
+          <value>
+            <map />
+          </value>
+        </entry>
         <entry key="webull-inst-account">
           <value>
             <map />
@@ -19,7 +23,11 @@
             <map />
           </value>
         </entry>
-        <entry key="webull-view" />
+        <entry key="webull-view">
+          <value>
+            <map />
+          </value>
+        </entry>
       </map>
     </option>
     <option name="secretId" value="" />
