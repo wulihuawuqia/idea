@@ -1,5 +1,7 @@
 <application>
   <component name="CosySettings">
     <option name="allowReportUsage" value="true" />
+    <option name="showInlineAcceptTips" value="false" />
+    <option name="showInlineTriggerTips" value="false" />
   </component>
 </application>
