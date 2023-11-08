@@ -325,8 +325,8 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="http://localhost:8089" />
-    <option name="enableEnv" value="local" />
+    <option name="domain" value="dc.core1.trade.assets.service:7848" />
+    <option name="enableEnv" value="000" />
     <option name="enableProject" value="trade-assets-service" />
     <option name="envList">
       <list>
