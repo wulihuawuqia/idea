@@ -13,21 +13,9 @@
             <map />
           </value>
         </entry>
-        <entry key="webull-inst-account">
-          <value>
-            <map />
-          </value>
-        </entry>
-        <entry key="webull-trade-assets">
-          <value>
-            <map />
-          </value>
-        </entry>
-        <entry key="webull-view">
-          <value>
-            <map />
-          </value>
-        </entry>
+        <entry key="webull-inst-account" />
+        <entry key="webull-trade-assets" />
+        <entry key="webull-view" />
       </map>
     </option>
     <option name="secretId" value="" />
