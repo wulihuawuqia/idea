@@ -325,9 +325,9 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="http://localhost:8089" />
+    <option name="domain" value="http://localhost:8013" />
     <option name="enableEnv" value="local" />
-    <option name="enableProject" value="trade-assets-service" />
+    <option name="enableProject" value="inst-account-api" />
     <option name="envList">
       <list>
         <option value="dev" />
