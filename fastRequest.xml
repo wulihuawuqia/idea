@@ -325,7 +325,8 @@
         </DataMapping>
       </list>
     </option>
-    <option name="enableEnv" value="000" />
+    <option name="domain" value="dc.core1.trade.assets.service:7848" />
+    <option name="enableEnv" value="pre000" />
     <option name="enableProject" value="trade-assets-service" />
     <option name="envList">
       <list>
@@ -594,6 +595,11 @@
                   <list />
                 </value>
               </entry>
+              <entry key="pre000">
+                <value>
+                  <list />
+                </value>
+              </entry>
             </map>
           </option>
           <option name="projectName" value="trade-assets-service" />
@@ -687,10 +693,10 @@
     <option name="statisticsList">
       <list>
         <YearStatistics>
-          <option name="totalActionCount" value="606" />
+          <option name="totalActionCount" value="614" />
           <option name="totalFailCount" value="163" />
-          <option name="totalRocketCount" value="224" />
-          <option name="totalSuccessCount" value="123" />
+          <option name="totalRocketCount" value="225" />
+          <option name="totalSuccessCount" value="125" />
           <option name="year" value="2023" />
         </YearStatistics>
         <YearStatistics>
