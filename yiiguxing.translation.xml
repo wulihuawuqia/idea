@@ -83,6 +83,7 @@
     <option name="newTranslationDialogX" value="1095" />
     <option name="newTranslationDialogY" value="332" />
     <histories>
+      <item value="Architect" />
       <item value="最近一个可用" />
       <item value="zui'jin" />
       <item value="预估" />
@@ -132,11 +133,10 @@
       <item value="computeFunds" />
       <item value="c" />
       <item value="baxi" />
-      <item value="白皙" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="700" />
+        <entry key="CHINESE" value="701" />
         <entry key="ENGLISH" value="677" />
       </map>
     </option>
