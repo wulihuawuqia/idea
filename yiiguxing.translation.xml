@@ -72,7 +72,7 @@
     <option name="translateDocumentation" value="true" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1700447752292" />
+    <option name="lastTrimTime" value="1701051164266" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -83,6 +83,11 @@
     <option name="newTranslationDialogX" value="1095" />
     <option name="newTranslationDialogY" value="332" />
     <histories>
+      <item value="预估" />
+      <item value="yu'gu" />
+      <item value="yu" />
+      <item value="g" />
+      <item value="yugu" />
       <item value="次数" />
       <item value="rollbackMLegPos" />
       <item value="Aspect" />
@@ -128,16 +133,11 @@
       <item value="白皙" />
       <item value="元数据" />
       <item value="方法签名" />
-      <item value="位置" />
-      <item value="wei" />
-      <item value="场景" />
-      <item value="chang'j" />
-      <item value="label" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="647" />
-        <entry key="ENGLISH" value="624" />
+        <entry key="CHINESE" value="687" />
+        <entry key="ENGLISH" value="664" />
       </map>
     </option>
   </component>
