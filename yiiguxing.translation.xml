@@ -83,6 +83,11 @@
     <option name="newTranslationDialogX" value="1095" />
     <option name="newTranslationDialogY" value="332" />
     <histories>
+      <item value="相关" />
+      <item value="xian" />
+      <item value="外部" />
+      <item value="w" />
+      <item value="Out" />
       <item value="latency" />
       <item value="deserializerMap" />
       <item value="Architect" />
@@ -128,16 +133,11 @@
       <item value="Z" />
       <item value="Settlement_date" />
       <item value="Settlement_+date" />
-      <item value="Settlement date" />
-      <item value="结算日" />
-      <item value="j" />
-      <item value="SettelementDate" />
-      <item value="computeFunds" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="703" />
-        <entry key="ENGLISH" value="677" />
+        <entry key="CHINESE" value="759" />
+        <entry key="ENGLISH" value="733" />
       </map>
     </option>
   </component>
