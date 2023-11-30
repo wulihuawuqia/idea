@@ -83,6 +83,7 @@
     <option name="newTranslationDialogX" value="1095" />
     <option name="newTranslationDialogY" value="332" />
     <histories>
+      <item value="latency" />
       <item value="deserializerMap" />
       <item value="Architect" />
       <item value="最近一个可用" />
@@ -132,11 +133,10 @@
       <item value="j" />
       <item value="SettelementDate" />
       <item value="computeFunds" />
-      <item value="c" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="702" />
+        <entry key="CHINESE" value="703" />
         <entry key="ENGLISH" value="677" />
       </map>
     </option>
