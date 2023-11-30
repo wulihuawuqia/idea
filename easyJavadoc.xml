@@ -12,11 +12,7 @@
           </value>
         </entry>
         <entry key="leetcode" />
-        <entry key="natrade-app">
-          <value>
-            <map />
-          </value>
-        </entry>
+        <entry key="natrade-app" />
         <entry key="natrade-assets" />
         <entry key="webull-inst-account" />
         <entry key="webull-trade-assets">
