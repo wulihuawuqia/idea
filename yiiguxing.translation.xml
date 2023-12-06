@@ -83,6 +83,11 @@
     <option name="newTranslationDialogX" value="1095" />
     <option name="newTranslationDialogY" value="332" />
     <histories>
+      <item value="汇总" />
+      <item value="sumer" />
+      <item value="sum" />
+      <item value="s" />
+      <item value="summer" />
       <item value="bust" />
       <item value="bustPos" />
       <item value="相关" />
@@ -127,17 +132,12 @@
       <item value="ding'shi" />
       <item value="ding" />
       <item value="d" />
-      <item value="汇总" />
       <item value="统计" />
-      <item value="前天" />
-      <item value="q" />
-      <item value="昨天" />
-      <item value="Z" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="761" />
-        <entry key="ENGLISH" value="733" />
+        <entry key="CHINESE" value="778" />
+        <entry key="ENGLISH" value="750" />
       </map>
     </option>
   </component>
