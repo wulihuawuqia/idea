@@ -83,6 +83,8 @@
     <option name="newTranslationDialogX" value="1075" />
     <option name="newTranslationDialogY" value="322" />
     <histories>
+      <item value="MANUAL" />
+      <item value="MANUAL_EXERCISE" />
       <item value="intention to do the poll again via exception" />
       <item value="PriorityRollingStrategy" />
       <item value="汇总" />
@@ -131,12 +133,10 @@
       <item value="bao" />
       <item value="B" />
       <item value="触发" />
-      <item value="ding'shi" />
-      <item value="ding" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="780" />
+        <entry key="CHINESE" value="781" />
         <entry key="ENGLISH" value="750" />
       </map>
     </option>
