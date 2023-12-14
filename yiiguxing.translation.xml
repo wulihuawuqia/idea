@@ -83,6 +83,8 @@
     <option name="newTranslationDialogX" value="1075" />
     <option name="newTranslationDialogY" value="322" />
     <histories>
+      <item value="naive" />
+      <item value="naiveStrategy" />
       <item value="An error occurred while merging. Try again." />
       <item value="MANUAL" />
       <item value="MANUAL_EXERCISE" />
@@ -131,12 +133,10 @@
       <item value=" Settlement" />
       <item value="定时" />
       <item value="保证金" />
-      <item value="bao" />
-      <item value="B" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="782" />
+        <entry key="CHINESE" value="783" />
         <entry key="ENGLISH" value="750" />
       </map>
     </option>
