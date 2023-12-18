@@ -83,6 +83,7 @@
     <option name="newTranslationDialogX" value="1075" />
     <option name="newTranslationDialogY" value="322" />
     <histories>
+      <item value="reversal" />
       <item value="Hi, the client has already exited the FPSL program. It's still showing FPSL data on his end. According to the introduction here, this data is updated every trading day. So, it's not making sense as the client has exited since 12/07" />
       <item value="naive" />
       <item value="naiveStrategy" />
@@ -132,11 +133,10 @@
       <item value="Settlement" />
       <item value="结算" />
       <item value=" Settlement" />
-      <item value="定时" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="784" />
+        <entry key="CHINESE" value="785" />
         <entry key="ENGLISH" value="750" />
       </map>
     </option>
