@@ -83,6 +83,7 @@
     <option name="newTranslationDialogX" value="1075" />
     <option name="newTranslationDialogY" value="322" />
     <histories>
+      <item value="wouldBeProcessedAsIndividual" />
       <item value="Arranage" />
       <item value="checkReArranageMleg" />
       <item value="reversal" />
@@ -132,11 +133,10 @@
       <item value="C" />
       <item value="上一个结算日" />
       <item value="Simple" />
-      <item value="Settlement" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="787" />
+        <entry key="CHINESE" value="788" />
         <entry key="ENGLISH" value="750" />
       </map>
     </option>
