@@ -83,6 +83,9 @@
     <option name="newTranslationDialogX" value="1075" />
     <option name="newTranslationDialogY" value="322" />
     <histories>
+      <item value="dtQ" />
+      <item value="dt" />
+      <item value="d" />
       <item value="wouldBeProcessedAsIndividual" />
       <item value="Arranage" />
       <item value="checkReArranageMleg" />
@@ -130,14 +133,11 @@
       <item value="参数异常" />
       <item value="参数一场" />
       <item value="can's" />
-      <item value="C" />
-      <item value="上一个结算日" />
-      <item value="Simple" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="788" />
-        <entry key="ENGLISH" value="750" />
+        <entry key="CHINESE" value="791" />
+        <entry key="ENGLISH" value="753" />
       </map>
     </option>
   </component>
