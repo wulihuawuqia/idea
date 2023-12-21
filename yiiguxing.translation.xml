@@ -83,6 +83,7 @@
     <option name="newTranslationDialogX" value="1075" />
     <option name="newTranslationDialogY" value="322" />
     <histories>
+      <item value="rollday" />
       <item value="dtQ" />
       <item value="dt" />
       <item value="d" />
@@ -132,11 +133,10 @@
       <item value="z" />
       <item value="参数异常" />
       <item value="参数一场" />
-      <item value="can's" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="791" />
+        <entry key="CHINESE" value="792" />
         <entry key="ENGLISH" value="753" />
       </map>
     </option>
