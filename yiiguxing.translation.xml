@@ -83,6 +83,7 @@
     <option name="newTranslationDialogX" value="1075" />
     <option name="newTranslationDialogY" value="322" />
     <histories>
+      <item value="g" />
       <item value="LEVER" />
       <item value="rollday" />
       <item value="dtQ" />
@@ -120,7 +121,6 @@
       <item value="预估" />
       <item value="yu'gu" />
       <item value="yu" />
-      <item value="g" />
       <item value="yugu" />
       <item value="次数" />
       <item value="rollbackMLegPos" />
@@ -136,8 +136,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="793" />
-        <entry key="ENGLISH" value="753" />
+        <entry key="CHINESE" value="794" />
+        <entry key="ENGLISH" value="754" />
       </map>
     </option>
   </component>
