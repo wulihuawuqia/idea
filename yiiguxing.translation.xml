@@ -83,6 +83,9 @@
     <option name="newTranslationDialogX" value="1075" />
     <option name="newTranslationDialogY" value="322" />
     <histories>
+      <item value="佣金" />
+      <item value="yong'h" />
+      <item value="y" />
       <item value="g" />
       <item value="LEVER" />
       <item value="rollday" />
@@ -130,14 +133,11 @@
       <item value="前缀" />
       <item value="fininsh" />
       <item value="执行中" />
-      <item value="执行" />
-      <item value="z" />
-      <item value="参数异常" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="794" />
-        <entry key="ENGLISH" value="754" />
+        <entry key="CHINESE" value="811" />
+        <entry key="ENGLISH" value="771" />
       </map>
     </option>
   </component>
