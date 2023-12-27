@@ -83,6 +83,12 @@
     <option name="newTranslationDialogX" value="1075" />
     <option name="newTranslationDialogY" value="322" />
     <histories>
+      <item value="脏" />
+      <item value="dir" />
+      <item value="dire" />
+      <item value="dire&#10;" />
+      <item value="d" />
+      <item value="ERROR_COMPRESS_CACHE" />
       <item value="佣金" />
       <item value="yong'h" />
       <item value="y" />
@@ -91,7 +97,6 @@
       <item value="rollday" />
       <item value="dtQ" />
       <item value="dt" />
-      <item value="d" />
       <item value="wouldBeProcessedAsIndividual" />
       <item value="Arranage" />
       <item value="checkReArranageMleg" />
@@ -128,16 +133,11 @@
       <item value="次数" />
       <item value="rollbackMLegPos" />
       <item value="Aspect" />
-      <item value="derivative" />
-      <item value="STATE" />
-      <item value="前缀" />
-      <item value="fininsh" />
-      <item value="执行中" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="811" />
-        <entry key="ENGLISH" value="771" />
+        <entry key="CHINESE" value="822" />
+        <entry key="ENGLISH" value="781" />
       </map>
     </option>
   </component>
