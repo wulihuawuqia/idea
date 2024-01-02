@@ -83,6 +83,8 @@
     <option name="newTranslationDialogX" value="1075" />
     <option name="newTranslationDialogY" value="322" />
     <histories>
+      <item value="二元期权" />
+      <item value="外部" />
       <item value="advanced" />
       <item value="advanced&#10;" />
       <item value="advan" />
@@ -122,7 +124,6 @@
       <item value="bustPos" />
       <item value="相关" />
       <item value="xian" />
-      <item value="外部" />
       <item value="w" />
       <item value="Out" />
       <item value="latency" />
@@ -132,12 +133,11 @@
       <item value="zui'jin" />
       <item value="预估" />
       <item value="yu'gu" />
-      <item value="yu" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="823" />
-        <entry key="ENGLISH" value="781" />
+        <entry key="CHINESE" value="834" />
+        <entry key="ENGLISH" value="792" />
       </map>
     </option>
   </component>
