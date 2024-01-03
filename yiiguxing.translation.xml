@@ -83,6 +83,9 @@
     <option name="newTranslationDialogX" value="1075" />
     <option name="newTranslationDialogY" value="322" />
     <histories>
+      <item value="pending transaction" />
+      <item value="待成交" />
+      <item value="dai" />
       <item value="BONDS" />
       <item value="BOND" />
       <item value="二元期权" />
@@ -130,14 +133,11 @@
       <item value="Out" />
       <item value="latency" />
       <item value="deserializerMap" />
-      <item value="Architect" />
-      <item value="最近一个可用" />
-      <item value="zui'jin" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="835" />
-        <entry key="ENGLISH" value="792" />
+        <entry key="CHINESE" value="867" />
+        <entry key="ENGLISH" value="823" />
       </map>
     </option>
   </component>
