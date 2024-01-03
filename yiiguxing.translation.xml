@@ -83,6 +83,7 @@
     <option name="newTranslationDialogX" value="1075" />
     <option name="newTranslationDialogY" value="322" />
     <histories>
+      <item value="expirationDate" />
       <item value="单张面值" />
       <item value="单张mian'zhi" />
       <item value="单张" />
@@ -132,11 +133,10 @@
       <item value="sum" />
       <item value="s" />
       <item value="summer" />
-      <item value="bust" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="904" />
+        <entry key="CHINESE" value="905" />
         <entry key="ENGLISH" value="860" />
       </map>
     </option>
