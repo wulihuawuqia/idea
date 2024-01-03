@@ -80,9 +80,17 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="260" />
-    <option name="newTranslationDialogX" value="1075" />
+    <option name="newTranslationDialogX" value="840" />
     <option name="newTranslationDialogY" value="322" />
     <histories>
+      <item value="Securities" />
+      <item value="SecuritiesAccount" />
+      <item value="Securitiesccount" />
+      <item value="Securities account" />
+      <item value="证券账户" />
+      <item value="证券zhang'h" />
+      <item value="证券" />
+      <item value="z" />
       <item value="expirationDate" />
       <item value="单张面值" />
       <item value="单张mian'zhi" />
@@ -125,19 +133,11 @@
       <item value="naiveStrategy" />
       <item value="An error occurred while merging. Try again." />
       <item value="MANUAL" />
-      <item value="MANUAL_EXERCISE" />
-      <item value="intention to do the poll again via exception" />
-      <item value="PriorityRollingStrategy" />
-      <item value="汇总" />
-      <item value="sumer" />
-      <item value="sum" />
-      <item value="s" />
-      <item value="summer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="905" />
-        <entry key="ENGLISH" value="860" />
+        <entry key="CHINESE" value="925" />
+        <entry key="ENGLISH" value="879" />
       </map>
     </option>
   </component>
