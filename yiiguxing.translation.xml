@@ -83,6 +83,7 @@
     <option name="newTranslationDialogX" value="840" />
     <option name="newTranslationDialogY" value="322" />
     <histories>
+      <item value="适配" />
       <item value="Securities" />
       <item value="SecuritiesAccount" />
       <item value="Securitiesccount" />
@@ -132,12 +133,11 @@
       <item value="naive" />
       <item value="naiveStrategy" />
       <item value="An error occurred while merging. Try again." />
-      <item value="MANUAL" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="925" />
-        <entry key="ENGLISH" value="879" />
+        <entry key="CHINESE" value="938" />
+        <entry key="ENGLISH" value="892" />
       </map>
     </option>
   </component>
