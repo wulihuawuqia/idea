@@ -83,6 +83,13 @@
     <option name="newTranslationDialogX" value="840" />
     <option name="newTranslationDialogY" value="322" />
     <histories>
+      <item value="distribution" />
+      <item value="分发" />
+      <item value="fe'j" />
+      <item value="dispatch" />
+      <item value="di's'p" />
+      <item value="dis" />
+      <item value="d" />
       <item value="适配" />
       <item value="Securities" />
       <item value="SecuritiesAccount" />
@@ -115,7 +122,6 @@
       <item value="dir" />
       <item value="dire" />
       <item value="dire&#10;" />
-      <item value="d" />
       <item value="ERROR_COMPRESS_CACHE" />
       <item value="佣金" />
       <item value="yong'h" />
@@ -127,17 +133,11 @@
       <item value="dt" />
       <item value="wouldBeProcessedAsIndividual" />
       <item value="Arranage" />
-      <item value="checkReArranageMleg" />
-      <item value="reversal" />
-      <item value="Hi, the client has already exited the FPSL program. It's still showing FPSL data on his end. According to the introduction here, this data is updated every trading day. So, it's not making sense as the client has exited since 12/07" />
-      <item value="naive" />
-      <item value="naiveStrategy" />
-      <item value="An error occurred while merging. Try again." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="938" />
-        <entry key="ENGLISH" value="892" />
+        <entry key="CHINESE" value="975" />
+        <entry key="ENGLISH" value="928" />
       </map>
     </option>
   </component>
