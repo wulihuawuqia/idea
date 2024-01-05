@@ -6,11 +6,7 @@
     <option name="author" value="wuqia" />
     <option name="projectWordMap">
       <map>
-        <entry key="data-analyze">
-          <value>
-            <map />
-          </value>
-        </entry>
+        <entry key="data-analyze" />
         <entry key="leetcode" />
         <entry key="natrade-app" />
         <entry key="natrade-assets" />
