@@ -706,6 +706,11 @@
           <option name="totalSuccessCount" value="149" />
           <option name="year" value="2022" />
         </YearStatistics>
+        <YearStatistics>
+          <option name="totalActionCount" value="1" />
+          <option name="totalRocketCount" value="1" />
+          <option name="year" value="2024" />
+        </YearStatistics>
       </list>
     </option>
   </component>
