@@ -83,6 +83,11 @@
     <option name="newTranslationDialogX" value="840" />
     <option name="newTranslationDialogY" value="322" />
     <histories>
+      <item value="成交" />
+      <item value="Strick" />
+      <item value="getStrick" />
+      <item value="getStrickAmount" />
+      <item value="Amount" />
       <item value="Spliter" />
       <item value="bonds" />
       <item value="bond" />
@@ -128,16 +133,11 @@
       <item value="dir" />
       <item value="dire" />
       <item value="dire&#10;" />
-      <item value="ERROR_COMPRESS_CACHE" />
-      <item value="佣金" />
-      <item value="yong'h" />
-      <item value="y" />
-      <item value="g" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="987" />
-        <entry key="ENGLISH" value="938" />
+        <entry key="CHINESE" value="1007" />
+        <entry key="ENGLISH" value="958" />
       </map>
     </option>
   </component>
