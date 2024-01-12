@@ -83,6 +83,7 @@
     <option name="newTranslationDialogX" value="840" />
     <option name="newTranslationDialogY" value="322" />
     <histories>
+      <item value="reArranged" />
       <item value="NaiveExecutionCheck" />
       <item value="成交" />
       <item value="Strick" />
@@ -132,11 +133,10 @@
       <item value="ad" />
       <item value="脏" />
       <item value="dir" />
-      <item value="dire" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1008" />
+        <entry key="CHINESE" value="1009" />
         <entry key="ENGLISH" value="958" />
       </map>
     </option>
