@@ -83,6 +83,7 @@
     <option name="newTranslationDialogX" value="840" />
     <option name="newTranslationDialogY" value="322" />
     <histories>
+      <item value="valid" />
       <item value="可融资" />
       <item value="ke融资" />
       <item value="融资" />
@@ -132,11 +133,10 @@
       <item value="pending transaction" />
       <item value="待成交" />
       <item value="dai" />
-      <item value="BONDS" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1083" />
+        <entry key="CHINESE" value="1084" />
         <entry key="ENGLISH" value="1031" />
       </map>
     </option>
