@@ -83,6 +83,7 @@
     <option name="newTranslationDialogX" value="840" />
     <option name="newTranslationDialogY" value="322" />
     <histories>
+      <item value="retry" />
       <item value="ca whether  occured " />
       <item value="whether  occured " />
       <item value="whether  occured ca" />
@@ -132,11 +133,10 @@
       <item value="单张mian'zhi" />
       <item value="单张" />
       <item value="dan'zhang" />
-      <item value="dan" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1085" />
+        <entry key="CHINESE" value="1086" />
         <entry key="ENGLISH" value="1031" />
       </map>
     </option>
