@@ -83,6 +83,9 @@
     <option name="newTranslationDialogX" value="840" />
     <option name="newTranslationDialogY" value="322" />
     <histories>
+      <item value="冻结" />
+      <item value="解冻" />
+      <item value="jie" />
       <item value="Recover" />
       <item value="retry" />
       <item value="ca whether  occured " />
@@ -130,14 +133,11 @@
       <item value="证券" />
       <item value="z" />
       <item value="expirationDate" />
-      <item value="单张面值" />
-      <item value="单张mian'zhi" />
-      <item value="单张" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1087" />
-        <entry key="ENGLISH" value="1031" />
+        <entry key="CHINESE" value="1144" />
+        <entry key="ENGLISH" value="1088" />
       </map>
     </option>
   </component>
