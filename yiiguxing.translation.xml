@@ -83,6 +83,9 @@
     <option name="newTranslationDialogX" value="840" />
     <option name="newTranslationDialogY" value="322" />
     <histories>
+      <item value="marginAbleQty" />
+      <item value="marginAbQty" />
+      <item value="marginQty" />
       <item value="Spliter" />
       <item value="Splinter" />
       <item value="Splnter" />
@@ -130,13 +133,10 @@
       <item value="SecuritiesAccount" />
       <item value="Securitiesccount" />
       <item value="Securities account" />
-      <item value="证券账户" />
-      <item value="证券zhang'h" />
-      <item value="证券" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1145" />
+        <entry key="CHINESE" value="1146" />
         <entry key="ENGLISH" value="1088" />
       </map>
     </option>
