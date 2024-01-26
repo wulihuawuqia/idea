@@ -83,6 +83,8 @@
     <option name="newTranslationDialogX" value="840" />
     <option name="newTranslationDialogY" value="322" />
     <histories>
+      <item value="expire" />
+      <item value="到期" />
       <item value="label" />
       <item value="_label" />
       <item value="expand_label" />
@@ -131,13 +133,11 @@
       <item value="分发" />
       <item value="fe'j" />
       <item value="dispatch" />
-      <item value="di's'p" />
-      <item value="dis" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1162" />
-        <entry key="ENGLISH" value="1103" />
+        <entry key="CHINESE" value="1185" />
+        <entry key="ENGLISH" value="1125" />
       </map>
     </option>
   </component>
