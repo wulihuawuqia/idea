@@ -83,6 +83,11 @@
     <option name="newTranslationDialogX" value="840" />
     <option name="newTranslationDialogY" value="322" />
     <histories>
+      <item value="中断" />
+      <item value="zhogn'duan" />
+      <item value="zhong'duan" />
+      <item value="终端" />
+      <item value="Z" />
       <item value="expire" />
       <item value="到期" />
       <item value="label" />
@@ -128,16 +133,11 @@
       <item value="bond" />
       <item value="bond&#10;" />
       <item value="异步" />
-      <item value="sync" />
-      <item value="distribution" />
-      <item value="分发" />
-      <item value="fe'j" />
-      <item value="dispatch" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1185" />
-        <entry key="ENGLISH" value="1125" />
+        <entry key="CHINESE" value="1241" />
+        <entry key="ENGLISH" value="1181" />
       </map>
     </option>
   </component>
