@@ -25,6 +25,7 @@
     </contentStatesAll>
     <option name="easyCodeAccessToken" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjk1MDk1MzU2LCJpYXQiOjE2OTQxNjU3MjYsImp0aSI6ImQ2OTZiMTM2NGU3MzRhMWZhM2U0OTk5YTFmZjQzMjRiIiwidXNlcl9pZCI6MzI1ODI4fQ.6UtZy2BOzOmJ_F7zuITDKjkmDZw0z9ZMt175k8-vMU4" />
     <option name="easyCodeRefreshToken" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTY5NjMwNDA1NiwiaWF0IjoxNjk1MDk0NDU2LCJqdGkiOiI3YThmOWNhZjZlNjI0ZGY2YmQwZTA1MzdhZTY3MGU0YSIsInVzZXJfaWQiOjMyNTgyOH0.Wpk4U2m8mur6Bhmol8UaJah2W5a7Vmh6OmESLJwEkXw" />
+    <option name="easyCodeHistoryConversationModel" />
   </component>
   <component name="com.obiscr.chatgpt.settings.SettingsState">
     <option name="accessToken" value="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" />
