@@ -325,9 +325,9 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="http://localhost:8018" />
-    <option name="enableEnv" value="local" />
-    <option name="enableProject" value="trade-app-service" />
+    <option name="domain" value="dc.core1.trade.assets.service:7848" />
+    <option name="enableEnv" value="000" />
+    <option name="enableProject" value="trade-assets-service" />
     <option name="envList">
       <list>
         <option value="dev" />
@@ -707,8 +707,8 @@
           <option name="year" value="2022" />
         </YearStatistics>
         <YearStatistics>
-          <option name="totalActionCount" value="20" />
-          <option name="totalRocketCount" value="21" />
+          <option name="totalActionCount" value="24" />
+          <option name="totalRocketCount" value="23" />
           <option name="year" value="2024" />
         </YearStatistics>
       </list>
