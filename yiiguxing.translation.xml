@@ -83,6 +83,7 @@
     <option name="newTranslationDialogX" value="840" />
     <option name="newTranslationDialogY" value="322" />
     <histories>
+      <item value="Securities" />
       <item value="Fallback" />
       <item value="中断" />
       <item value="zhogn'duan" />
@@ -132,11 +133,10 @@
       <item value="Amount" />
       <item value="bonds" />
       <item value="bond" />
-      <item value="bond&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1242" />
+        <entry key="CHINESE" value="1243" />
         <entry key="ENGLISH" value="1181" />
       </map>
     </option>
