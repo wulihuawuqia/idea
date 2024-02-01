@@ -83,6 +83,8 @@
     <option name="newTranslationDialogX" value="840" />
     <option name="newTranslationDialogY" value="322" />
     <histories>
+      <item value="交易" />
+      <item value="trader" />
       <item value="Securities" />
       <item value="Fallback" />
       <item value="中断" />
@@ -131,13 +133,11 @@
       <item value="getStrick" />
       <item value="getStrickAmount" />
       <item value="Amount" />
-      <item value="bonds" />
-      <item value="bond" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1243" />
-        <entry key="ENGLISH" value="1181" />
+        <entry key="CHINESE" value="1257" />
+        <entry key="ENGLISH" value="1195" />
       </map>
     </option>
   </component>
