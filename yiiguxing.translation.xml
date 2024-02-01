@@ -83,6 +83,7 @@
     <option name="newTranslationDialogX" value="840" />
     <option name="newTranslationDialogY" value="322" />
     <histories>
+      <item value="Disbursements" />
       <item value="交易" />
       <item value="trader" />
       <item value="Securities" />
@@ -132,11 +133,10 @@
       <item value="Strick" />
       <item value="getStrick" />
       <item value="getStrickAmount" />
-      <item value="Amount" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1257" />
+        <entry key="CHINESE" value="1258" />
         <entry key="ENGLISH" value="1195" />
       </map>
     </option>
