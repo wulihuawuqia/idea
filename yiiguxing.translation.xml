@@ -83,6 +83,9 @@
     <option name="newTranslationDialogX" value="840" />
     <option name="newTranslationDialogY" value="322" />
     <histories>
+      <item value="flow chart" />
+      <item value="流程图" />
+      <item value="流程" />
       <item value="Disbursements" />
       <item value="交易" />
       <item value="trader" />
@@ -130,14 +133,11 @@
       <item value="reArranged" />
       <item value="NaiveExecutionCheck" />
       <item value="成交" />
-      <item value="Strick" />
-      <item value="getStrick" />
-      <item value="getStrickAmount" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1258" />
-        <entry key="ENGLISH" value="1195" />
+        <entry key="CHINESE" value="1276" />
+        <entry key="ENGLISH" value="1213" />
       </map>
     </option>
   </component>
