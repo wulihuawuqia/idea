@@ -72,7 +72,7 @@
     <option name="translateDocumentation" value="true" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1707011363813" />
+    <option name="lastTrimTime" value="1708219929109" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -80,9 +80,10 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="260" />
-    <option name="newTranslationDialogX" value="649" />
+    <option name="newTranslationDialogX" value="635" />
     <option name="newTranslationDialogY" value="263" />
     <histories>
+      <item value="flatten_option" />
       <item value="Hello,&#10;The flatten button in TurboTrader does not work as described. It cancels working orders but it does not exit any positions. I've noticed this repeatedly and had to close positions with some other method when it fails." />
       <item value="Archaius" />
       <item value="SEMAPHORE" />
@@ -132,12 +133,11 @@
       <item value="结算周期" />
       <item value="九三" />
       <item value="JIE" />
-      <item value="资金池" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1279" />
-        <entry key="ENGLISH" value="1213" />
+        <entry key="CHINESE" value="1280" />
+        <entry key="ENGLISH" value="1214" />
       </map>
     </option>
   </component>
