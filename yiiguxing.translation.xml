@@ -83,6 +83,7 @@
     <option name="newTranslationDialogX" value="635" />
     <option name="newTranslationDialogY" value="263" />
     <histories>
+      <item value="DTBP did not reflect correctly after purchase. EX: $1.3m dollars in DTBP, order filled for $900k, DTBP $1.2m after purchase. I generated some profits and tried to make a purchase that would exceed DTBP, but since DTBP was not being reduced correctly after sales, I couldn't do this." />
       <item value="assembleCounters" />
       <item value="flatten_option" />
       <item value="Hello,&#10;The flatten button in TurboTrader does not work as described. It cancels working orders but it does not exit any positions. I've noticed this repeatedly and had to close positions with some other method when it fails." />
@@ -132,11 +133,10 @@
       <item value="Financing" />
       <item value="r" />
       <item value="结算周期" />
-      <item value="九三" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1281" />
+        <entry key="CHINESE" value="1282" />
         <entry key="ENGLISH" value="1214" />
       </map>
     </option>
