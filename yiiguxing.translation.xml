@@ -80,9 +80,10 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="267" />
-    <option name="newTranslationDialogX" value="697" />
-    <option name="newTranslationDialogY" value="210" />
+    <option name="newTranslationDialogX" value="1144" />
+    <option name="newTranslationDialogY" value="168" />
     <histories>
+      <item value="数字货币标的缓存开始" />
       <item value="Associated Accounts" />
       <item value="DTBP did not reflect correctly after purchase. EX: $1.3m dollars in DTBP, order filled for $900k, DTBP $1.2m after purchase. I generated some profits and tried to make a purchase that would exceed DTBP, but since DTBP was not being reduced correctly after sales, I couldn't do this." />
       <item value="assembleCounters" />
@@ -132,7 +133,6 @@
       <item value="ke融资" />
       <item value="融资" />
       <item value="Financing" />
-      <item value="r" />
     </histories>
     <option name="languageScores">
       <map>
