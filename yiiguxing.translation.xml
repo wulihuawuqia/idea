@@ -83,6 +83,10 @@
     <option name="newTranslationDialogX" value="1144" />
     <option name="newTranslationDialogY" value="168" />
     <histories>
+      <item value="份额" />
+      <item value="fen" />
+      <item value="share" />
+      <item value="sha" />
       <item value="Campaign" />
       <item value="数字货币标的缓存开始" />
       <item value="Associated Accounts" />
@@ -129,15 +133,11 @@
       <item value="whether  occured ca" />
       <item value="whether  occured" />
       <item value="whether ca occured" />
-      <item value="valid" />
-      <item value="可融资" />
-      <item value="ke融资" />
-      <item value="融资" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1290" />
-        <entry key="ENGLISH" value="1219" />
+        <entry key="CHINESE" value="1301" />
+        <entry key="ENGLISH" value="1230" />
       </map>
     </option>
   </component>
