@@ -81,9 +81,13 @@
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="454" />
     <option name="newTranslationDialogWidth" value="711" />
-    <option name="newTranslationDialogX" value="872" />
-    <option name="newTranslationDialogY" value="214" />
+    <option name="newTranslationDialogX" value="889" />
+    <option name="newTranslationDialogY" value="213" />
     <histories>
+      <item value="Vulnerability" />
+      <item value="漏洞升级" />
+      <item value="漏洞" />
+      <item value="漏洞sb" />
       <item value="ci&#10;" />
       <item value="manual operation" />
       <item value="人工操作" />
@@ -130,15 +134,11 @@
       <item value="_label" />
       <item value="expand_label" />
       <item value="拓展" />
-      <item value="tuo'zhan" />
-      <item value="tuo" />
-      <item value="marginAbleQty" />
-      <item value="marginAbQty" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1328" />
-        <entry key="ENGLISH" value="1253" />
+        <entry key="CHINESE" value="1401" />
+        <entry key="ENGLISH" value="1325" />
       </map>
     </option>
   </component>
