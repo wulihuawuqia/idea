@@ -84,6 +84,7 @@
     <option name="newTranslationDialogX" value="872" />
     <option name="newTranslationDialogY" value="214" />
     <histories>
+      <item value="DT、持仓标签等功能验证，需要查询线上数据" />
       <item value="Relevant matters have been handed over" />
       <item value="相关事项已交接" />
       <item value="相关事项已交接文档" />
@@ -133,7 +134,6 @@
       <item value="Splinter" />
       <item value="Splnter" />
       <item value="冻结" />
-      <item value="解冻" />
     </histories>
     <option name="languageScores">
       <map>
