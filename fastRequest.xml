@@ -327,7 +327,7 @@
     </option>
     <option name="domain" value="http://localhost:8080" />
     <option name="enableEnv" value="local" />
-    <option name="enableProject" value="gzone-trade-support-service" />
+    <option name="enableProject" value="trade-global-api" />
     <option name="envList">
       <list>
         <option value="dev" />
@@ -708,7 +708,7 @@
         </YearStatistics>
         <YearStatistics>
           <option name="totalActionCount" value="40" />
-          <option name="totalRocketCount" value="42" />
+          <option name="totalRocketCount" value="44" />
           <option name="year" value="2024" />
         </YearStatistics>
       </list>
