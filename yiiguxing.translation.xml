@@ -84,6 +84,7 @@
     <option name="newTranslationDialogX" value="889" />
     <option name="newTranslationDialogY" value="213" />
     <histories>
+      <item value="查询WF交易信息出入金记录" />
       <item value="ADVISOR" />
       <item value="Vulnerability" />
       <item value="漏洞升级" />
@@ -133,7 +134,6 @@
       <item value="到期" />
       <item value="label" />
       <item value="_label" />
-      <item value="expand_label" />
     </histories>
     <option name="languageScores">
       <map>
