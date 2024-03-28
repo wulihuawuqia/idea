@@ -84,6 +84,7 @@
     <option name="newTranslationDialogX" value="889" />
     <option name="newTranslationDialogY" value="213" />
     <histories>
+      <item value="迁移" />
       <item value="查询WF交易信息出入金记录" />
       <item value="ADVISOR" />
       <item value="Vulnerability" />
@@ -133,12 +134,11 @@
       <item value="expire" />
       <item value="到期" />
       <item value="label" />
-      <item value="_label" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1402" />
-        <entry key="ENGLISH" value="1325" />
+        <entry key="CHINESE" value="1415" />
+        <entry key="ENGLISH" value="1338" />
       </map>
     </option>
   </component>
