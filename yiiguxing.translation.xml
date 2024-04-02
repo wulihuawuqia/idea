@@ -81,9 +81,10 @@
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="454" />
     <option name="newTranslationDialogWidth" value="711" />
-    <option name="newTranslationDialogX" value="889" />
-    <option name="newTranslationDialogY" value="213" />
+    <option name="newTranslationDialogX" value="815" />
+    <option name="newTranslationDialogY" value="180" />
     <histories>
+      <item value="PENDING" />
       <item value="Corver" />
       <item value="迁移" />
       <item value="查询WF交易信息出入金记录" />
@@ -133,11 +134,10 @@
       <item value="终端" />
       <item value="Z" />
       <item value="expire" />
-      <item value="到期" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1416" />
+        <entry key="CHINESE" value="1417" />
         <entry key="ENGLISH" value="1338" />
       </map>
     </option>
