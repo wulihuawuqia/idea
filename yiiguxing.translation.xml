@@ -84,6 +84,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="180" />
     <histories>
+      <item value="start" />
       <item value="reciver" />
       <item value="PENDING" />
       <item value="Corver" />
@@ -133,11 +134,10 @@
       <item value="zhogn'duan" />
       <item value="zhong'duan" />
       <item value="终端" />
-      <item value="Z" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1418" />
+        <entry key="CHINESE" value="1419" />
         <entry key="ENGLISH" value="1338" />
       </map>
     </option>
