@@ -84,6 +84,7 @@
     <option name="newTranslationDialogX" value="847" />
     <option name="newTranslationDialogY" value="175" />
     <histories>
+      <item value="延时" />
       <item value="PendingWriteListLoad" />
       <item value="REPLENISH" />
       <item value="Finish" />
@@ -133,12 +134,11 @@
       <item value="Associated Accounts" />
       <item value="DTBP did not reflect correctly after purchase. EX: $1.3m dollars in DTBP, order filled for $900k, DTBP $1.2m after purchase. I generated some profits and tried to make a purchase that would exceed DTBP, but since DTBP was not being reduced correctly after sales, I couldn't do this." />
       <item value="assembleCounters" />
-      <item value="flatten_option" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1491" />
-        <entry key="ENGLISH" value="1403" />
+        <entry key="CHINESE" value="1504" />
+        <entry key="ENGLISH" value="1416" />
       </map>
     </option>
   </component>
