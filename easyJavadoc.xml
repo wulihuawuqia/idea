@@ -4,6 +4,8 @@
     <option name="accessKeySecret" value="" />
     <option name="appId" value="20220510001210960" />
     <option name="author" value="wuqia" />
+    <option name="googleKey" value="" />
+    <option name="microsoftKey" value="" />
     <option name="projectWordMap">
       <map>
         <entry key="data-analyze">
@@ -38,5 +40,7 @@
         <entry key="position" value="持仓" />
       </map>
     </option>
+    <option name="youdaoAppKey" value="" />
+    <option name="youdaoAppSecret" value="" />
   </component>
 </application>
