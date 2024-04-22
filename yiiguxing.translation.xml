@@ -84,6 +84,8 @@
     <option name="newTranslationDialogX" value="927" />
     <option name="newTranslationDialogY" value="191" />
     <histories>
+      <item value="DividendReport" />
+      <item value="PendingDebitInterest" />
       <item value="This exception may occur if matchers are combined with raw values:&#10;    //incorrect:&#10;    someMethod(anyObject(), &quot;raw String&quot;);&#10;When using matchers, all arguments have to be provided by matchers.&#10;For example:&#10;    //correct:&#10;    someMethod(anyObject(), eq(&quot;String by matcher&quot;));" />
       <item value="correct" />
       <item value="someMethod" />
@@ -132,12 +134,10 @@
       <item value="份额" />
       <item value="fen" />
       <item value="share" />
-      <item value="sha" />
-      <item value="Campaign" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1508" />
+        <entry key="CHINESE" value="1510" />
         <entry key="ENGLISH" value="1416" />
       </map>
     </option>
