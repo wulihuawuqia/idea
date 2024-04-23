@@ -81,9 +81,13 @@
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="454" />
     <option name="newTranslationDialogWidth" value="711" />
-    <option name="newTranslationDialogX" value="927" />
-    <option name="newTranslationDialogY" value="191" />
+    <option name="newTranslationDialogX" value="1022" />
+    <option name="newTranslationDialogY" value="197" />
     <histories>
+      <item value="小时" />
+      <item value="时刻" />
+      <item value="时间" />
+      <item value="花间" />
       <item value="DividendReport" />
       <item value="PendingDebitInterest" />
       <item value="This exception may occur if matchers are combined with raw values:&#10;    //incorrect:&#10;    someMethod(anyObject(), &quot;raw String&quot;);&#10;When using matchers, all arguments have to be provided by matchers.&#10;For example:&#10;    //correct:&#10;    someMethod(anyObject(), eq(&quot;String by matcher&quot;));" />
@@ -130,15 +134,11 @@
       <item value="相关事项交接文档" />
       <item value="Paternity leave application" />
       <item value="陪产假申请" />
-      <item value="Dear Colleagues,&#10;&#10; &#10;&#10;Just a few minutes ago, Webull announced that it has entered into an agreement to become a public company by merging with a special purpose acquisition company, or SPAC. You can find that announcement here.&#10;&#10; &#10;&#10;What this means for Webull&#10;&#10; &#10;&#10;This means that we are committed to going through a process that will result in us becoming a public company. There are still many important steps that must be completed before we get there, but we anticipate becoming a public company by the end of 2024. We want to be a public company because it will elevate our profile to our customers, business partners, and regulators, which will help us be successful. It will also give many of our stakeholders, including our employees, the opportunity to benefit directly from our success.&#10;&#10; &#10;&#10;What this means for you&#10;&#10; &#10;&#10;At this point, it is business as usual. Each of you has played an important role in getting us to this milestone and we ask you to continue helping us move forward. Given the expected increase in public scrutiny that may follow this announcement, it is critical that each of you continue to comply with all company policies, including our Media Relations Policy and our Social Media Policy. If you are approached by members of the media seeking information about Webull or the announced transaction, please note that you are not allowed to comment and simply refer them to the press release. Also, you must be careful in what you say to friends and family about the transaction, and you should never post anything on social media about Webull or your work.&#10;&#10; &#10;&#10;Because of the process by which Webull is going public, the publicly traded stock of our SPAC partner, SK Growth Opportunities Corporation (Nasdaq: SKGR), now serves as a proxy for Webull. Each of you are positioned to have information about Webull that is not known to the markets generally, so all Webull employees are strictly prohibited from trading in $SKGR, $SKGRW, or $SKGRU. Doing so may be a violation of insider trading laws and may carry severe legal consequences. If you have any questions about trading restrictions, please reach out to your local compliance team.&#10;&#10; &#10;&#10;Thanks," />
-      <item value="份额" />
-      <item value="fen" />
-      <item value="share" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1510" />
-        <entry key="ENGLISH" value="1416" />
+        <entry key="CHINESE" value="1563" />
+        <entry key="ENGLISH" value="1469" />
       </map>
     </option>
   </component>
