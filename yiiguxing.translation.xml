@@ -81,8 +81,8 @@
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="454" />
     <option name="newTranslationDialogWidth" value="711" />
-    <option name="newTranslationDialogX" value="1022" />
-    <option name="newTranslationDialogY" value="197" />
+    <option name="newTranslationDialogX" value="1195" />
+    <option name="newTranslationDialogY" value="435" />
     <histories>
       <item value="Y:启用  N:禁用 默认N" />
       <item value="读市值时识别锁定逻辑开关" />
