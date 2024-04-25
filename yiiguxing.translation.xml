@@ -84,6 +84,8 @@
     <option name="newTranslationDialogX" value="1022" />
     <option name="newTranslationDialogY" value="197" />
     <histories>
+      <item value="Y:启用  N:禁用 默认N" />
+      <item value="读市值时识别锁定逻辑开关" />
       <item value="前置任务未处理完" />
       <item value="Prerequisite" />
       <item value="前置任务未chu'li" />
@@ -132,8 +134,6 @@
       <item value="人工操作" />
       <item value="人工" />
       <item value="sh" />
-      <item value="DT、持仓标签等功能验证，需要查询线上数据" />
-      <item value="Relevant matters have been handed over" />
     </histories>
     <option name="languageScores">
       <map>
