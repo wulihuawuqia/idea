@@ -84,6 +84,7 @@
     <option name="newTranslationDialogX" value="1195" />
     <option name="newTranslationDialogY" value="435" />
     <histories>
+      <item value="contractDeliverable" />
       <item value="Y:启用  N:禁用 默认N" />
       <item value="读市值时识别锁定逻辑开关" />
       <item value="前置任务未处理完" />
@@ -133,11 +134,10 @@
       <item value="manual operation" />
       <item value="人工操作" />
       <item value="人工" />
-      <item value="sh" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1583" />
+        <entry key="CHINESE" value="1584" />
         <entry key="ENGLISH" value="1488" />
       </map>
     </option>
