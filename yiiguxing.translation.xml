@@ -81,8 +81,8 @@
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="454" />
     <option name="newTranslationDialogWidth" value="711" />
-    <option name="newTranslationDialogX" value="1195" />
-    <option name="newTranslationDialogY" value="435" />
+    <option name="newTranslationDialogX" value="1120" />
+    <option name="newTranslationDialogY" value="334" />
     <histories>
       <item value="contractDeliverable" />
       <item value="Y:启用  N:禁用 默认N" />
