@@ -84,6 +84,7 @@
     <option name="newTranslationDialogX" value="1120" />
     <option name="newTranslationDialogY" value="334" />
     <histories>
+      <item value="getBalanceInfoWithNoIO" />
       <item value="Sync" />
       <item value="contractDeliverable" />
       <item value="Y:启用  N:禁用 默认N" />
@@ -133,11 +134,10 @@
       <item value="漏洞sb" />
       <item value="ci&#10;" />
       <item value="manual operation" />
-      <item value="人工操作" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1585" />
+        <entry key="CHINESE" value="1586" />
         <entry key="ENGLISH" value="1488" />
       </map>
     </option>
