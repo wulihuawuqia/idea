@@ -84,6 +84,14 @@
     <option name="newTranslationDialogX" value="1120" />
     <option name="newTranslationDialogY" value="334" />
     <histories>
+      <item value="Filed" />
+      <item value="fe" />
+      <item value="f" />
+      <item value="field" />
+      <item value="fi" />
+      <item value="feild" />
+      <item value="属性" />
+      <item value="Field" />
       <item value="needCalc" />
       <item value="needCa" />
       <item value="need" />
@@ -126,19 +134,11 @@
       <item value="Debit Spreads" />
       <item value="Spreads" />
       <item value="calendar" />
-      <item value="diagonal" />
-      <item value="start" />
-      <item value="reciver" />
-      <item value="PENDING" />
-      <item value="Corver" />
-      <item value="迁移" />
-      <item value="查询WF交易信息出入金记录" />
-      <item value="ADVISOR" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1627" />
-        <entry key="ENGLISH" value="1526" />
+        <entry key="CHINESE" value="1654" />
+        <entry key="ENGLISH" value="1550" />
       </map>
     </option>
   </component>
