@@ -84,6 +84,7 @@
     <option name="newTranslationDialogX" value="1120" />
     <option name="newTranslationDialogY" value="334" />
     <histories>
+      <item value="finAccountIds size must less" />
       <item value="Filed" />
       <item value="fe" />
       <item value="f" />
@@ -133,11 +134,10 @@
       <item value="frozen" />
       <item value="Debit Spreads" />
       <item value="Spreads" />
-      <item value="calendar" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1654" />
+        <entry key="CHINESE" value="1655" />
         <entry key="ENGLISH" value="1550" />
       </map>
     </option>
