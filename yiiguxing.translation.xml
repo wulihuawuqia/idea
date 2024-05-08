@@ -84,6 +84,7 @@
     <option name="newTranslationDialogX" value="1120" />
     <option name="newTranslationDialogY" value="334" />
     <histories>
+      <item value="slot" />
       <item value="finAccountIds size must less" />
       <item value="Filed" />
       <item value="fe" />
@@ -133,11 +134,10 @@
       <item value="Pipeline aborted due to quality gate failure: ERROR" />
       <item value="frozen" />
       <item value="Debit Spreads" />
-      <item value="Spreads" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1655" />
+        <entry key="CHINESE" value="1656" />
         <entry key="ENGLISH" value="1550" />
       </map>
     </option>
