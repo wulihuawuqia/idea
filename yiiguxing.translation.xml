@@ -84,6 +84,13 @@
     <option name="newTranslationDialogX" value="1120" />
     <option name="newTranslationDialogY" value="334" />
     <histories>
+      <item value="Summary" />
+      <item value="Sum" />
+      <item value="Sume" />
+      <item value="Sumery" />
+      <item value="Sumer" />
+      <item value="聚合" />
+      <item value="JU" />
       <item value="slot" />
       <item value="finAccountIds size must less" />
       <item value="Filed" />
@@ -127,18 +134,11 @@
       <item value="REPLENISH" />
       <item value="Finish" />
       <item value="Fin" />
-      <item value="Replenish" />
-      <item value="补充" />
-      <item value="兜底" />
-      <item value="dou" />
-      <item value="Pipeline aborted due to quality gate failure: ERROR" />
-      <item value="frozen" />
-      <item value="Debit Spreads" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1656" />
-        <entry key="ENGLISH" value="1550" />
+        <entry key="CHINESE" value="1687" />
+        <entry key="ENGLISH" value="1580" />
       </map>
     </option>
   </component>

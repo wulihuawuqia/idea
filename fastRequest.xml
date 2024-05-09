@@ -326,7 +326,7 @@
       </list>
     </option>
     <option name="enableEnv" value="pre000" />
-    <option name="enableProject" value="trade-assets-common" />
+    <option name="enableProject" value="trade-assets-api" />
     <option name="envList">
       <list>
         <option value="dev" />
@@ -707,7 +707,7 @@
         </YearStatistics>
         <YearStatistics>
           <option name="totalActionCount" value="105" />
-          <option name="totalRocketCount" value="134" />
+          <option name="totalRocketCount" value="135" />
           <option name="year" value="2024" />
         </YearStatistics>
       </list>
