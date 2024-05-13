@@ -84,6 +84,7 @@
     <option name="newTranslationDialogX" value="1119" />
     <option name="newTranslationDialogY" value="236" />
     <histories>
+      <item value="已经" />
       <item value="UnderlyingAmount" />
       <item value="Underlying" />
       <item value="Underlying&#10;" />
@@ -133,12 +134,11 @@
       <item value="前置任务未处理完" />
       <item value="Prerequisite" />
       <item value="前置任务未chu'li" />
-      <item value="前置任务wei" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1738" />
-        <entry key="ENGLISH" value="1626" />
+        <entry key="CHINESE" value="1745" />
+        <entry key="ENGLISH" value="1633" />
       </map>
     </option>
   </component>
