@@ -84,6 +84,7 @@
     <option name="newTranslationDialogX" value="1119" />
     <option name="newTranslationDialogY" value="236" />
     <histories>
+      <item value="白名单" />
       <item value="Non-terminating decimal expansion; no exact representable decimal result." />
       <item value="已经" />
       <item value="UnderlyingAmount" />
@@ -133,12 +134,11 @@
       <item value="Y:启用  N:禁用 默认N" />
       <item value="读市值时识别锁定逻辑开关" />
       <item value="前置任务未处理完" />
-      <item value="Prerequisite" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1746" />
-        <entry key="ENGLISH" value="1633" />
+        <entry key="CHINESE" value="1757" />
+        <entry key="ENGLISH" value="1644" />
       </map>
     </option>
   </component>
