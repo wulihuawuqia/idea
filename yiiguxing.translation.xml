@@ -84,6 +84,8 @@
     <option name="newTranslationDialogX" value="1119" />
     <option name="newTranslationDialogY" value="236" />
     <histories>
+      <item value="24" />
+      <item value="defaultExpectedInsertions" />
       <item value="忽略" />
       <item value="hu'l" />
       <item value="省略" />
@@ -132,13 +134,11 @@
       <item value="slot" />
       <item value="finAccountIds size must less" />
       <item value="Filed" />
-      <item value="fe" />
-      <item value="f" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1891" />
-        <entry key="ENGLISH" value="1778" />
+        <entry key="CHINESE" value="1893" />
+        <entry key="ENGLISH" value="1779" />
       </map>
     </option>
   </component>
