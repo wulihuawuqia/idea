@@ -84,6 +84,15 @@
     <option name="newTranslationDialogX" value="1119" />
     <option name="newTranslationDialogY" value="236" />
     <histories>
+      <item value="Accurate compare" />
+      <item value="Accurate compar" />
+      <item value="Accurate comparison" />
+      <item value="Accurate " />
+      <item value="精确对比" />
+      <item value="精确" />
+      <item value="mi" />
+      <item value="精度" />
+      <item value="jing" />
       <item value="刷新" />
       <item value="closeCacheRefrash" />
       <item value="i" />
@@ -125,20 +134,11 @@
       <item value="under" />
       <item value="un" />
       <item value="基础" />
-      <item value="j" />
-      <item value="底层" />
-      <item value="do" />
-      <item value="Summary" />
-      <item value="Sum" />
-      <item value="Sume" />
-      <item value="Sumery" />
-      <item value="Sumer" />
-      <item value="聚合" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1914" />
-        <entry key="ENGLISH" value="1800" />
+        <entry key="CHINESE" value="1945" />
+        <entry key="ENGLISH" value="1831" />
       </map>
     </option>
   </component>
