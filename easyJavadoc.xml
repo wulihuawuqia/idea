@@ -13,6 +13,11 @@
             <map />
           </value>
         </entry>
+        <entry key="java-diff-knife">
+          <value>
+            <map />
+          </value>
+        </entry>
         <entry key="leetcode" />
         <entry key="natrade-app" />
         <entry key="natrade-assets" />
