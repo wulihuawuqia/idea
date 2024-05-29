@@ -84,6 +84,15 @@
     <option name="newTranslationDialogX" value="1119" />
     <option name="newTranslationDialogY" value="236" />
     <histories>
+      <item value="时延" />
+      <item value="时yan" />
+      <item value="shi" />
+      <item value="shi'yan" />
+      <item value="延时" />
+      <item value="yan'shi" />
+      <item value="延迟" />
+      <item value="\" />
+      <item value="methodLatecy" />
       <item value="Accurate compare" />
       <item value="Accurate compar" />
       <item value="Accurate comparison" />
@@ -125,20 +134,11 @@
       <item value="Underlying&#10;" />
       <item value="Underly" />
       <item value="UnderlyAmount" />
-      <item value="UInderlyAmount" />
-      <item value="underlyAmount" />
-      <item value="underly" />
-      <item value="underlying" />
-      <item value="unde" />
-      <item value="underler" />
-      <item value="under" />
-      <item value="un" />
-      <item value="基础" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1945" />
-        <entry key="ENGLISH" value="1831" />
+        <entry key="CHINESE" value="1994" />
+        <entry key="ENGLISH" value="1880" />
       </map>
     </option>
   </component>
