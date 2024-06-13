@@ -84,6 +84,10 @@
     <option name="newTranslationDialogX" value="1119" />
     <option name="newTranslationDialogY" value="236" />
     <histories>
+      <item value="I have available funds to trade but it’s saying that I don’t have funds I need this fixed asap&#10;" />
+      <item value="Dear Valued Client,&#10;&#10;All our customer service agents are working diligently to respond to your inquiries and will respond as quickly as we can. We appreciate your patience and we thank you for being a Webull client!" />
+      <item value="Service representative is changed by Flora:nobody-&gt;Flora" />
+      <item value="This is significantly hindering my ability to trade." />
       <item value="灰度 拓展" />
       <item value="灰度 tuo" />
       <item value="灰度 " />
@@ -130,15 +134,11 @@
       <item value="sheng" />
       <item value="h" />
       <item value="inegore" />
-      <item value="扩容计划恢复" />
-      <item value="扩容计划ch" />
-      <item value="扩容计划" />
-      <item value="扩容计划hui" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2055" />
-        <entry key="ENGLISH" value="1941" />
+        <entry key="CHINESE" value="2059" />
+        <entry key="ENGLISH" value="1944" />
       </map>
     </option>
   </component>
