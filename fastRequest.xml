@@ -325,9 +325,9 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="dc.core.r001.trade.account.service" />
-    <option name="enableEnv" value="001" />
-    <option name="enableProject" value="trade-account-service" />
+    <option name="domain" value="dc.core1.trade.assets.service:7848" />
+    <option name="enableEnv" value="pre000" />
+    <option name="enableProject" value="trade-assets-service" />
     <option name="envList">
       <list>
         <option value="dev" />
