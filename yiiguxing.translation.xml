@@ -84,6 +84,10 @@
     <option name="newTranslationDialogX" value="1119" />
     <option name="newTranslationDialogY" value="236" />
     <histories>
+      <item value="cache penetration" />
+      <item value="缓存穿透" />
+      <item value="缓存击穿" />
+      <item value="缓存ji'chuan" />
       <item value="Alerts Firing&#10;sort_desc(sum(sum_over_time(ALERTS{alertstate=&quot;firing&quot;}[24h])) by (alertname))&#10;Sums up the alerts that have been firing over the last 24 hours." />
       <item value="I have available funds to trade but it’s saying that I don’t have funds I need this fixed asap&#10;" />
       <item value="Dear Valued Client,&#10;&#10;All our customer service agents are working diligently to respond to your inquiries and will respond as quickly as we can. We appreciate your patience and we thank you for being a Webull client!" />
@@ -130,15 +134,11 @@
       <item value="hu'l" />
       <item value="省略" />
       <item value="shen'nue" />
-      <item value="she" />
-      <item value="sheg'nnue" />
-      <item value="sheng" />
-      <item value="h" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2060" />
-        <entry key="ENGLISH" value="1944" />
+        <entry key="CHINESE" value="2072" />
+        <entry key="ENGLISH" value="1955" />
       </map>
     </option>
   </component>
